@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Invite your team"
+    Link="/Content/GettingStarted/start-invite.htm" />
+  <TocEntry
+    Title="Configure general settings"
+    Link="/Content/GettingStarted/start-config-general.htm" />
+  <TocEntry
+    Title="Configure billing settings"
+    Link="/Content/GettingStarted/start-config-billing.htm" />
+  <TocEntry
+    Title="Configure marketplace functionality"
+    Link="/Content/GettingStarted/start-config-marketplace.htm" />
+  <TocEntry
+    Title="Configure the marketplace user interface"
+    Link="/Content/GettingStarted/start-config-UI.htm" />
+  <TocEntry
+    Title="Merchandize products"
+    Link="/Content/GettingStarted/start-merchandize.htm" />
+  <TocEntry
+    Title="Sell third-party products"
+    Link="/Content/GettingStarted/start-sell-3P-products.htm" />
+  <TocEntry
+    Title="Sell your own products"
+    Link="/Content/GettingStarted/start-sell-your-products.htm" />
+</CatapultToc>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Overview"
+    Link="/Content/DevCenter/dev-overview.htm" />
+  <TocEntry
+    Title="Dashboard"
+    Link="/Content/DevCenter/dev-dashboard.htm" />
+  <TocEntry
+    Title="Products"
+    Link="/Content/DevCenter/dev-products.htm" />
+  <TocEntry
+    Title="Bills"
+    Link="/Content/DevCenter/dev-bills.htm" />
+  <TocEntry
+    Title="Customers"
+    Link="/Content/DevCenter/dev-customers.htm" />
+  <TocEntry
+    Title="Integration events"
+    Link="/Content/DevCenter/dev-integration.htm" />
+  <TocEntry
+    Title="Settings"
+    Link="/Content/DevCenter/dev-settings.htm" />
+</CatapultToc>

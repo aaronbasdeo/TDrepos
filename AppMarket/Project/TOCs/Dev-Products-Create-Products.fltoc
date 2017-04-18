@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Dev-Products-Create-Products" Link="/Content/DevCenter/Dev-Products-Create-Products.html" />
+    <TocEntry Title="Dev-Products-EditDeviceSettings-Create-Prod-Versions" Link="/Content/DevCenter/Dev-Products-EditDeviceSettings-Create-Prod-Versions.html" />
+    <TocEntry Title="Dev-Products-EditEditionsPricing-Add-Add-onOffering" Link="/Content/DevCenter/Dev-Products-EditEditionsPricing-Add-Add-onOffering.html" />
+    <TocEntry Title="Dev-Products-EditEditionsPricing-Add-Editions" Link="/Content/DevCenter/Dev-Products-EditEditionsPricing-Add-Editions.html" />
+    <TocEntry Title="Dev-Products-EditEditionsPricing-Manage-Add-on" Link="/Content/DevCenter/Dev-Products-EditEditionsPricing-Manage-Add-on.html" />
+    <TocEntry Title="Dev-Products-EditEditionsPricing-Manage-Editions" Link="/Content/DevCenter/Dev-Products-EditEditionsPricing-Manage-Editions.html" />
+    <TocEntry Title="Dev-Products-EditEditionsPricing-Manage-Shared-Features" Link="/Content/DevCenter/Dev-Products-EditEditionsPricing-Manage-Shared-Features.html" />
+    <TocEntry Title="Dev-Products-EditEditionsPricing-Payment-Plans-Explained" Link="/Content/DevCenter/Dev-Products-EditEditionsPricing-Payment-Plans-Explained.html" />
+    <TocEntry Title="Dev-Products-EditProdBrand-Add-Features" Link="/Content/DevCenter/Dev-Products-EditProdBrand-Add-Features.html" />
+    <TocEntry Title="Dev-Products-EditProdBrand-Config-Media-Sources" Link="/Content/DevCenter/Dev-Products-EditProdBrand-Config-Media-Sources.html" />
+    <TocEntry Title="Dev-Products-EditProdBrand-Manage-Features" Link="/Content/DevCenter/Dev-Products-EditProdBrand-Manage-Features.html" />
+    <TocEntry Title="Dev-Products-EditProdBrand-Manage-Listing-Info" Link="/Content/DevCenter/Dev-Products-EditProdBrand-Manage-Listing-Info.html" />
+    <TocEntry Title="Dev-Products-EditProdBrand-Manage-Profile-Info" Link="/Content/DevCenter/Dev-Products-EditProdBrand-Manage-Profile-Info.html" />
+    <TocEntry Title="Dev-Products-EditProdBrand-Manage-Resources" Link="/Content/DevCenter/Dev-Products-EditProdBrand-Manage-Resources.html" />
+    <TocEntry Title="Dev-Products-EditProdBrand-Manage-Support-Info" Link="/Content/DevCenter/Dev-Products-EditProdBrand-Manage-Support-Info.html" />
+    <TocEntry Title="Dev-Products-Overview" Link="/Content/DevCenter/Dev-Products-Overview.html" />
+</CatapultToc>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Overview"
+    Link="/Content/AppManager/manager-overview.htm" />
+  <TocEntry
+    Title="Dashboard"
+    Link="/Content/AppManager/manager-dashboard.htm" />
+  <TocEntry
+    Title="Applications"
+    Link="/Content/AppManager/manager-applications.htm" />
+  <TocEntry
+    Title="Users"
+    Link="/Content/AppManager/manager-users.htm" />
+  <TocEntry
+    Title="Assign apps"
+    Link="/Content/AppManager/manager-assign-apps.htm" />
+  <TocEntry
+    Title="Billing"
+    Link="/Content/AppManager/manager-billing.htm" />
+  <TocEntry
+    Title="Company settings"
+    Link="/Content/AppManager/manager-company-settings.htm" />
+</CatapultToc>

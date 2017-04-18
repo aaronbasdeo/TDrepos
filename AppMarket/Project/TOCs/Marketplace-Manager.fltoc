@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Overview"
+    Link="/Content/MarketplaceManager/mktplc-mgr-overview.htm"></TocEntry>
+  <TocEntry
+    Title="Marketplace"
+    Link="/Content/MarketplaceManager/mktplc-mgr-marketplace.htm">
+    <TocEntry
+      Title="myMktplDashboard"
+      Link="/Content/MarketplaceManager/myMktplDashboard.html" />
+  </TocEntry>
+  <TocEntry
+    Title="Products"
+    Link="/Content/MarketplaceManager/mktplc-mgr-products.htm"></TocEntry>
+  <TocEntry
+    Title="Settings"
+    Link="/Content/MarketplaceManager/mktplc-mgr-settings.htm" />
+</CatapultToc>

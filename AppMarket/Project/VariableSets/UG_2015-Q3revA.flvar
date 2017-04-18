@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="Chapter Title Name">Preface</Variable>
+  <Variable
+    Name="nonbreaking hyphen">‑</Variable>
+  <Variable
+    Name="nonbreaking forward-slash (/)">⁄</Variable>
+  <Variable
+    Name="RevisionID">2016-Q3  |  Rev. A  |  Sep. 2</Variable>
+  <Variable
+    Name="DocumentType">CHAPTER</Variable>
+</CatapultVariableSet>

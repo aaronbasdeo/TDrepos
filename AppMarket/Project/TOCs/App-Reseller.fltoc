@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Overview"
+    Link="/Content/AppReseller/reseller-overview.htm" />
+  <TocEntry
+    Title="Reseller"
+    Link="/Content/AppReseller/reseller-reseller.htm" />
+  <TocEntry
+    Title="Deal management"
+    Link="/Content/AppReseller/reseller-deal-mgmt.htm" />
+  <TocEntry
+    Title="Reseller manager"
+    Link="/Content/AppReseller/reseller-reseller-manager.htm" />
+  <TocEntry
+    Title="Deal management"
+    Link="/Content/AppReseller/reseller-mgr-deal-management.htm" />
+</CatapultToc>

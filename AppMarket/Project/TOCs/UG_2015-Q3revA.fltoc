@@ -1,0 +1,2044 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc>
+  <TocEntry
+    Title="preface"
+    Link="/Content/UG_2015-Q3revA/preface.htm#preface_369060257_1215534">
+    <TocEntry
+      Title="Intended audiences"
+      Link="/Content/UG_2015-Q3revA/Intended_audiences.htm#preface_369060257_1215553" />
+    <TocEntry
+      Title="How to use this guide"
+      Link="/Content/UG_2015-Q3revA/How_to_use_this_guide.htm#preface_369060257_1215559">
+      <TocEntry
+        Title="Organization"
+        Link="/Content/UG_2015-Q3revA/Organization.htm#preface_369060257_1215578">
+        <TocEntry
+          Title="Book-level organization"
+          Link="/Content/UG_2015-Q3revA/Book_level_organization.htm#preface_369060257_1215592" />
+        <TocEntry
+          Title="Chapter-level organization"
+          Link="/Content/UG_2015-Q3revA/Chapter_level_organization.htm#preface_369060257_1215597" />
+        <TocEntry
+          Title="Topic-level organization"
+          Link="/Content/UG_2015-Q3revA/Topic_level_organization.htm#preface_369060257_1215603" />
+      </TocEntry>
+      <TocEntry
+        Title="Signposting"
+        Link="/Content/UG_2015-Q3revA/Signposting.htm#preface_369060257_1215607" />
+      <TocEntry
+        Title="Text conventions"
+        Link="/Content/UG_2015-Q3revA/Text_conventions.htm#preface_369060257_1215683">
+        <TocEntry
+          Title="Breadcrumbs"
+          Link="/Content/UG_2015-Q3revA/Breadcrumbs.htm#preface_369060257_1358756" />
+        <TocEntry
+          Title="Sample code or user input"
+          Link="/Content/UG_2015-Q3revA/Sample_code_or_user_input.htm#preface_369060257_1358785" />
+        <TocEntry
+          Title="User role names"
+          Link="/Content/UG_2015-Q3revA/User_role_names.htm#preface_369060257_1358818" />
+      </TocEntry>
+      <TocEntry
+        Title="Information findability"
+        Link="/Content/UG_2015-Q3revA/Information_findability.htm#preface_369060257_1215685" />
+    </TocEntry>
+    <TocEntry
+      Title="Limitations of this guide"
+      Link="/Content/UG_2015-Q3revA/Limitations_of_this_guide.htm#preface_369060257_1215692">
+      <TocEntry
+        Title="Quarterly distribution schedule for major revisions"
+        Link="/Content/UG_2015-Q3revA/Quarterly_distribution_schedule_for_major_revision.htm#preface_369060257_1215718" />
+      <TocEntry
+        Title="Registration, activation, and login workflows can differ"
+        Link="/Content/UG_2015-Q3revA/Registration__activation__and_login_workflows_can_.htm#preface_369060257_1215723" />
+      <TocEntry
+        Title="Any feature label, location, authorization, prerequisites, or operation can differ"
+        Link="/Content/UG_2015-Q3revA/Any_feature_label__location__authorization__prereq.htm#preface_369060257_1215726" />
+      <TocEntry
+        Title="User roles can differ"
+        Link="/Content/UG_2015-Q3revA/User_roles_can_differ.htm#preface_369060257_1215734" />
+      <TocEntry
+        Title="Navigation paths can differ"
+        Link="/Content/UG_2015-Q3revA/Navigation_paths_can_differ.htm#preface_369060257_1215742" />
+      <TocEntry
+        Title="Custom-built stores have novel UI standards and patterns"
+        Link="/Content/UG_2015-Q3revA/Custom_built_stores_have_novel_UI_standards_and_pa.htm#preface_369060257_1215749" />
+    </TocEntry>
+    <TocEntry
+      Title="About us"
+      Link="/Content/UG_2015-Q3revA/About_us.htm#preface_369060257_1215752" />
+  </TocEntry>
+  <TocEntry
+    Title="chapter 1"
+    Link="/Content/UG_2015-Q3revA/introduction.htm#introduction_243193183_1176109">
+    <TocEntry
+      Title="XaaS"
+      Link="/Content/UG_2015-Q3revA/Glossary.htm#introduction_243193183_1323728">
+      <TocEntry
+        Title="Concepts"
+        Link="/Content/UG_2015-Q3revA/Glossary.htm#introduction_243193183_1200614">
+        <TocEntry
+          Title="Technology and platform overview"
+          Link="/Content/UG_2015-Q3revA/Technology_and_platform_overview.htm#introduction_243193183_1200615">
+          <TocEntry
+            Title="Platform fundamentals"
+            Link="/Content/UG_2015-Q3revA/Platform_fundamentals.htm#introduction_243193183_1200616" />
+          <TocEntry
+            Title="Desktop browser guidance"
+            Link="/Content/UG_2015-Q3revA/Desktop_browser_guidance.htm#introduction_243193183_1200686" />
+          <TocEntry
+            Title="Learn about our modular UI"
+            Link="/Content/UG_2015-Q3revA/Learn_about_our_modular_UI.htm#introduction_243193183_1330051">
+            <TocEntry
+              Title="Understand Marketplace"
+              Link="/Content/UG_2015-Q3revA/Understand_Marketplace.htm#introduction_243193183_1200688" />
+            <TocEntry
+              Title="Understand Application Manager"
+              Link="/Content/UG_2015-Q3revA/Understand_Application_Manager.htm#introduction_243193183_1200692" />
+            <TocEntry
+              Title="Understand Reseller Center"
+              Link="/Content/UG_2015-Q3revA/Understand_Reseller_Center.htm#introduction_243193183_1357667" />
+            <TocEntry
+              Title="Understand Reseller Management Center"
+              Link="/Content/UG_2015-Q3revA/Understand_Reseller_Management_Center.htm#introduction_243193183_1208309" />
+            <TocEntry
+              Title="Understand Marketplace Manager"
+              Link="/Content/UG_2015-Q3revA/Understand_Marketplace_Manager.htm#introduction_243193183_1200704" />
+            <TocEntry
+              Title="Understand Network Manager"
+              Link="/Content/UG_2015-Q3revA/Understand_Network_Manager.htm#introduction_243193183_1200708" />
+            <TocEntry
+              Title="Understand Developer Center"
+              Link="/Content/UG_2015-Q3revA/Understand_Developer_Center.htm#introduction_243193183_1200712" />
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="User role basics"
+          Link="/Content/UG_2015-Q3revA/User_role_basics.htm#introduction_243193183_1200723" />
+        <TocEntry
+          Title="User roles and their scope"
+          Link="/Content/UG_2015-Q3revA/User_roles_and_their_scope.htm#introduction_243193183_1947158">
+          <TocEntry
+            Title="Unauthenticated"
+            Link="/Content/UG_2015-Q3revA/Unauthenticated.htm#introduction_243193183_1950971" />
+          <TocEntry
+            Title="Consumers"
+            Link="/Content/UG_2015-Q3revA/Consumers.htm#introduction_243193183_1950972" />
+          <TocEntry
+            Title="Vendors"
+            Link="/Content/UG_2015-Q3revA/Vendors.htm#introduction_243193183_1950973" />
+          <TocEntry
+            Title="Support staff"
+            Link="/Content/UG_2015-Q3revA/Support_staff.htm#introduction_243193183_1950974" />
+          <TocEntry
+            Title="Resellers"
+            Link="/Content/UG_2015-Q3revA/Resellers.htm#introduction_243193183_1954956" />
+          <TocEntry
+            Title="Marketplace administrators"
+            Link="/Content/UG_2015-Q3revA/Marketplace_administrators.htm#introduction_243193183_1950975" />
+        </TocEntry>
+        <TocEntry
+          Title="What nearly anyone can see on a marketplace"
+          Link="/Content/UG_2015-Q3revA/What_nearly_anyone_can_see_on_a_marketplace.htm#introduction_243193183_1200732">
+          <TocEntry
+            Title="The landing page"
+            Link="/Content/UG_2015-Q3revA/The_landing_page.htm#introduction_243193183_1200734">
+            <TocEntry
+              Title="Product listings and their carousels"
+              Link="/Content/UG_2015-Q3revA/Product_listings_and_their_carousels.htm#introduction_243193183_1200735" />
+            <TocEntry
+              Title="Product bundles"
+              Link="/Content/UG_2015-Q3revA/Product_bundles.htm#introduction_243193183_1200738" />
+            <TocEntry
+              Title="Marketplace FAQs"
+              Link="/Content/UG_2015-Q3revA/Product_bundles.htm#introduction_243193183_1200739" />
+          </TocEntry>
+          <TocEntry
+            Title="Product profile pages"
+            Link="/Content/UG_2015-Q3revA/Product_profile_pages.htm#introduction_243193183_1200741" />
+        </TocEntry>
+        <TocEntry
+          Title="User interface patterns"
+          Link="/Content/UG_2015-Q3revA/User_interface_patterns.htm#introduction_243193183_1200726">
+          <TocEntry
+            Title="Learn the basics: Tables"
+            Link="/Content/UG_2015-Q3revA/Learn_the_basics__Tables.htm#introduction_243193183_1200729">
+            <TocEntry
+              Title="Table pagination patterns"
+              Link="/Content/UG_2015-Q3revA/Table_pagination_patterns.htm#introduction_243193183_1267239" />
+            <TocEntry
+              Title="Table sorting patterns"
+              Link="/Content/UG_2015-Q3revA/Table_sorting_patterns.htm#introduction_243193183_1200727" />
+            <TocEntry
+              Title="Table searching patterns"
+              Link="/Content/UG_2015-Q3revA/Table_searching_patterns.htm#introduction_243193183_1267290" />
+            <TocEntry
+              Title="Table filtering patterns"
+              Link="/Content/UG_2015-Q3revA/Table_filtering_patterns.htm#introduction_243193183_1200728" />
+            <TocEntry
+              Title="Table record detail patterns"
+              Link="/Content/UG_2015-Q3revA/Table_record_detail_patterns.htm#introduction_243193183_1200731" />
+          </TocEntry>
+          <TocEntry
+            Title="Learn the basics: Carousels/Sliders"
+            Link="/Content/UG_2015-Q3revA/Learn_the_basics__Carousels_Sliders.htm#introduction_243193183_1200730" />
+        </TocEntry>
+        <TocEntry
+          Title="Password restrictions"
+          Link="/Content/UG_2015-Q3revA/Password_restrictions.htm#introduction_243193183_1200766">
+          <TocEntry
+            Title="Understand password policies"
+            Link="/Content/UG_2015-Q3revA/Understand_password_policies.htm#introduction_243193183_1200767" />
+          <TocEntry
+            Title="Understand password expiration behaviors"
+            Link="/Content/UG_2015-Q3revA/Understand_password_expiration_behaviors.htm#introduction_243193183_1200768" />
+        </TocEntry>
+        <TocEntry
+          Title="The purchase flow"
+          Link="/Content/UG_2015-Q3revA/The_purchase_flow.htm#introduction_243193183_1242723" />
+        <TocEntry
+          Title="The MyApps page"
+          Link="/Content/UG_2015-Q3revA/The_MyApps_page.htm#introduction_243193183_1242063" />
+      </TocEntry>
+      <TocEntry
+        Title="Procedures"
+        Link="/Content/UG_2015-Q3revA/Procedures.htm#introduction_243193183_1200752">
+        <TocEntry
+          Title="What anyone, including visitors, can do"
+          Link="/Content/UG_2015-Q3revA/What_anyone__including_visitors__can_do.htm#introduction_243193183_1200753">
+          <TocEntry
+            Title="Set your preferred language"
+            Link="/Content/UG_2015-Q3revA/Set_your_preferred_language.htm#introduction_243193183_1200755" />
+          <TocEntry
+            Title="Find products"
+            Link="/Content/UG_2015-Q3revA/Find_products.htm#introduction_243193183_1200756">
+            <TocEntry
+              Title="Browse product listings"
+              Link="/Content/UG_2015-Q3revA/Browse_product_listings.htm#introduction_243193183_1200757" />
+            <TocEntry
+              Title="Search product listings"
+              Link="/Content/UG_2015-Q3revA/Search_product_listings.htm#introduction_243193183_1200758" />
+            <TocEntry
+              Title="Filter product listings"
+              Link="/Content/UG_2015-Q3revA/Filter_product_listings.htm#introduction_243193183_1200759" />
+            <TocEntry
+              Title="Sort product listings"
+              Link="/Content/UG_2015-Q3revA/Sort_product_listings.htm#introduction_243193183_1200760" />
+            <TocEntry
+              Title="Compare product listings"
+              Link="/Content/UG_2015-Q3revA/Compare_product_listings.htm#introduction_243193183_1200761" />
+          </TocEntry>
+          <TocEntry
+            Title="Sign up to use an AppDirect-powered marketplace"
+            Link="/Content/UG_2015-Q3revA/Sign_up_to_use_an_AppDirect_powered_marketplace.htm#introduction_243193183_1200762">
+            <TocEntry
+              Title="Register as a new user"
+              Link="/Content/UG_2015-Q3revA/Register_as_a_new_user.htm#introduction_243193183_1200763" />
+            <TocEntry
+              Title="Activate your registered account"
+              Link="/Content/UG_2015-Q3revA/Activate_your_registered_account.htm#introduction_243193183_1200765" />
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="What registered users can do"
+          Link="/Content/UG_2015-Q3revA/What_registered_users_can_do.htm#introduction_243193183_1200769">
+          <TocEntry
+            Title="Log in"
+            Link="/Content/UG_2015-Q3revA/Log_in.htm#introduction_243193183_1206170">
+            <TocEntry
+              Title="Access a password-protected server"
+              Link="/Content/UG_2015-Q3revA/Access_a_password_protected_server.htm#introduction_243193183_1200770" />
+            <TocEntry
+              Title="Log in to a typical marketplace"
+              Link="/Content/UG_2015-Q3revA/Log_in_to_a_typical_marketplace.htm#introduction_243193183_1200771" />
+            <TocEntry
+              Title="Log in to a marketplace that uses external credentials (SSO)"
+              Link="/Content/UG_2015-Q3revA/Log_in_to_a_marketplace_that_uses_external_credent.htm#introduction_243193183_2152228" />
+            <TocEntry
+              Title="Log in to a marketplace that applies two-factor authentication"
+              Link="/Content/UG_2015-Q3revA/Log_in_to_a_marketplace_that_applies_two_factor_au.htm#introduction_243193183_2152236" />
+          </TocEntry>
+          <TocEntry
+            Title="Set your company context"
+            Link="/Content/UG_2015-Q3revA/Set_your_company_context.htm#introduction_243193183_1216671" />
+          <TocEntry
+            Title="Obtain products"
+            Link="/Content/UG_2015-Q3revA/Obtain_products.htm#introduction_243193183_1241895" />
+          <TocEntry
+            Title="Use your MyApps page"
+            Link="/Content/UG_2015-Q3revA/Use_your_MyApps_page.htm#introduction_243193183_1241927">
+            <TocEntry
+              Title="Work with your products in the Pending state"
+              Link="/Content/UG_2015-Q3revA/Work_with_your_products_in_the_Pending_state.htm#introduction_243193183_1312141" />
+            <TocEntry
+              Title="Work with your products in the Active state"
+              Link="/Content/UG_2015-Q3revA/Work_with_your_products_in_the_Active_state.htm#introduction_243193183_1312420" />
+            <TocEntry
+              Title="Work with your products in the Expiring state"
+              Link="/Content/UG_2015-Q3revA/Work_with_your_products_in_the_Expiring_state.htm#introduction_243193183_1312433" />
+            <TocEntry
+              Title="Work with your products in the Blocked state"
+              Link="/Content/UG_2015-Q3revA/Work_with_your_products_in_the_Blocked_state.htm#introduction_243193183_1312465" />
+          </TocEntry>
+        </TocEntry>
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="chapter 2"
+    Link="/Content/UG_2015-Q3revA/chadm-mktpl-setup.htm#chadm-mktpl-setup_1867565093_1176109">
+    <TocEntry
+      Title="Web Application (manual setup)"
+      Link="/Content/UG_2015-Q3revA/Glossary_1.htm#chadm-mktpl-setup_1867565093_1694094">
+      <TocEntry
+        Title="Concepts"
+        Link="/Content/UG_2015-Q3revA/Glossary_1.htm#chadm-mktpl-setup_1867565093_1200614">
+        <TocEntry
+          Title="Learn about operational policies and settings"
+          Link="/Content/UG_2015-Q3revA/Learn_about_operational_policies_and_settings.htm#chadm-mktpl-setup_1867565093_1861555">
+          <TocEntry
+            Title="Understand stealth mode"
+            Link="/Content/UG_2015-Q3revA/Understand_stealth_mode.htm#chadm-mktpl-setup_1867565093_1827411" />
+          <TocEntry
+            Title="Understand OpenID trusted realm editing"
+            Link="/Content/UG_2015-Q3revA/Understand_OpenID_trusted_realm_editing.htm#chadm-mktpl-setup_1867565093_1831884" />
+          <TocEntry
+            Title="Understand payment gateway editing"
+            Link="/Content/UG_2015-Q3revA/Understand_payment_gateway_editing.htm#chadm-mktpl-setup_1867565093_1839091" />
+          <TocEntry
+            Title="Understand Avatax editing &lt;&lt;SUPERUSER FEATURE&gt;&gt;"
+            Link="/Content/UG_2015-Q3revA/Understand_Avatax_editing___SUPERUSER_FEATURE__.htm#chadm-mktpl-setup_1867565093_2885643" />
+          <TocEntry
+            Title="Understand the importance of password policy"
+            Link="/Content/UG_2015-Q3revA/Understand_the_importance_of_password_policy.htm#chadm-mktpl-setup_1867565093_1836309" />
+          <TocEntry
+            Title="Understand the sitewide default user role setting"
+            Link="/Content/UG_2015-Q3revA/Understand_the_sitewide_default_user_role_setting.htm#chadm-mktpl-setup_1867565093_1830298" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about system integrations"
+          Link="/Content/UG_2015-Q3revA/Learn_about_system_integrations.htm#chadm-mktpl-setup_1867565093_1824281">
+          <TocEntry
+            Title="Understand API encryption key pair editing"
+            Link="/Content/UG_2015-Q3revA/Understand_API_encryption_key_pair_editing.htm#chadm-mktpl-setup_1867565093_1824906" />
+          <TocEntry
+            Title="Understand data migration"
+            Link="/Content/UG_2015-Q3revA/Understand_data_migration.htm#chadm-mktpl-setup_1867565093_1825169" />
+          <TocEntry
+            Title="Understand webhooks"
+            Link="/Content/UG_2015-Q3revA/Understand_webhooks.htm#chadm-mktpl-setup_1867565093_1825661" />
+          <TocEntry
+            Title="Understand Google Analytics"
+            Link="/Content/UG_2015-Q3revA/Understand_Google_Analytics.htm#chadm-mktpl-setup_1867565093_1827093" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about search engine optimization"
+          Link="/Content/UG_2015-Q3revA/Learn_about_search_engine_optimization.htm#chadm-mktpl-setup_1867565093_1831831">
+          <TocEntry
+            Title="Understand marketplace metadata"
+            Link="/Content/UG_2015-Q3revA/Understand_marketplace_metadata.htm#chadm-mktpl-setup_1867565093_1836248" />
+          <TocEntry
+            Title="Understand robots.txt"
+            Link="/Content/UG_2015-Q3revA/Understand_robots_txt.htm#chadm-mktpl-setup_1867565093_1832348" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about branding basics"
+          Link="/Content/UG_2015-Q3revA/Learn_about_branding_basics.htm#chadm-mktpl-setup_1867565093_1826345">
+          <TocEntry
+            Title="Understand where we use your marketplace name"
+            Link="/Content/UG_2015-Q3revA/Understand_where_we_use_your_marketplace_name.htm#chadm-mktpl-setup_1867565093_1816429" />
+          <TocEntry
+            Title="Understand where we use your marketplace logo"
+            Link="/Content/UG_2015-Q3revA/Understand_where_we_use_your_marketplace_logo.htm#chadm-mktpl-setup_1867565093_1826831" />
+          <TocEntry
+            Title="Understand the purpose of a favicon"
+            Link="/Content/UG_2015-Q3revA/Understand_the_purpose_of_a_favicon.htm#chadm-mktpl-setup_1867565093_1826849" />
+          <TocEntry
+            Title="Understand where we use your provider name"
+            Link="/Content/UG_2015-Q3revA/Understand_where_we_use_your_provider_name.htm#chadm-mktpl-setup_1867565093_1826765" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about notifications"
+          Link="/Content/UG_2015-Q3revA/Learn_about_notifications.htm#chadm-mktpl-setup_1867565093_1846233">
+          <TocEntry
+            Title="Understand meta-work for notifications"
+            Link="/Content/UG_2015-Q3revA/Learn_about_custom_UI_form_fields.htm#chadm-mktpl-setup_1867565093_1846355">
+            <TocEntry
+              Title="The purpose of setting a return address"
+              Link="/Content/UG_2015-Q3revA/The_purpose_of_setting_a_return_address.htm#chadm-mktpl-setup_1867565093_1826551" />
+            <TocEntry
+              Title="The purpose of setting a BCC address"
+              Link="/Content/UG_2015-Q3revA/The_purpose_of_setting_a_BCC_address.htm#chadm-mktpl-setup_1867565093_1828547" />
+            <TocEntry
+              Title="The purpose of CCing sales agents on assisted sale notification messages"
+              Link="/Content/UG_2015-Q3revA/The_purpose_of_CCing_sales_agents_on_assisted_sale.htm#chadm-mktpl-setup_1867565093_1830512" />
+          </TocEntry>
+          <TocEntry
+            Title="Understand email templates"
+            Link="/Content/UG_2015-Q3revA/Understand_email_templates.htm#chadm-mktpl-setup_1867565093_1846280" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about support resources"
+          Link="/Content/UG_2015-Q3revA/Learn_about_support_resources.htm#chadm-mktpl-setup_1867565093_1826583">
+          <TocEntry
+            Title="Understand consumer support resources"
+            Link="/Content/UG_2015-Q3revA/Understand_consumer_support_resources.htm#chadm-mktpl-setup_1867565093_1828230">
+            <TocEntry
+              Title="Why to enter a URL for consumer technical support"
+              Link="/Content/UG_2015-Q3revA/Why_to_enter_a_URL_for_consumer_technical_support.htm#chadm-mktpl-setup_1867565093_1859369" />
+            <TocEntry
+              Title="Why to enter an email address for consumer technical support"
+              Link="/Content/UG_2015-Q3revA/Why_to_enter_an_email_address_for_consumer_technic.htm#chadm-mktpl-setup_1867565093_1828304" />
+            <TocEntry
+              Title="Why to enter a phone number for consumer technical support"
+              Link="/Content/UG_2015-Q3revA/Why_to_enter_a_phone_number_for_consumer_technical.htm#chadm-mktpl-setup_1867565093_1828374" />
+            <TocEntry
+              Title="Why to enter a URL for the sitewide privacy policy"
+              Link="/Content/UG_2015-Q3revA/Why_to_enter_a_URL_for_the_sitewide_privacy_policy.htm#chadm-mktpl-setup_1867565093_1828127" />
+            <TocEntry
+              Title="Why to enter a URL for sitewide terms and conditions"
+              Link="/Content/UG_2015-Q3revA/Why_to_enter_a_URL_for_sitewide_terms_and_conditio.htm#chadm-mktpl-setup_1867565093_1826665" />
+          </TocEntry>
+          <TocEntry
+            Title="Learn about reseller support resources"
+            Link="/Content/UG_2015-Q3revA/Learn_about_reseller_support_resources.htm#chadm-mktpl-setup_1867565093_1859126">
+            <TocEntry
+              Title="Why to enter a reseller URL for terms and conditions"
+              Link="/Content/UG_2015-Q3revA/Why_to_enter_a_reseller_URL_for_terms_and_conditio.htm#chadm-mktpl-setup_1867565093_1830468" />
+            <TocEntry
+              Title="Why to enter a reseller URL for sales lead terms and conditions"
+              Link="/Content/UG_2015-Q3revA/Why_to_enter_a_reseller_URL_for_sales_lead_terms_a.htm#chadm-mktpl-setup_1867565093_1830487" />
+          </TocEntry>
+          <TocEntry
+            Title="Learn about developer support resources"
+            Link="/Content/UG_2015-Q3revA/Learn_about_developer_support_resources.htm#chadm-mktpl-setup_1867565093_1827119">
+            <TocEntry
+              Title="Why to enter an email address for developer technical support"
+              Link="/Content/UG_2015-Q3revA/Why_to_enter_an_email_address_for_developer_techni.htm#chadm-mktpl-setup_1867565093_1827771" />
+            <TocEntry
+              Title="Why to enter a URL for developer API integration documentation"
+              Link="/Content/UG_2015-Q3revA/Why_to_enter_a_URL_for_developer_API_integration_d.htm#chadm-mktpl-setup_1867565093_1827120" />
+            <TocEntry
+              Title="Why to enter a URL for developer terms and conditions"
+              Link="/Content/UG_2015-Q3revA/Why_to_enter_a_URL_for_developer_terms_and_conditi.htm#chadm-mktpl-setup_1867565093_1827733" />
+            <TocEntry
+              Title="Why to enter a modification date for developer terms and conditions &lt;&lt;SUPERUSER FEATURE&gt;&gt;"
+              Link="/Content/UG_2015-Q3revA/Why_to_enter_a_modification_date_for_developer_ter.htm#chadm-mktpl-setup_1867565093_2885726" />
+          </TocEntry>
+          <TocEntry
+            Title="??? hide user information from other users ???"
+            Link="/Content/UG_2015-Q3revA/____hide_user_information_from_other_users____.htm#chadm-mktpl-setup_1867565093_2885737" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about invitation and activation policies"
+          Link="/Content/UG_2015-Q3revA/Learn_about_invitation_and_activation_policies.htm#chadm-mktpl-setup_1867565093_1848139">
+          <TocEntry
+            Title="Understand company administrator authority to invite and assign &lt;&lt;SUPERUSER FEATURE&gt;&gt;"
+            Link="/Content/UG_2015-Q3revA/Understand_company_administrator_authority_to_invi.htm#chadm-mktpl-setup_1867565093_2885760" />
+          <TocEntry
+            Title="Understand user notification of assisted activation &lt;&lt;SUPERUSER FEATURE&gt;&gt;"
+            Link="/Content/UG_2015-Q3revA/Understand_user_notification_of_assisted_activatio.htm#chadm-mktpl-setup_1867565093_2885770" />
+          <TocEntry
+            Title="Understand when activation collects the user’s phone number"
+            Link="/Content/UG_2015-Q3revA/Understand_when_activation_collects_the_user_s_pho.htm#chadm-mktpl-setup_1867565093_1829658" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about custom UI form fields"
+          Link="/Content/UG_2015-Q3revA/Learn_about_custom_UI_form_fields.htm#chadm-mktpl-setup_1867565093_1846355">
+          <TocEntry
+            Title="Understand custom fields for companies"
+            Link="/Content/UG_2015-Q3revA/Understand_custom_fields_for_companies.htm#chadm-mktpl-setup_1867565093_1846493" />
+          <TocEntry
+            Title="Understand custom fields for users"
+            Link="/Content/UG_2015-Q3revA/Understand_custom_fields_for_users.htm#chadm-mktpl-setup_1867565093_1846533" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about product acquisition policies"
+          Link="/Content/UG_2015-Q3revA/Learn_about_product_acquisition_policies.htm#chadm-mktpl-setup_1867565093_1854709">
+          <TocEntry
+            Title="Understand overriding vendor-set payment policies per edition"
+            Link="/Content/UG_2015-Q3revA/Understand_overriding_vendor_set_payment_policies_.htm#chadm-mktpl-setup_1867565093_1838598" />
+          <TocEntry
+            Title="Understand ordering authority policies"
+            Link="/Content/UG_2015-Q3revA/Understand_ordering_authority_policies.htm#chadm-mktpl-setup_1867565093_1833147">
+            <TocEntry
+              Title="Why to restrict who can place orders"
+              Link="/Content/UG_2015-Q3revA/Why_to_restrict_who_can_place_orders.htm#chadm-mktpl-setup_1867565093_1857878" />
+          </TocEntry>
+          <TocEntry
+            Title="Understand credit, refund, and spending limit policies"
+            Link="/Content/UG_2015-Q3revA/Understand_credit__refund__and_spending_limit_poli.htm#chadm-mktpl-setup_1867565093_1834159">
+            <TocEntry
+              Title="Partially consumed fixed-price discounts can persist as credit"
+              Link="/Content/UG_2015-Q3revA/Partially_consumed_fixed_price_discounts_can_persi.htm#chadm-mktpl-setup_1867565093_1857954" />
+            <TocEntry
+              Title="A daily spending limit can apply per company"
+              Link="/Content/UG_2015-Q3revA/A_daily_spending_limit_can_apply_per_company.htm#chadm-mktpl-setup_1867565093_1857555" />
+            <TocEntry
+              Title="A 30-day spending limit can apply per company"
+              Link="/Content/UG_2015-Q3revA/A_30_day_spending_limit_can_apply_per_company.htm#chadm-mktpl-setup_1867565093_1833125" />
+          </TocEntry>
+          <TocEntry
+            Title="Understand grace periods"
+            Link="/Content/UG_2015-Q3revA/Understand_grace_periods.htm#chadm-mktpl-setup_1867565093_1838422">
+            <TocEntry
+              Title="A maximum domain grace period can apply sitewide"
+              Link="/Content/UG_2015-Q3revA/A_maximum_domain_grace_period_can_apply_sitewide.htm#chadm-mktpl-setup_1867565093_1857582" />
+            <TocEntry
+              Title="A maximum late payment grace period can apply sitewide"
+              Link="/Content/UG_2015-Q3revA/A_maximum_late_payment_grace_period_can_apply_site.htm#chadm-mktpl-setup_1867565093_1838400" />
+          </TocEntry>
+          <TocEntry
+            Title="Understand billing details collection policies"
+            Link="/Content/UG_2015-Q3revA/Understand_billing_details_collection_policies.htm#chadm-mktpl-setup_1867565093_1838554">
+            <TocEntry
+              Title="Why to collect billing details for free-trial products"
+              Link="/Content/UG_2015-Q3revA/Why_to_collect_billing_details_for_free_trial_prod.htm#chadm-mktpl-setup_1867565093_1857006" />
+            <TocEntry
+              Title="Why to collect billing details for non-billable products"
+              Link="/Content/UG_2015-Q3revA/Why_to_collect_billing_details_for_non_billable_pr.htm#chadm-mktpl-setup_1867565093_1838532" />
+            <TocEntry
+              Title="Why to collect billing details for fully discounted products"
+              Link="/Content/UG_2015-Q3revA/Why_to_collect_billing_details_for_fully_discounte.htm#chadm-mktpl-setup_1867565093_1838620" />
+          </TocEntry>
+          <TocEntry
+            Title="Understand one-click policies"
+            Link="/Content/UG_2015-Q3revA/Understand_one_click_policies.htm#chadm-mktpl-setup_1867565093_1857079">
+            <TocEntry
+              Title="One-click access can apply to no-cost products"
+              Link="/Content/UG_2015-Q3revA/One_click_access_can_apply_to_no_cost_products.htm#chadm-mktpl-setup_1867565093_1838466" />
+            <TocEntry
+              Title="Vendor clickwrap prompts can apply to one-click products"
+              Link="/Content/UG_2015-Q3revA/Vendor_clickwrap_prompts_can_apply_to_one_click_pr.htm#chadm-mktpl-setup_1867565093_1876401" />
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="Learn about product marketing profile policies"
+          Link="/Content/UG_2015-Q3revA/Learn_about_product_marketing_profile_policies.htm#chadm-mktpl-setup_1867565093_1829747">
+          <TocEntry
+            Title="Product marketing profiles can hide support content"
+            Link="/Content/UG_2015-Q3revA/Product_marketing_profiles_can_hide_support_conten.htm#chadm-mktpl-setup_1867565093_1865636" />
+          <TocEntry
+            Title="Product marketing profiles can hide social media links"
+            Link="/Content/UG_2015-Q3revA/Product_marketing_profiles_can_hide_social_media_l.htm#chadm-mktpl-setup_1867565093_1830276" />
+          <TocEntry
+            Title="Product marketing profiles can hide product ratings"
+            Link="/Content/UG_2015-Q3revA/Product_marketing_profiles_can_hide_product_rating.htm#chadm-mktpl-setup_1867565093_1829263" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about product contract policies"
+          Link="/Content/UG_2015-Q3revA/Learn_about_product_contract_policies.htm#chadm-mktpl-setup_1867565093_1858684">
+          <TocEntry
+            Title="Understand product contract update policies"
+            Link="/Content/UG_2015-Q3revA/Understand_product_contract_update_policies.htm#chadm-mktpl-setup_1867565093_1856915">
+            <TocEntry
+              Title="Active subscriptions can reject updates"
+              Link="/Content/UG_2015-Q3revA/Active_subscriptions_can_reject_updates.htm#chadm-mktpl-setup_1867565093_1838958" />
+            <TocEntry
+              Title="A subscription’s original contract can lock its minimum unit count forever"
+              Link="/Content/UG_2015-Q3revA/A_subscription_s_original_contract_can_lock_its_mi.htm#chadm-mktpl-setup_1867565093_1838980" />
+          </TocEntry>
+          <TocEntry
+            Title="Understand product contract upgrade policies"
+            Link="/Content/UG_2015-Q3revA/Understand_product_contract_upgrade_policies.htm#chadm-mktpl-setup_1867565093_1856707">
+            <TocEntry
+              Title="Active subscriptions can reject upgrades"
+              Link="/Content/UG_2015-Q3revA/Active_subscriptions_can_reject_upgrades.htm#chadm-mktpl-setup_1867565093_1838892" />
+            <TocEntry
+              Title="Expired free trials can upgrade automatically to billable editions"
+              Link="/Content/UG_2015-Q3revA/Expired_free_trials_can_upgrade_automatically_to_b.htm#chadm-mktpl-setup_1867565093_1838576" />
+          </TocEntry>
+          <TocEntry
+            Title="Understand product contract downgrade policies"
+            Link="/Content/UG_2015-Q3revA/Understand_product_contract_downgrade_policies.htm#chadm-mktpl-setup_1867565093_1848158">
+            <TocEntry
+              Title="Active contracts can reject downgrades"
+              Link="/Content/UG_2015-Q3revA/Active_contracts_can_reject_downgrades.htm#chadm-mktpl-setup_1867565093_1838914" />
+            <TocEntry
+              Title="Active contracts can allow downgrades that extend their end[%=UG_2015-Q3revA.nonbreaking hyphen%]date"
+              Link="/Content/UG_2015-Q3revA/Active_contracts_can_allow_downgrades_that_extend_.htm#chadm-mktpl-setup_1867565093_1838936" />
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="Learn about public FAQs"
+          Link="/Content/UG_2015-Q3revA/Learn_about_public_FAQs.htm#chadm-mktpl-setup_1867565093_1846086" />
+        <TocEntry
+          Title="Learn about user content policies"
+          Link="/Content/UG_2015-Q3revA/Learn_about_user_content_policies.htm#chadm-mktpl-setup_1867565093_1856479">
+          <TocEntry
+            Title="Understand user content approvals"
+            Link="/Content/UG_2015-Q3revA/Understand_user_content_approvals.htm#chadm-mktpl-setup_1867565093_1829452" />
+          <TocEntry
+            Title="Understand product rating restrictions"
+            Link="/Content/UG_2015-Q3revA/Understand_product_rating_restrictions.htm#chadm-mktpl-setup_1867565093_1829319" />
+          <TocEntry
+            Title="Understand product question visibility"
+            Link="/Content/UG_2015-Q3revA/Understand_product_question_visibility.htm#chadm-mktpl-setup_1867565093_1829362" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about sitewide UX"
+          Link="/Content/UG_2015-Q3revA/Learn_about_sitewide_UX.htm#chadm-mktpl-setup_1867565093_1998122">
+          <TocEntry
+            Title="Understand options to update marketplace UX"
+            Link="/Content/UG_2015-Q3revA/Understand_options_to_update_marketplace_UX.htm#chadm-mktpl-setup_1867565093_2304992" />
+          <TocEntry
+            Title="Understand storefront layout options"
+            Link="/Content/UG_2015-Q3revA/Understand_storefront_layout_options.htm#chadm-mktpl-setup_1867565093_1369363" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about company-level UX"
+          Link="/Content/UG_2015-Q3revA/Learn_about_company_level_UX.htm#chadm-mktpl-setup_1867565093_1864768">
+          <TocEntry
+            Title="Understand company administrator authority to import products &lt;&lt;ALPHA FEATURE FOR CLOUD MGMT STE&gt;&gt;"
+            Link="/Content/UG_2015-Q3revA/Understand_company_administrator_authority_to_impo.htm#chadm-mktpl-setup_1867565093_2885840" />
+          <TocEntry
+            Title="Understand employee directory UI visibility"
+            Link="/Content/UG_2015-Q3revA/Understand_employee_directory_UI_visibility.htm#chadm-mktpl-setup_1867565093_1830130" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about authority policies"
+          Link="/Content/UG_2015-Q3revA/Learn_about_authority_policies.htm#chadm-mktpl-setup_1867565093_1848180">
+          <TocEntry
+            Title="Understand the benefits of a well considered authority policy"
+            Link="/Content/UG_2015-Q3revA/Understand_the_benefits_of_a_well_considered_autho.htm#chadm-mktpl-setup_1867565093_2835034" />
+          <TocEntry
+            Title="Understand authority policies for assisted sales"
+            Link="/Content/UG_2015-Q3revA/Understand_authority_policies_for_assisted_sales.htm#chadm-mktpl-setup_1867565093_1868297">
+            <TocEntry
+              Title="Why to enable sales agent authority to bypass customer approval"
+              Link="/Content/UG_2015-Q3revA/Why_to_enable_sales_agent_authority_to_bypass_cust.htm#chadm-mktpl-setup_1867565093_1830371" />
+            <TocEntry
+              Title="Why to enable sales agent authority to collect manual payments &lt;&lt;SUPERUSER FEATURE&gt;&gt;"
+              Link="/Content/UG_2015-Q3revA/Why_to_enable_sales_agent_authority_to_collect_man.htm#chadm-mktpl-setup_1867565093_2885867" />
+            <TocEntry
+              Title="Why to enable sales agent authority to collect CVV details &lt;&lt;SUPERUSER FEATURE&gt;&gt;"
+              Link="/Content/UG_2015-Q3revA/Why_to_enable_sales_agent_authority_to_collect_CVV.htm#chadm-mktpl-setup_1867565093_2885878" />
+            <TocEntry
+              Title="Why to enable sales agent authority to enter payment details"
+              Link="/Content/UG_2015-Q3revA/Why_to_enable_sales_agent_authority_to_enter_payme.htm#chadm-mktpl-setup_1867565093_1830446" />
+          </TocEntry>
+          <TocEntry
+            Title="Understand policies to constrain resellers"
+            Link="/Content/UG_2015-Q3revA/Understand_policies_to_constrain_resellers.htm#chadm-mktpl-setup_1867565093_1868141">
+            <TocEntry
+              Title="Why let resellers join linked companies?"
+              Link="/Content/UG_2015-Q3revA/Why_let_resellers_join_linked_companies_.htm#chadm-mktpl-setup_1867565093_1832906" />
+            <TocEntry
+              Title="Why let resellers disable linked companies?"
+              Link="/Content/UG_2015-Q3revA/Why_let_resellers_disable_linked_companies_.htm#chadm-mktpl-setup_1867565093_1832881" />
+            <TocEntry
+              Title="Why let resellers create sales quotes?"
+              Link="/Content/UG_2015-Q3revA/Why_let_resellers_create_sales_quotes_.htm#chadm-mktpl-setup_1867565093_1832862" />
+            <TocEntry
+              Title="Why let resellers cancel linked company subscriptions?"
+              Link="/Content/UG_2015-Q3revA/Why_let_resellers_cancel_linked_company_subscripti.htm#chadm-mktpl-setup_1867565093_1832840" />
+            <TocEntry
+              Title="Why let resellers disable linked users’ access?"
+              Link="/Content/UG_2015-Q3revA/Why_let_resellers_disable_linked_users__access_.htm#chadm-mktpl-setup_1867565093_1832810" />
+          </TocEntry>
+          <TocEntry
+            Title="Understand policies to constrain sales support representatives"
+            Link="/Content/UG_2015-Q3revA/Understand_policies_to_constrain_sales_support_rep.htm#chadm-mktpl-setup_1867565093_1848191">
+            <TocEntry
+              Title="Why let sales support staff disable companies?"
+              Link="/Content/UG_2015-Q3revA/Why_let_sales_support_staff_disable_companies_.htm#chadm-mktpl-setup_1867565093_1832573" />
+            <TocEntry
+              Title="Why let sales support staff create sales quotes?"
+              Link="/Content/UG_2015-Q3revA/Why_let_sales_support_staff_create_sales_quotes_.htm#chadm-mktpl-setup_1867565093_1832719" />
+            <TocEntry
+              Title="Why let sales support staff issue manual refunds?"
+              Link="/Content/UG_2015-Q3revA/Why_let_sales_support_staff_issue_manual_refunds_.htm#chadm-mktpl-setup_1867565093_1832675" />
+            <TocEntry
+              Title="Why let sales support staff cancel subscriptions?"
+              Link="/Content/UG_2015-Q3revA/Why_let_sales_support_staff_cancel_subscriptions_.htm#chadm-mktpl-setup_1867565093_1832653" />
+            <TocEntry
+              Title="Why let sales support staff see and resolve product provisioning events?"
+              Link="/Content/UG_2015-Q3revA/Why_let_sales_support_staff_see_and_resolve_produc.htm#chadm-mktpl-setup_1867565093_1832694" />
+          </TocEntry>
+          <TocEntry
+            Title="Understand policies to constrain customer support representatives"
+            Link="/Content/UG_2015-Q3revA/Understand_policies_to_constrain_customer_support_.htm#chadm-mktpl-setup_1867565093_1848198">
+            <TocEntry
+              Title="Why let customer support staff disable companies?"
+              Link="/Content/UG_2015-Q3revA/Why_let_customer_support_staff_disable_companies_.htm#chadm-mktpl-setup_1867565093_1832375" />
+            <TocEntry
+              Title="Why let customer support staff ‘View as’ for technical support?"
+              Link="/Content/UG_2015-Q3revA/Why_let_customer_support_staff__View_as__for_techn.htm#chadm-mktpl-setup_1867565093_1831909" />
+            <TocEntry
+              Title="Why let customer support staff issue manual refunds?"
+              Link="/Content/UG_2015-Q3revA/Why_let_customer_support_staff_issue_manual_refund.htm#chadm-mktpl-setup_1867565093_1832433" />
+            <TocEntry
+              Title="Why let customer support staff cancel subscriptions?"
+              Link="/Content/UG_2015-Q3revA/Why_let_customer_support_staff_cancel_subscription.htm#chadm-mktpl-setup_1867565093_1832452" />
+          </TocEntry>
+          <TocEntry
+            Title="Understand policies to constrain vendors"
+            Link="/Content/UG_2015-Q3revA/Understand_policies_to_constrain_vendors.htm#chadm-mktpl-setup_1867565093_1827219">
+            <TocEntry
+              Title="Why let developers access customer data?"
+              Link="/Content/UG_2015-Q3revA/Why_let_developers_access_customer_data_.htm#chadm-mktpl-setup_1867565093_1829002" />
+            <TocEntry
+              Title="Why let developers manage sales leads?"
+              Link="/Content/UG_2015-Q3revA/Why_let_developers_manage_sales_leads_.htm#chadm-mktpl-setup_1867565093_1829065" />
+            <TocEntry
+              Title="Why let developers toggle product visibility?"
+              Link="/Content/UG_2015-Q3revA/Why_let_developers_toggle_product_visibility_.htm#chadm-mktpl-setup_1867565093_1829028" />
+            <TocEntry
+              Title="Why let developers set advanced contract stipulations?"
+              Link="/Content/UG_2015-Q3revA/Why_let_developers_set_advanced_contract_stipulati.htm#chadm-mktpl-setup_1867565093_1838642" />
+            <TocEntry
+              Title="Why let developers set edition restrictions?"
+              Link="/Content/UG_2015-Q3revA/Why_let_developers_set_edition_restrictions_.htm#chadm-mktpl-setup_1867565093_1838510" />
+            <TocEntry
+              Title="Why let developers rank product editions?"
+              Link="/Content/UG_2015-Q3revA/Why_let_developers_rank_product_editions_.htm#chadm-mktpl-setup_1867565093_1838444" />
+            <TocEntry
+              Title="Why let developers forbid updating an active subscription?"
+              Link="/Content/UG_2015-Q3revA/Why_let_developers_forbid_updating_an_active_subsc.htm#chadm-mktpl-setup_1867565093_1838664" />
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="Feature aggregation and navigation to configure marketplace settings"
+          Link="/Content/UG_2015-Q3revA/Feature_aggregation_and_navigation_to_configure_ma.htm#chadm-mktpl-setup_1867565093_1369954" />
+        <TocEntry
+          Title="Understand marketplace FAQs management"
+          Link="/Content/UG_2015-Q3revA/Understand_marketplace_FAQs_management.htm#chadm-mktpl-setup_1867565093_1659655" />
+      </TocEntry>
+      <TocEntry
+        Title="Procedures"
+        Link="/Content/UG_2015-Q3revA/Procedures_1.htm#chadm-mktpl-setup_1867565093_1200752">
+        <TocEntry
+          Title="Manage operational policies and settings"
+          Link="/Content/UG_2015-Q3revA/Manage_operational_policies_and_settings.htm#chadm-mktpl-setup_1867565093_1876585">
+          <TocEntry
+            Title="Configure stealth mode"
+            Link="/Content/UG_2015-Q3revA/Configure_stealth_mode.htm#chadm-mktpl-setup_1867565093_1876594" />
+          <TocEntry
+            Title="Configure OpenID IdP service to your trusted realms"
+            Link="/Content/UG_2015-Q3revA/Configure_OpenID_IdP_service_to_your_trusted_realm.htm#chadm-mktpl-setup_1867565093_1876599" />
+          <TocEntry
+            Title="Reconfigure payment gateway settings, as needed"
+            Link="/Content/UG_2015-Q3revA/Reconfigure_payment_gateway_settings__as_needed.htm#chadm-mktpl-setup_1867565093_1876603" />
+          <TocEntry
+            Title="Reconfigure Avatax, as needed  &lt;&lt;SUPERUSER FEATURE&gt;&gt;"
+            Link="/Content/UG_2015-Q3revA/Reconfigure_Avatax__as_needed____SUPERUSER_FEATURE.htm#chadm-mktpl-setup_1867565093_2885906" />
+          <TocEntry
+            Title="Set a sitewide password security policy"
+            Link="/Content/UG_2015-Q3revA/Set_a_sitewide_password_security_policy.htm#chadm-mktpl-setup_1867565093_1876625" />
+          <TocEntry
+            Title="Set sitewide default user role assignments"
+            Link="/Content/UG_2015-Q3revA/Set_sitewide_default_user_role_assignments.htm#chadm-mktpl-setup_1867565093_1876633" />
+        </TocEntry>
+        <TocEntry
+          Title="Manage system integrations"
+          Link="/Content/UG_2015-Q3revA/Manage_system_integrations.htm#chadm-mktpl-setup_1867565093_1876640">
+          <TocEntry
+            Title="Work with encryption key pairs for API service and system integrations"
+            Link="/Content/UG_2015-Q3revA/Work_with_encryption_key_pairs_for_API_service_and.htm#chadm-mktpl-setup_1867565093_1876645" />
+          <TocEntry
+            Title="Work with migration data"
+            Link="/Content/UG_2015-Q3revA/Work_with_migration_data.htm#chadm-mktpl-setup_1867565093_1876650" />
+          <TocEntry
+            Title="Work with webhooks"
+            Link="/Content/UG_2015-Q3revA/Work_with_webhooks.htm#chadm-mktpl-setup_1867565093_1876655" />
+        </TocEntry>
+        <TocEntry
+          Title="Work with Google Analytics"
+          Link="/Content/UG_2015-Q3revA/Work_with_Google_Analytics.htm#chadm-mktpl-setup_1867565093_1876666" />
+        <TocEntry
+          Title="Manage SEO strings and settings"
+          Link="/Content/UG_2015-Q3revA/Manage_SEO_strings_and_settings.htm#chadm-mktpl-setup_1867565093_1876671">
+          <TocEntry
+            Title="Work with marketplace metadata"
+            Link="/Content/UG_2015-Q3revA/Work_with_marketplace_metadata.htm#chadm-mktpl-setup_1867565093_1876676" />
+          <TocEntry
+            Title="Edit robots.txt"
+            Link="/Content/UG_2015-Q3revA/Edit_robots_txt.htm#chadm-mktpl-setup_1867565093_1876688" />
+        </TocEntry>
+        <TocEntry
+          Title="Manage branding basics"
+          Link="/Content/UG_2015-Q3revA/Manage_branding_basics.htm#chadm-mktpl-setup_1867565093_1876696">
+          <TocEntry
+            Title="Set the marketplace name"
+            Link="/Content/UG_2015-Q3revA/Set_the_marketplace_name.htm#chadm-mktpl-setup_1867565093_1876702" />
+          <TocEntry
+            Title="Set the marketplace logo"
+            Link="/Content/UG_2015-Q3revA/Set_the_marketplace_logo.htm#chadm-mktpl-setup_1867565093_1876707" />
+          <TocEntry
+            Title="Set the marketplace favicon"
+            Link="/Content/UG_2015-Q3revA/Set_the_marketplace_favicon.htm#chadm-mktpl-setup_1867565093_1876712" />
+          <TocEntry
+            Title="Set the marketplace provider name"
+            Link="/Content/UG_2015-Q3revA/Set_the_marketplace_provider_name.htm#chadm-mktpl-setup_1867565093_1876717" />
+        </TocEntry>
+        <TocEntry
+          Title="Manage notifications"
+          Link="/Content/UG_2015-Q3revA/Manage_notifications.htm#chadm-mktpl-setup_1867565093_1876722">
+          <TocEntry
+            Title="Configure return address, CC, and BCC settings"
+            Link="/Content/UG_2015-Q3revA/Configure_return_address__CC__and_BCC_settings.htm#chadm-mktpl-setup_1867565093_1876726">
+            <TocEntry
+              Title="Set the return address for notification messages"
+              Link="/Content/UG_2015-Q3revA/Set_the_return_address_for_notification_messages.htm#chadm-mktpl-setup_1867565093_1876731" />
+            <TocEntry
+              Title="Set the BCC address for notification messages"
+              Link="/Content/UG_2015-Q3revA/Set_the_BCC_address_for_notification_messages.htm#chadm-mktpl-setup_1867565093_1876736" />
+            <TocEntry
+              Title="Set whether the sales agent is copied on notification messages for an assisted sale"
+              Link="/Content/UG_2015-Q3revA/Set_whether_the_sales_agent_is_copied_on_notificat.htm#chadm-mktpl-setup_1867565093_1876741" />
+          </TocEntry>
+          <TocEntry
+            Title="Populate templates"
+            Link="/Content/UG_2015-Q3revA/Populate_templates.htm#chadm-mktpl-setup_1867565093_1876747" />
+        </TocEntry>
+        <TocEntry
+          Title="Show or hide support details"
+          Link="/Content/UG_2015-Q3revA/Show_or_hide_support_details.htm#chadm-mktpl-setup_1867565093_1876756">
+          <TocEntry
+            Title="Enter consumer support details"
+            Link="/Content/UG_2015-Q3revA/Enter_consumer_support_details.htm#chadm-mktpl-setup_1867565093_1876762">
+            <TocEntry
+              Title="Set a site URL for consumer technical support"
+              Link="/Content/UG_2015-Q3revA/Set_a_site_URL_for_consumer_technical_support.htm#chadm-mktpl-setup_1867565093_1876770" />
+            <TocEntry
+              Title="Set a contact URL for consumer technical support"
+              Link="/Content/UG_2015-Q3revA/Set_a_contact_URL_for_consumer_technical_support.htm#chadm-mktpl-setup_1867565093_1876775" />
+            <TocEntry
+              Title="Set an email address for consumer technical support"
+              Link="/Content/UG_2015-Q3revA/Set_an_email_address_for_consumer_technical_suppor.htm#chadm-mktpl-setup_1867565093_1876780" />
+            <TocEntry
+              Title="Set a phone number for consumer technical support"
+              Link="/Content/UG_2015-Q3revA/Set_a_phone_number_for_consumer_technical_support.htm#chadm-mktpl-setup_1867565093_1876785" />
+            <TocEntry
+              Title="Set a privacy policy URL for consumers"
+              Link="/Content/UG_2015-Q3revA/Set_a_privacy_policy_URL_for_consumers.htm#chadm-mktpl-setup_1867565093_1876790" />
+            <TocEntry
+              Title="Set a terms and conditions URL for consumers"
+              Link="/Content/UG_2015-Q3revA/Set_a_terms_and_conditions_URL_for_consumers.htm#chadm-mktpl-setup_1867565093_1876795" />
+          </TocEntry>
+          <TocEntry
+            Title="Enter reseller support details"
+            Link="/Content/UG_2015-Q3revA/Enter_reseller_support_details.htm#chadm-mktpl-setup_1867565093_1876800">
+            <TocEntry
+              Title="Set a terms and conditions URL for resellers"
+              Link="/Content/UG_2015-Q3revA/Set_a_terms_and_conditions_URL_for_resellers.htm#chadm-mktpl-setup_1867565093_1876804" />
+            <TocEntry
+              Title="Set a sales lead terms and conditions URL for resellers"
+              Link="/Content/UG_2015-Q3revA/Set_a_sales_lead_terms_and_conditions_URL_for_rese.htm#chadm-mktpl-setup_1867565093_1876809" />
+          </TocEntry>
+          <TocEntry
+            Title="Enter developer support details"
+            Link="/Content/UG_2015-Q3revA/Enter_developer_support_details.htm#chadm-mktpl-setup_1867565093_1876814">
+            <TocEntry
+              Title="Set an email address for developer technical support"
+              Link="/Content/UG_2015-Q3revA/Set_an_email_address_for_developer_technical_suppo.htm#chadm-mktpl-setup_1867565093_1876820" />
+            <TocEntry
+              Title="Set an API integration documentation URL for developers"
+              Link="/Content/UG_2015-Q3revA/Set_an_API_integration_documentation_URL_for_devel.htm#chadm-mktpl-setup_1867565093_1876825" />
+            <TocEntry
+              Title="Set a terms and conditions URL for developers"
+              Link="/Content/UG_2015-Q3revA/Set_a_terms_and_conditions_URL_for_developers.htm#chadm-mktpl-setup_1867565093_1876830" />
+            <TocEntry
+              Title="Set a terms and conditions modification date for developers &lt;&lt;SUPERUSER FEATURE&gt;&gt;"
+              Link="/Content/UG_2015-Q3revA/Set_a_terms_and_conditions_modification_date_for_d.htm#chadm-mktpl-setup_1867565093_2885950" />
+          </TocEntry>
+          <TocEntry
+            Title="??? hide channel user information from non-channel users ???"
+            Link="/Content/UG_2015-Q3revA/____hide_channel_user_information_from_non_channel.htm#chadm-mktpl-setup_1867565093_2885972" />
+        </TocEntry>
+        <TocEntry
+          Title="Manage user invitation and activation policies"
+          Link="/Content/UG_2015-Q3revA/Manage_user_invitation_and_activation_policies.htm#chadm-mktpl-setup_1867565093_1876845">
+          <TocEntry
+            Title="Configure company administrator authority to invite and assign &lt;&lt;SUPERUSER FEATURE&gt;&gt;"
+            Link="/Content/UG_2015-Q3revA/Configure_company_administrator_authority_to_invit.htm#chadm-mktpl-setup_1867565093_2886008" />
+          <TocEntry
+            Title="Configure user notification of assisted activation &lt;&lt;SUPERUSER FEATURE&gt;&gt;"
+            Link="/Content/UG_2015-Q3revA/Configure_user_notification_of_assisted_activation.htm#chadm-mktpl-setup_1867565093_2886028" />
+          <TocEntry
+            Title="Configure whether user account activation collects a phone number"
+            Link="/Content/UG_2015-Q3revA/Configure_whether_user_account_activation_collects.htm#chadm-mktpl-setup_1867565093_1876860" />
+        </TocEntry>
+        <TocEntry
+          Title="Manage custom UI form fields"
+          Link="/Content/UG_2015-Q3revA/Manage_custom_UI_form_fields.htm#chadm-mktpl-setup_1867565093_1876865">
+          <TocEntry
+            Title="Configure custom fields for company creation"
+            Link="/Content/UG_2015-Q3revA/Configure_custom_fields_for_company_creation.htm#chadm-mktpl-setup_1867565093_1876870" />
+          <TocEntry
+            Title="Configure custom fields for user account creation"
+            Link="/Content/UG_2015-Q3revA/Configure_custom_fields_for_user_account_creation.htm#chadm-mktpl-setup_1867565093_1876875" />
+        </TocEntry>
+        <TocEntry
+          Title="Manage product acquisition policies"
+          Link="/Content/UG_2015-Q3revA/Manage_product_acquisition_policies.htm#chadm-mktpl-setup_1867565093_1876881">
+          <TocEntry
+            Title="Configure whether the marketplace provider can set payment policies per edition"
+            Link="/Content/UG_2015-Q3revA/Configure_whether_the_marketplace_provider_can_set.htm#chadm-mktpl-setup_1867565093_1876891" />
+          <TocEntry
+            Title="Configure ordering authority policies"
+            Link="/Content/UG_2015-Q3revA/Configure_ordering_authority_policies.htm#chadm-mktpl-setup_1867565093_1876896">
+            <TocEntry
+              Title="Set an authority restriction policy for placing orders"
+              Link="/Content/UG_2015-Q3revA/Set_an_authority_restriction_policy_for_placing_or.htm#chadm-mktpl-setup_1867565093_1876899" />
+          </TocEntry>
+          <TocEntry
+            Title="Configure credit and refund policies"
+            Link="/Content/UG_2015-Q3revA/Configure_credit_and_refund_policies.htm#chadm-mktpl-setup_1867565093_1876904">
+            <TocEntry
+              Title="Set whether partially consumed fixed-price discounts can persist as credit"
+              Link="/Content/UG_2015-Q3revA/Set_whether_partially_consumed_fixed_price_discoun.htm#chadm-mktpl-setup_1867565093_1876905" />
+          </TocEntry>
+          <TocEntry
+            Title="Configure spending limit policies"
+            Link="/Content/UG_2015-Q3revA/Configure_spending_limit_policies.htm#chadm-mktpl-setup_1867565093_1876910">
+            <TocEntry
+              Title="Set a daily spending limit per company"
+              Link="/Content/UG_2015-Q3revA/Set_a_daily_spending_limit_per_company.htm#chadm-mktpl-setup_1867565093_1876911" />
+            <TocEntry
+              Title="Set a 30-day spending limit per company"
+              Link="/Content/UG_2015-Q3revA/Set_a_30_day_spending_limit_per_company.htm#chadm-mktpl-setup_1867565093_1876916" />
+          </TocEntry>
+          <TocEntry
+            Title="Configure grace periods"
+            Link="/Content/UG_2015-Q3revA/Configure_grace_periods.htm#chadm-mktpl-setup_1867565093_1876921">
+            <TocEntry
+              Title="Set a sitewide maximum domain grace period"
+              Link="/Content/UG_2015-Q3revA/Set_a_sitewide_maximum_domain_grace_period.htm#chadm-mktpl-setup_1867565093_1876922" />
+            <TocEntry
+              Title="Set a sitewide maximum late payment grace period"
+              Link="/Content/UG_2015-Q3revA/Set_a_sitewide_maximum_late_payment_grace_period.htm#chadm-mktpl-setup_1867565093_1876927" />
+          </TocEntry>
+          <TocEntry
+            Title="Configure billing details collection policies"
+            Link="/Content/UG_2015-Q3revA/Configure_billing_details_collection_policies.htm#chadm-mktpl-setup_1867565093_1876932">
+            <TocEntry
+              Title="Set a billing details collection enforcement policy for free[%=UG_2015-Q3revA.nonbreaking hyphen%]trial products"
+              Link="/Content/UG_2015-Q3revA/Set_a_billing_details_collection_enforcement_polic.htm#chadm-mktpl-setup_1867565093_1876933" />
+            <TocEntry
+              Title="Set a billing details collection enforcement policy for all billable and non[%=UG_2015-Q3revA.nonbreaking hyphen%]billable products"
+              Link="/Content/UG_2015-Q3revA/Set_a_billing_details_collection_enforcement_polic_1.htm#chadm-mktpl-setup_1867565093_1876938" />
+            <TocEntry
+              Title="Set a billing details collection enforcement policy for 100% discounts"
+              Link="/Content/UG_2015-Q3revA/Set_a_billing_details_collection_enforcement_polic_2.htm#chadm-mktpl-setup_1867565093_1876943" />
+          </TocEntry>
+          <TocEntry
+            Title="Configure one[%=UG_2015-Q3revA.nonbreaking hyphen%]click policies"
+            Link="/Content/UG_2015-Q3revA/Configure_oneclick_policies.htm#chadm-mktpl-setup_1867565093_1876948">
+            <TocEntry
+              Title="Turn one[%=UG_2015-Q3revA.nonbreaking hyphen%]click access On or Off for no[%=UG_2015-Q3revA.nonbreaking hyphen%]cost products"
+              Link="/Content/UG_2015-Q3revA/Turn_oneclick_access_On_or_Off_for_nocost_products.htm#chadm-mktpl-setup_1867565093_1876949" />
+            <TocEntry
+              Title="Turn vendor clickwrap prompts On or Off for one[%=UG_2015-Q3revA.nonbreaking hyphen%]click products"
+              Link="/Content/UG_2015-Q3revA/Turn_vendor_clickwrap_prompts_On_or_Off_for_onecli.htm#chadm-mktpl-setup_1867565093_1876954" />
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="Manage sitewide product marketing profile policies"
+          Link="/Content/UG_2015-Q3revA/Manage_sitewide_product_marketing_profile_policies.htm#chadm-mktpl-setup_1867565093_1876958">
+          <TocEntry
+            Title="Show or hide the Support tab on all product profiles"
+            Link="/Content/UG_2015-Q3revA/Show_or_hide_the_Support_tab_on_all_product_profil.htm#chadm-mktpl-setup_1867565093_1876963" />
+          <TocEntry
+            Title="Show or hide social media links on all product profiles"
+            Link="/Content/UG_2015-Q3revA/Show_or_hide_social_media_links_on_all_product_pro.htm#chadm-mktpl-setup_1867565093_1876968" />
+          <TocEntry
+            Title="Set a visibility threshold to show or hide product ratings"
+            Link="/Content/UG_2015-Q3revA/Set_a_visibility_threshold_to_show_or_hide_product.htm#chadm-mktpl-setup_1867565093_1876973" />
+        </TocEntry>
+        <TocEntry
+          Title="Manage product contract policies"
+          Link="/Content/UG_2015-Q3revA/Manage_product_contract_policies.htm#chadm-mktpl-setup_1867565093_1876978">
+          <TocEntry
+            Title="Configure product contract update policies"
+            Link="/Content/UG_2015-Q3revA/Configure_product_contract_update_policies.htm#chadm-mktpl-setup_1867565093_1876983">
+            <TocEntry
+              Title="Forbid updates to any active contract"
+              Link="/Content/UG_2015-Q3revA/Forbid_updates_to_any_active_contract.htm#chadm-mktpl-setup_1867565093_1876987" />
+            <TocEntry
+              Title="Set whether the minimum unit count should be locked per contract"
+              Link="/Content/UG_2015-Q3revA/Set_whether_the_minimum_unit_count_should_be_locke.htm#chadm-mktpl-setup_1867565093_1876994" />
+          </TocEntry>
+          <TocEntry
+            Title="Configure product contract upgrade policies"
+            Link="/Content/UG_2015-Q3revA/Configure_product_contract_upgrade_policies.htm#chadm-mktpl-setup_1867565093_1877002">
+            <TocEntry
+              Title="Forbid upgrades to any active contract"
+              Link="/Content/UG_2015-Q3revA/Forbid_upgrades_to_any_active_contract.htm#chadm-mktpl-setup_1867565093_1877006" />
+            <TocEntry
+              Title="Turn automatic upgrades On or Off for expired free trials"
+              Link="/Content/UG_2015-Q3revA/Turn_automatic_upgrades_On_or_Off_for_expired_free.htm#chadm-mktpl-setup_1867565093_1877013" />
+          </TocEntry>
+          <TocEntry
+            Title="Configure product contract downgrade policies"
+            Link="/Content/UG_2015-Q3revA/Configure_product_contract_downgrade_policies.htm#chadm-mktpl-setup_1867565093_1877018">
+            <TocEntry
+              Title="Forbid downgrades to any active contract"
+              Link="/Content/UG_2015-Q3revA/Forbid_downgrades_to_any_active_contract.htm#chadm-mktpl-setup_1867565093_1877022" />
+            <TocEntry
+              Title="Set whether to allow contract downgrades that extend the end[%=UG_2015-Q3revA.nonbreaking hyphen%]date"
+              Link="/Content/UG_2015-Q3revA/Set_whether_to_allow_contract_downgrades_that_exte.htm#chadm-mktpl-setup_1867565093_1877029" />
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="Manage public FAQs"
+          Link="/Content/UG_2015-Q3revA/Manage_public_FAQs.htm#chadm-mktpl-setup_1867565093_1877036" />
+        <TocEntry
+          Title="Manage user content policies"
+          Link="/Content/UG_2015-Q3revA/Manage_user_content_policies.htm#chadm-mktpl-setup_1867565093_1877043">
+          <TocEntry
+            Title="Turn the approvals workflow On or Off for user[%=UG_2015-Q3revA.nonbreaking hyphen%]submitted content"
+            Link="/Content/UG_2015-Q3revA/Turn_the_approvals_workflow_On_or_Off_for_usersubm.htm#chadm-mktpl-setup_1867565093_1877048" />
+          <TocEntry
+            Title="Set whether anyone can rate products"
+            Link="/Content/UG_2015-Q3revA/Set_whether_anyone_can_rate_products.htm#chadm-mktpl-setup_1867565093_1877053" />
+          <TocEntry
+            Title="Show or hide questions on product profiles"
+            Link="/Content/UG_2015-Q3revA/Show_or_hide_questions_on_product_profiles.htm#chadm-mktpl-setup_1867565093_1877058" />
+        </TocEntry>
+        <TocEntry
+          Title="Manage other company-level UX"
+          Link="/Content/UG_2015-Q3revA/Manage_other_company_level_UX.htm#chadm-mktpl-setup_1867565093_1877063">
+          <TocEntry
+            Title="Set whether company administrators have authority to import products &lt;&lt;ALPHA FEATURE FOR CLOUD MGMT STE&gt;&gt;"
+            Link="/Content/UG_2015-Q3revA/Set_whether_company_administrators_have_authority_.htm#chadm-mktpl-setup_1867565093_2886065" />
+          <TocEntry
+            Title="Show or hide the employee directory UI in Application Manager"
+            Link="/Content/UG_2015-Q3revA/Show_or_hide_the_employee_directory_UI_in_Applicat.htm#chadm-mktpl-setup_1867565093_1877071" />
+        </TocEntry>
+        <TocEntry
+          Title="Manage authority policies"
+          Link="/Content/UG_2015-Q3revA/Manage_authority_policies.htm#chadm-mktpl-setup_1867565093_1877076">
+          <TocEntry
+            Title="Configure authority policy settings for assisted sales"
+            Link="/Content/UG_2015-Q3revA/Configure_authority_policy_settings_for_assisted_s.htm#chadm-mktpl-setup_1867565093_1877083">
+            <TocEntry
+              Title="Set the approvals policy for assisted sales"
+              Link="/Content/UG_2015-Q3revA/Set_the_approvals_policy_for_assisted_sales.htm#chadm-mktpl-setup_1867565093_1877089" />
+            <TocEntry
+              Title="Turn sales agent authority On or Off to collect manual payments &lt;&lt;SUPERUSER FEATURE&gt;&gt;"
+              Link="/Content/UG_2015-Q3revA/Turn_sales_agent_authority_On_or_Off_to_collect_ma.htm#chadm-mktpl-setup_1867565093_2886101" />
+            <TocEntry
+              Title="Turn sales agent authority On or Off to collect CVV details &lt;&lt;SUPERUSER FEATURE&gt;&gt;"
+              Link="/Content/UG_2015-Q3revA/Turn_sales_agent_authority_On_or_Off_to_collect_CV.htm#chadm-mktpl-setup_1867565093_2886121" />
+            <TocEntry
+              Title="Turn sales agent authority On or Off to enter payment details"
+              Link="/Content/UG_2015-Q3revA/Turn_sales_agent_authority_On_or_Off_to_enter_paym.htm#chadm-mktpl-setup_1867565093_1877108" />
+          </TocEntry>
+          <TocEntry
+            Title="Configure policies to constrain resellers"
+            Link="/Content/UG_2015-Q3revA/Configure_policies_to_constrain_resellers.htm#chadm-mktpl-setup_1867565093_1877113">
+            <TocEntry
+              Title="Turn reseller authority On or Off to join their linked companies"
+              Link="/Content/UG_2015-Q3revA/Turn_reseller_authority_On_or_Off_to_join_their_li.htm#chadm-mktpl-setup_1867565093_1877120" />
+            <TocEntry
+              Title="Turn reseller authority On or Off to disable their linked companies"
+              Link="/Content/UG_2015-Q3revA/Turn_reseller_authority_On_or_Off_to_disable_their.htm#chadm-mktpl-setup_1867565093_1877125" />
+            <TocEntry
+              Title="Turn reseller authority On or Off to create sales quotes"
+              Link="/Content/UG_2015-Q3revA/Turn_reseller_authority_On_or_Off_to_create_sales_.htm#chadm-mktpl-setup_1867565093_1877130" />
+            <TocEntry
+              Title="Turn reseller authority On or Off to cancel the subscriptions of their linked companies"
+              Link="/Content/UG_2015-Q3revA/Turn_reseller_authority_On_or_Off_to_cancel_the_su.htm#chadm-mktpl-setup_1867565093_1877135" />
+            <TocEntry
+              Title="Turn reseller authority On or Off to disable their linked users’ access"
+              Link="/Content/UG_2015-Q3revA/Turn_reseller_authority_On_or_Off_to_disable_their_1.htm#chadm-mktpl-setup_1867565093_1877140" />
+          </TocEntry>
+          <TocEntry
+            Title="Configure policies to constrain sales support staff"
+            Link="/Content/UG_2015-Q3revA/Configure_policies_to_constrain_sales_support_staf.htm#chadm-mktpl-setup_1867565093_1877145">
+            <TocEntry
+              Title="Turn sales support authority On or Off to disable companies"
+              Link="/Content/UG_2015-Q3revA/Turn_sales_support_authority_On_or_Off_to_disable_.htm#chadm-mktpl-setup_1867565093_1877152" />
+            <TocEntry
+              Title="Turn sales support authority On or Off to create sales quotes"
+              Link="/Content/UG_2015-Q3revA/Turn_sales_support_authority_On_or_Off_to_create_s.htm#chadm-mktpl-setup_1867565093_1877157" />
+            <TocEntry
+              Title="Turn sales support authority On or Off to issue manual refunds"
+              Link="/Content/UG_2015-Q3revA/Turn_sales_support_authority_On_or_Off_to_issue_ma.htm#chadm-mktpl-setup_1867565093_1877162" />
+            <TocEntry
+              Title="Turn sales support authority On or Off to cancel subscriptions"
+              Link="/Content/UG_2015-Q3revA/Turn_sales_support_authority_On_or_Off_to_cancel_s.htm#chadm-mktpl-setup_1867565093_1877167" />
+            <TocEntry
+              Title="Turn sales support authority On or Off to see and resolve provisioning events"
+              Link="/Content/UG_2015-Q3revA/Turn_sales_support_authority_On_or_Off_to_see_and_.htm#chadm-mktpl-setup_1867565093_1877172" />
+          </TocEntry>
+          <TocEntry
+            Title="Configure policies to constrain customer support staff"
+            Link="/Content/UG_2015-Q3revA/Configure_policies_to_constrain_customer_support_s.htm#chadm-mktpl-setup_1867565093_1877178">
+            <TocEntry
+              Title="Turn customer support authority On or Off to disable companies"
+              Link="/Content/UG_2015-Q3revA/Turn_customer_support_authority_On_or_Off_to_disab.htm#chadm-mktpl-setup_1867565093_1877184" />
+            <TocEntry
+              Title="Turn customer support authority On or Off to ‘view as’ for technical support"
+              Link="/Content/UG_2015-Q3revA/Turn_customer_support_authority_On_or_Off_to__view.htm#chadm-mktpl-setup_1867565093_1877189" />
+            <TocEntry
+              Title="Turn customer support authority On or Off to issue manual refunds"
+              Link="/Content/UG_2015-Q3revA/Turn_customer_support_authority_On_or_Off_to_issue.htm#chadm-mktpl-setup_1867565093_1877195" />
+            <TocEntry
+              Title="Turn customer support authority On or Off to cancel subscriptions"
+              Link="/Content/UG_2015-Q3revA/Turn_customer_support_authority_On_or_Off_to_cance.htm#chadm-mktpl-setup_1867565093_1877200" />
+          </TocEntry>
+          <TocEntry
+            Title="Configure policies to constrain developers"
+            Link="/Content/UG_2015-Q3revA/Configure_policies_to_constrain_developers.htm#chadm-mktpl-setup_1867565093_1877207">
+            <TocEntry
+              Title="Turn developer authority On or Off to access customer data"
+              Link="/Content/UG_2015-Q3revA/Turn_developer_authority_On_or_Off_to_access_custo.htm#chadm-mktpl-setup_1867565093_1877216" />
+            <TocEntry
+              Title="Turn developer authority On or Off to manage sales leads"
+              Link="/Content/UG_2015-Q3revA/Turn_developer_authority_On_or_Off_to_manage_sales.htm#chadm-mktpl-setup_1867565093_1877221" />
+            <TocEntry
+              Title="Turn developer authority On or Off to toggle product visibility"
+              Link="/Content/UG_2015-Q3revA/Turn_developer_authority_On_or_Off_to_toggle_produ.htm#chadm-mktpl-setup_1867565093_1877226" />
+            <TocEntry
+              Title="Turn developer authority On or Off to enforce advanced contract stipulations"
+              Link="/Content/UG_2015-Q3revA/Turn_developer_authority_On_or_Off_to_enforce_adva.htm#chadm-mktpl-setup_1867565093_1877231" />
+            <TocEntry
+              Title="Turn developer authority On or Off to enforce edition restrictions"
+              Link="/Content/UG_2015-Q3revA/Turn_developer_authority_On_or_Off_to_enforce_edit.htm#chadm-mktpl-setup_1867565093_1877237" />
+            <TocEntry
+              Title="Turn developer authority On or Off to rank product editions"
+              Link="/Content/UG_2015-Q3revA/Turn_developer_authority_On_or_Off_to_rank_product.htm#chadm-mktpl-setup_1867565093_1877242" />
+            <TocEntry
+              Title="Turn developer authority On or Off to forbid updates to active contracts"
+              Link="/Content/UG_2015-Q3revA/Turn_developer_authority_On_or_Off_to_forbid_updat.htm#chadm-mktpl-setup_1867565093_1877247" />
+          </TocEntry>
+        </TocEntry>
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="chapter 3"
+    Link="/Content/UG_2015-Q3revA/chadm-invnt-vends.htm#chadm-invnt-vends_3190186361_1176109">
+    <TocEntry
+      Title="Web Application (manual setup) [product type]"
+      Link="/Content/UG_2015-Q3revA/Glossary_2.htm#chadm-invnt-vends_3190186361_1732696">
+      <TocEntry
+        Title="Concepts"
+        Link="/Content/UG_2015-Q3revA/Concepts.htm#chadm-invnt-vends_3190186361_1200614">
+        <TocEntry
+          Title="Curation, promotion"
+          Link="/Content/UG_2015-Q3revA/Curation__promotion.htm#chadm-invnt-vends_3190186361_1393961">
+          <TocEntry
+            Title="Product management overview"
+            Link="/Content/UG_2015-Q3revA/Product_management_overview.htm#chadm-invnt-vends_3190186361_1369363" />
+          <TocEntry
+            Title="Understand feature aggregation and navigation to manage products"
+            Link="/Content/UG_2015-Q3revA/Understand_feature_aggregation_and_navigation_to_m.htm#chadm-invnt-vends_3190186361_1369954" />
+          <TocEntry
+            Title="Understand product catalog curation"
+            Link="/Content/UG_2015-Q3revA/Understand_product_catalog_curation.htm#chadm-invnt-vends_3190186361_1396899" />
+          <TocEntry
+            Title="Understand product publication approval requests"
+            Link="/Content/UG_2015-Q3revA/Understand_product_publication_approval_requests.htm#chadm-invnt-vends_3190186361_1397209" />
+          <TocEntry
+            Title="Understand API integration tests"
+            Link="/Content/UG_2015-Q3revA/Understand_API_integration_tests.htm#chadm-invnt-vends_3190186361_1397258" />
+          <TocEntry
+            Title="Product attribute, category, and industry tagging basics"
+            Link="/Content/UG_2015-Q3revA/Product_attribute__category__and_industry_tagging_.htm#chadm-invnt-vends_3190186361_1397296" />
+          <TocEntry
+            Title="Understand lead generation from referral-only products"
+            Link="/Content/UG_2015-Q3revA/Understand_lead_generation_from_referral_only_prod.htm#chadm-invnt-vends_3190186361_1397478" />
+          <TocEntry
+            Title="Understand product profile content restrictions"
+            Link="/Content/UG_2015-Q3revA/Understand_product_profile_content_restrictions.htm#chadm-invnt-vends_3190186361_1678329" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about marketplace upkeep"
+          Link="/Content/UG_2015-Q3revA/Learn_about_marketplace_upkeep.htm#chadm-invnt-vends_3190186361_1393962">
+          <TocEntry
+            Title="Understand curation of customer-generated content"
+            Link="/Content/UG_2015-Q3revA/Understand_curation_of_customer_generated_content.htm#chadm-invnt-vends_3190186361_1397418" />
+          <TocEntry
+            Title="Understand product promotions"
+            Link="/Content/UG_2015-Q3revA/Understand_product_promotions.htm#chadm-invnt-vends_3190186361_1397645" />
+        </TocEntry>
+        <TocEntry
+          Title="Learn about addon versions v1 and v2"
+          Link="/Content/UG_2015-Q3revA/Learn_about_addon_versions_v1_and_v2.htm#chadm-invnt-vends_3190186361_2212405" />
+      </TocEntry>
+      <TocEntry
+        Title="Procedures"
+        Link="/Content/UG_2015-Q3revA/Procedures_2.htm#chadm-invnt-vends_3190186361_1200752">
+        <TocEntry
+          Title="Curation procedures"
+          Link="/Content/UG_2015-Q3revA/Curation_procedures.htm#chadm-invnt-vends_3190186361_1394231">
+          <TocEntry
+            Title="Edit the tags that organize your product catalog"
+            Link="/Content/UG_2015-Q3revA/Edit_the_tags_that_organize_your_product_catalog.htm#chadm-invnt-vends_3190186361_1401415" />
+          <TocEntry
+            Title="Configure product marketing profile content restrictions"
+            Link="/Content/UG_2015-Q3revA/Configure_product_marketing_profile_content_restri.htm#chadm-invnt-vends_3190186361_1401492" />
+          <TocEntry
+            Title="Add native products to your marketplace catalog"
+            Link="/Content/UG_2015-Q3revA/Add_native_products_to_your_marketplace_catalog.htm#chadm-invnt-vends_3190186361_1401556" />
+          <TocEntry
+            Title="Add network products to your marketplace catalog"
+            Link="/Content/UG_2015-Q3revA/Add_network_products_to_your_marketplace_catalog.htm#chadm-invnt-vends_3190186361_1576341" />
+          <TocEntry
+            Title="Work with your marketplace dashboard"
+            Link="/Content/UG_2015-Q3revA/Work_with_your_marketplace_dashboard.htm#chadm-invnt-vends_3190186361_1401680" />
+        </TocEntry>
+        <TocEntry
+          Title="Marketplace upkeep procedures"
+          Link="/Content/UG_2015-Q3revA/Marketplace_upkeep_procedures.htm#chadm-invnt-vends_3190186361_1394336">
+          <TocEntry
+            Title="Approve or deny product publication approval requests"
+            Link="/Content/UG_2015-Q3revA/Approve_or_deny_product_publication_approval_reque.htm#chadm-invnt-vends_3190186361_1403393" />
+          <TocEntry
+            Title="Run and verify API integration tests"
+            Link="/Content/UG_2015-Q3revA/Run_and_verify_API_integration_tests.htm#chadm-invnt-vends_3190186361_1403394" />
+          <TocEntry
+            Title="Approve or deny customer-generated content"
+            Link="/Content/UG_2015-Q3revA/Approve_or_deny_customer_generated_content.htm#chadm-invnt-vends_3190186361_1403395" />
+          <TocEntry
+            Title="Pursue sales opportunity leads from referral-only products"
+            Link="/Content/UG_2015-Q3revA/Pursue_sales_opportunity_leads_from_referral_only_.htm#chadm-invnt-vends_3190186361_2405228" />
+          <TocEntry
+            Title="Configure product discounts"
+            Link="/Content/UG_2015-Q3revA/Configure_product_discounts.htm#chadm-invnt-vends_3190186361_1403399" />
+          <TocEntry
+            Title="Configure product bundles"
+            Link="/Content/UG_2015-Q3revA/Configure_product_bundles.htm#chadm-invnt-vends_3190186361_1403400" />
+          <TocEntry
+            Title="Configure and populate the Featured Products slider"
+            Link="/Content/UG_2015-Q3revA/Configure_and_populate_the_Featured_Products_slide.htm#chadm-invnt-vends_3190186361_1403401" />
+          <TocEntry
+            Title="Edit the layout of product listing pages"
+            Link="/Content/UG_2015-Q3revA/Edit_the_layout_of_product_listing_pages.htm#chadm-invnt-vends_3190186361_1403378" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Reference"
+        Link="/Content/UG_2015-Q3revA/Reference.htm#chadm-invnt-vends_3190186361_2405260">
+        <TocEntry
+          Title="UI field reference tables for product and vendor management workflows"
+          Link="/Content/UG_2015-Q3revA/UI_field_reference_tables_for_product_and_vendor_m.htm#chadm-invnt-vends_3190186361_2405266">
+          <TocEntry
+            Title="Reviews &amp; Questions page element reference"
+            Link="/Content/UG_2015-Q3revA/Reviews___Questions_page_element_reference.htm#chadm-invnt-vends_3190186361_2405339" />
+          <TocEntry
+            Title="Product Catalog page element reference"
+            Link="/Content/UG_2015-Q3revA/Product_Catalog_page_element_reference.htm#chadm-invnt-vends_3190186361_2405385" />
+          <TocEntry
+            Title="{your brand} Products page element reference"
+            Link="/Content/UG_2015-Q3revA/_your_brand__Products_page_element_reference.htm#chadm-invnt-vends_3190186361_2405470" />
+          <TocEntry
+            Title="Product API Tests page element reference"
+            Link="/Content/UG_2015-Q3revA/Product_API_Tests_page_element_reference.htm#chadm-invnt-vends_3190186361_2405540" />
+          <TocEntry
+            Title="Bundles page element reference"
+            Link="/Content/UG_2015-Q3revA/Bundles_page_element_reference.htm#chadm-invnt-vends_3190186361_2405613">
+            <TocEntry
+              Title="Create Bundle form element reference"
+              Link="/Content/UG_2015-Q3revA/Create_Bundle_form_element_reference.htm#chadm-invnt-vends_3190186361_2405663" />
+          </TocEntry>
+          <TocEntry
+            Title="Discount Codes page element reference"
+            Link="/Content/UG_2015-Q3revA/Discount_Codes_page_element_reference.htm#chadm-invnt-vends_3190186361_2405734" />
+          <TocEntry
+            Title="Product Groups page element reference"
+            Link="/Content/UG_2015-Q3revA/Product_Groups_page_element_reference.htm#chadm-invnt-vends_3190186361_2405805" />
+          <TocEntry
+            Title="Manage Product Media Sources page element reference"
+            Link="/Content/UG_2015-Q3revA/Manage_Product_Media_Sources_page_element_referenc.htm#chadm-invnt-vends_3190186361_2405854" />
+          <TocEntry
+            Title="Manage Product Customers page element reference"
+            Link="/Content/UG_2015-Q3revA/Manage_Product_Customers_page_element_reference.htm#chadm-invnt-vends_3190186361_2405898" />
+          <TocEntry
+            Title="Vendors page element reference"
+            Link="/Content/UG_2015-Q3revA/Vendors_page_element_reference.htm#chadm-invnt-vends_3190186361_2405942" />
+        </TocEntry>
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="chapter 4"
+    Link="/Content/UG_2015-Q3revA/chadm-email.htm#chadm-email_2233833305_1176109" />
+  <TocEntry
+    Title="chapter 5"
+    Link="/Content/UG_2015-Q3revA/chadm-email.htm#chadm-email_2233833305_1178064">
+    <TocEntry
+      Title="Concepts"
+      Link="/Content/UG_2015-Q3revA/Concepts_1.htm#chadm-email_2233833305_1200614">
+      <TocEntry
+        Title="Recipient enumerators"
+        Link="/Content/UG_2015-Q3revA/Recipient_enumerators.htm#chadm-email_2233833305_1817686" />
+      <TocEntry
+        Title="Essential templates are always turned On"
+        Link="/Content/UG_2015-Q3revA/Essential_templates_are_always_turned_On.htm#chadm-email_2233833305_1726350" />
+      <TocEntry
+        Title="System events cause most templates to send messages"
+        Link="/Content/UG_2015-Q3revA/System_events_cause_most_templates_to_send_message.htm#chadm-email_2233833305_1725680" />
+      <TocEntry
+        Title="The {PASSWORD} parameter is not a security vulnerability"
+        Link="/Content/UG_2015-Q3revA/The__PASSWORD__parameter_is_not_a_security_vulnera.htm#chadm-email_2233833305_2040221" />
+      <TocEntry
+        Title="Understand template customizations"
+        Link="/Content/UG_2015-Q3revA/Understand_template_customizations.htm#chadm-email_2233833305_1397924">
+        <TocEntry
+          Title="Understand the ‘Unsubscribe Message’ template"
+          Link="/Content/UG_2015-Q3revA/Understand_the__Unsubscribe_Message__template.htm#chadm-email_2233833305_1962141" />
+        <TocEntry
+          Title="The logic underlying which parameters a template supports"
+          Link="/Content/UG_2015-Q3revA/The_logic_underlying_which_parameters_a_template_s.htm#chadm-email_2233833305_1724111" />
+        <TocEntry
+          Title="Inventory of templates by message recipient"
+          Link="/Content/UG_2015-Q3revA/Inventory_of_templates_by_message_recipient.htm#chadm-email_2233833305_1860373" />
+        <TocEntry
+          Title="Templates for the ‘channel admin’ enumerator"
+          Link="/Content/UG_2015-Q3revA/Templates_for_the__channel_admin__enumerator.htm#chadm-email_2233833305_1851488" />
+        <TocEntry
+          Title="Templates for the ‘company admin’ enumerator"
+          Link="/Content/UG_2015-Q3revA/Templates_for_the__company_admin__enumerator.htm#chadm-email_2233833305_1864908" />
+        <TocEntry
+          Title="Templates for the ‘customer support’ enumerator"
+          Link="/Content/UG_2015-Q3revA/Templates_for_the__customer_support__enumerator.htm#chadm-email_2233833305_1947013" />
+        <TocEntry
+          Title="Templates for the ‘existing user’ enumerator"
+          Link="/Content/UG_2015-Q3revA/Templates_for_the__existing_user__enumerator.htm#chadm-email_2233833305_1937894" />
+        <TocEntry
+          Title="Templates for the ‘new user’ enumerator"
+          Link="/Content/UG_2015-Q3revA/Templates_for_the__new_user__enumerator.htm#chadm-email_2233833305_1934506" />
+        <TocEntry
+          Title="Templates for the ‘product developer’ enumerator"
+          Link="/Content/UG_2015-Q3revA/Templates_for_the__product_developer__enumerator.htm#chadm-email_2233833305_1931000" />
+        <TocEntry
+          Title="Templates for the ‘product owner’ enumerator"
+          Link="/Content/UG_2015-Q3revA/Templates_for_the__product_owner__enumerator.htm#chadm-email_2233833305_1923364" />
+        <TocEntry
+          Title="Templates for the ‘product user’ enumerator"
+          Link="/Content/UG_2015-Q3revA/Templates_for_the__product_user__enumerator.htm#chadm-email_2233833305_1874178" />
+        <TocEntry
+          Title="Templates for the ‘reseller’ enumerator"
+          Link="/Content/UG_2015-Q3revA/Templates_for_the__reseller__enumerator.htm#chadm-email_2233833305_1876977" />
+        <TocEntry
+          Title="Templates for the ‘reseller manager’ enumerator"
+          Link="/Content/UG_2015-Q3revA/Templates_for_the__reseller_manager__enumerator.htm#chadm-email_2233833305_1879776" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Procedures"
+      Link="/Content/UG_2015-Q3revA/Procedures_3.htm#chadm-email_2233833305_1200752">
+      <TocEntry
+        Title="Edit and enable messages for end­users"
+        Link="/Content/UG_2015-Q3revA/Edit_and_enable_messages_for_end_users.htm#chadm-email_2233833305_1436093">
+        <TocEntry
+          Title="Work with the Invite New User template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Invite_New_User_template.htm#chadm-email_2233833305_1439427" />
+        <TocEntry
+          Title="Work with the Invite User to Join Company template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Invite_User_to_Join_Company_template.htm#chadm-email_2233833305_1439428" />
+        <TocEntry
+          Title="Work with the Activate Account template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Activate_Account_template.htm#chadm-email_2233833305_1437300" />
+        <TocEntry
+          Title="Work with the Activate Account After Migration template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Activate_Account_After_Migration_tem.htm#chadm-email_2233833305_1437304" />
+        <TocEntry
+          Title="Work with the Activate Account with Product template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Activate_Account_with_Product_templa.htm#chadm-email_2233833305_1437309" />
+        <TocEntry
+          Title="Work with the Activate Account Created by a Sales Agent template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Activate_Account_Created_by_a_Sales_.htm#chadm-email_2233833305_1437313" />
+        <TocEntry
+          Title="Work with the Registration Reminder template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Registration_Reminder_template.htm#chadm-email_2233833305_1439635" />
+        <TocEntry
+          Title="Work with the Inactive User Login Reminder template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Inactive_User_Login_Reminder_templat.htm#chadm-email_2233833305_1439798" />
+        <TocEntry
+          Title="Work with the Inactive User Purchase Reminder template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Inactive_User_Purchase_Reminder_temp.htm#chadm-email_2233833305_1439799" />
+        <TocEntry
+          Title="Work with the Reactivate Account on Email Change template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Reactivate_Account_on_Email_Change_t.htm#chadm-email_2233833305_1439800" />
+        <TocEntry
+          Title="Work with the Reset Password template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Reset_Password_template.htm#chadm-email_2233833305_1437326" />
+        <TocEntry
+          Title="Work with the Password Changed template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Password_Changed_template.htm#chadm-email_2233833305_3674799" />
+        <TocEntry
+          Title="Work with the Password Reminder template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Password_Reminder_template.htm#chadm-email_2233833305_1439559" />
+        <TocEntry
+          Title="Work with the Primary Email Changed template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Primary_Email_Changed_template.htm#chadm-email_2233833305_3674899" />
+        <TocEntry
+          Title="Work with the Verify Additional Email template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Verify_Additional_Email_template.htm#chadm-email_2233833305_1437330" />
+        <TocEntry
+          Title="Work with the Two Factor Authentication template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Two_Factor_Authentication_template.htm#chadm-email_2233833305_1439711" />
+        <TocEntry
+          Title="Work with the Impersonate User Request template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Impersonate_User_Request_template.htm#chadm-email_2233833305_1437334" />
+        <TocEntry
+          Title="Work with the Azure Sync Invite New User template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Azure_Sync_Invite_New_User_template.htm#chadm-email_2233833305_1437888" />
+        <TocEntry
+          Title="Work with the Azure Sync Invite User to Join Company template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Azure_Sync_Invite_User_to_Join_Compa.htm#chadm-email_2233833305_1437916" />
+        <TocEntry
+          Title="Work with the Activate Dashboard Account template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Activate_Dashboard_Account_template.htm#chadm-email_2233833305_1439923" />
+        <TocEntry
+          Title="Work with the Deny Review or Question template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Deny_Review_or_Question_template.htm#chadm-email_2233833305_1439924" />
+      </TocEntry>
+      <TocEntry
+        Title="Edit and enable messages for product users"
+        Link="/Content/UG_2015-Q3revA/Edit_and_enable_messages_for_product_users.htm#chadm-email_2233833305_1436094">
+        <TocEntry
+          Title="Work with the Product Assigned template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Assigned_template.htm#chadm-email_2233833305_1451243" />
+        <TocEntry
+          Title="Work with the Product Unassigned template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Unassigned_template.htm#chadm-email_2233833305_1451244" />
+        <TocEntry
+          Title="Work with the Product Assigned Asynchronously template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Assigned_Asynchronously_temp.htm#chadm-email_2233833305_1451245" />
+        <TocEntry
+          Title="Work with the Product Credentials template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Credentials_template.htm#chadm-email_2233833305_1451246" />
+        <TocEntry
+          Title="Work with the Google Apps New Admin User template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Google_Apps_New_Admin_User_template.htm#chadm-email_2233833305_1451248" />
+        <TocEntry
+          Title="Work with the Google Apps New User template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Google_Apps_New_User_template.htm#chadm-email_2233833305_1451249" />
+        <TocEntry
+          Title="Work with the Microsoft Temporary User Password template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Microsoft_Temporary_User_Password_te.htm#chadm-email_2233833305_1451251" />
+        <TocEntry
+          Title="Work with the Microsoft Username Updated template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Microsoft_Username_Updated_template.htm#chadm-email_2233833305_1451252" />
+        <TocEntry
+          Title="Work with the Microsoft Order Placed template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Microsoft_Order_Placed_template.htm#chadm-email_2233833305_1451253" />
+        <TocEntry
+          Title="Work with the Symantec.cloud New Account template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Symantec_cloud_New_Account_template.htm#chadm-email_2233833305_1451255" />
+        <TocEntry
+          Title="Work with the Symantec.cloud Existing Account template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Symantec_cloud_Existing_Account_temp.htm#chadm-email_2233833305_1451256" />
+        <TocEntry
+          Title="Work with the Docusign Assigned template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Docusign_Assigned_template.htm#chadm-email_2233833305_1451258" />
+        <TocEntry
+          Title="Work with the McAfee Purchased template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_McAfee_Purchased_template.htm#chadm-email_2233833305_1451259" />
+        <TocEntry
+          Title="Work with the Mozy New User template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Mozy_New_User_template.htm#chadm-email_2233833305_1451260" />
+        <TocEntry
+          Title="Work with the SendGrid Purchased template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_SendGrid_Purchased_template.htm#chadm-email_2233833305_1451261" />
+      </TocEntry>
+      <TocEntry
+        Title="Edit and enable messages for product owners"
+        Link="/Content/UG_2015-Q3revA/Edit_and_enable_messages_for_product_owners.htm#chadm-email_2233833305_1436095">
+        <TocEntry
+          Title="Work with the Product Purchased template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Purchased_template.htm#chadm-email_2233833305_1474766" />
+        <TocEntry
+          Title="Work with the Product Purchased Asynchronously template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Purchased_Asynchronously_tem.htm#chadm-email_2233833305_1474767" />
+        <TocEntry
+          Title="Work with the Single-user Product Purchased template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Single_user_Product_Purchased_templa.htm#chadm-email_2233833305_1474768" />
+        <TocEntry
+          Title="Work with the Purchase Failed template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Purchase_Failed_template.htm#chadm-email_2233833305_1474770" />
+        <TocEntry
+          Title="Work with the Docusign Purchased template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Docusign_Purchased_template.htm#chadm-email_2233833305_1474772" />
+        <TocEntry
+          Title="Work with the Microsoft Temporary Admin Password for CSP template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Microsoft_Temporary_Admin_Password_f.htm#chadm-email_2233833305_1474773" />
+        <TocEntry
+          Title="Work with the Microsoft Temporary Admin Password for Syndication template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Microsoft_Temporary_Admin_Password_f_1.htm#chadm-email_2233833305_2159168" />
+        <TocEntry
+          Title="Work with the Office 365 Home Premium Purchase Email template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Office_365_Home_Premium_Purchase_Ema.htm#chadm-email_2233833305_1474774" />
+        <TocEntry
+          Title="Work with the Product Purchased by Sales Agent template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Purchased_by_Sales_Agent_tem.htm#chadm-email_2233833305_1474776" />
+        <TocEntry
+          Title="Work with the Office 365 Home Renewal Reminder template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Office_365_Home_Renewal_Reminder_tem.htm#chadm-email_2233833305_1474779" />
+        <TocEntry
+          Title="Work with the Product Upgraded template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Upgraded_template.htm#chadm-email_2233833305_1474781" />
+        <TocEntry
+          Title="Work with the Subscription Updated by Sales Agent template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Subscription_Updated_by_Sales_Agent_.htm#chadm-email_2233833305_1474783" />
+        <TocEntry
+          Title="Work with the Office 365 Home Activation Reminder template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Office_365_Home_Activation_Reminder_.htm#chadm-email_2233833305_1474785" />
+        <TocEntry
+          Title="Work with the Scalextreme Purchased template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Scalextreme_Purchased_template.htm#chadm-email_2233833305_1474787" />
+        <TocEntry
+          Title="Work with the Free Trial Started template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Free_Trial_Started_template.htm#chadm-email_2233833305_1474789" />
+        <TocEntry
+          Title="Work with the Free Trial Auto Update to Paid Warning template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Free_Trial_Auto_Update_to_Paid_Warni.htm#chadm-email_2233833305_1474790" />
+        <TocEntry
+          Title="Work with the Free Trial Expiration Warning template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Free_Trial_Expiration_Warning_templa.htm#chadm-email_2233833305_1474791" />
+        <TocEntry
+          Title="Work with the Free Trial Expired template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Free_Trial_Expired_template.htm#chadm-email_2233833305_1474792" />
+        <TocEntry
+          Title="Work with the Order Approval Request template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Order_Approval_Request_template.htm#chadm-email_2233833305_1474794" />
+        <TocEntry
+          Title="Work with the Review Purchase Reminder template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Review_Purchase_Reminder_template.htm#chadm-email_2233833305_1474795" />
+        <TocEntry
+          Title="Work with the Product Ownership Removed template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Ownership_Removed_template.htm#chadm-email_2233833305_1474797" />
+        <TocEntry
+          Title="Work with the Product Ownership Changed template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Ownership_Changed_template.htm#chadm-email_2233833305_1474798" />
+        <TocEntry
+          Title="Work with the New Invoice Created template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_New_Invoice_Created_template.htm#chadm-email_2233833305_1474800" />
+        <TocEntry
+          Title="Work with the One-time Charge template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_One_time_Charge_template.htm#chadm-email_2233833305_1474801" />
+        <TocEntry
+          Title="Work with the Payment Successful template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Payment_Successful_template.htm#chadm-email_2233833305_1474802" />
+        <TocEntry
+          Title="Work with the Payment Failed template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Payment_Failed_template.htm#chadm-email_2233833305_1474803" />
+        <TocEntry
+          Title="Work with the Refund Issued template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Refund_Issued_template.htm#chadm-email_2233833305_1474804" />
+        <TocEntry
+          Title="Work with the Credit Card Expiration Warning template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Credit_Card_Expiration_Warning_templ.htm#chadm-email_2233833305_1474805" />
+        <TocEntry
+          Title="Work with the Failed to Remove User template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Failed_to_Remove_User_template.htm#chadm-email_2233833305_1474807" />
+        <TocEntry
+          Title="Work with the Product Access Requested template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Access_Requested_template.htm#chadm-email_2233833305_1474808" />
+        <TocEntry
+          Title="Work with the Subscription Suspended template for automated management of past-due payments"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Subscription_Suspended_template_for_.htm#chadm-email_2233833305_1474810" />
+        <TocEntry
+          Title="Work with the Subscription Suspended template for manual management of unexpected outcomes"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Subscription_Suspended_template_for__1.htm#chadm-email_2233833305_1474811" />
+        <TocEntry
+          Title="Work with the Subscription Canceled template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Subscription_Canceled_template.htm#chadm-email_2233833305_1474812" />
+        <TocEntry
+          Title="Work with the End of Contract template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_End_of_Contract_template.htm#chadm-email_2233833305_1474813" />
+      </TocEntry>
+      <TocEntry
+        Title="Edit and enable messages for company administrators"
+        Link="/Content/UG_2015-Q3revA/Edit_and_enable_messages_for_company_administrator.htm#chadm-email_2233833305_1436096">
+        <TocEntry
+          Title="Work with the Product Purchased by User template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Purchased_by_User_template.htm#chadm-email_2233833305_1527970" />
+        <TocEntry
+          Title="Work with the Product Purchase Requested template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Purchase_Requested_template.htm#chadm-email_2233833305_1527971" />
+        <TocEntry
+          Title="Work with the Expired Product Requested template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Expired_Product_Requested_template.htm#chadm-email_2233833305_1527972" />
+        <TocEntry
+          Title="Work with the Suspended Product Requested template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Suspended_Product_Requested_template.htm#chadm-email_2233833305_1527973" />
+        <TocEntry
+          Title="Work with the Office 365 Temporary Passwords template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Office_365_Temporary_Passwords_templ.htm#chadm-email_2233833305_1527974" />
+      </TocEntry>
+      <TocEntry
+        Title="Edit and enable messages for reseller managers"
+        Link="/Content/UG_2015-Q3revA/Edit_and_enable_messages_for_reseller_managers.htm#chadm-email_2233833305_3504239">
+        <TocEntry
+          Title="Work with the Reseller Signup Requested template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Reseller_Signup_Requested_template.htm#chadm-email_2233833305_2181558" />
+        <TocEntry
+          Title="Work with the Reseller Profile Publication Requested template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Reseller_Profile_Publication_Request.htm#chadm-email_2233833305_3505466" />
+        <TocEntry
+          Title="Work with the Sales Lead Created template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Sales_Lead_Created_template.htm#chadm-email_2233833305_3505467" />
+        <TocEntry
+          Title="Work with the Sales Opportunity Created template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Sales_Opportunity_Created_template.htm#chadm-email_2233833305_3505468" />
+      </TocEntry>
+      <TocEntry
+        Title="Edit and enable messages for resellers"
+        Link="/Content/UG_2015-Q3revA/Edit_and_enable_messages_for_resellers.htm#chadm-email_2233833305_1436098">
+        <TocEntry
+          Title="Work with the Reseller Linked template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Reseller_Linked_template.htm#chadm-email_2233833305_1471363" />
+        <TocEntry
+          Title="Work with the Reseller Unlinked template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Reseller_Unlinked_template.htm#chadm-email_2233833305_2055796" />
+        <TocEntry
+          Title="Work with the Pending Sales Lead Accepted template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Pending_Sales_Lead_Accepted_template.htm#chadm-email_2233833305_2055824" />
+        <TocEntry
+          Title="Work with the Pending Sales Lead Denied template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Pending_Sales_Lead_Denied_template.htm#chadm-email_2233833305_2055865" />
+        <TocEntry
+          Title="Work with the Accepted Sales Lead Assigned template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Accepted_Sales_Lead_Assigned_templat.htm#chadm-email_2233833305_2055900" />
+        <TocEntry
+          Title="Work with the Accepted Sales Lead Won template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Accepted_Sales_Lead_Won_template.htm#chadm-email_2233833305_2055938" />
+        <TocEntry
+          Title="Work with the Accepted Sales Lead Lost template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Accepted_Sales_Lead_Lost_template.htm#chadm-email_2233833305_2055971" />
+        <TocEntry
+          Title="Work with the Reseller Signup Request Approved template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Reseller_Signup_Request_Approved_tem.htm#chadm-email_2233833305_2181559" />
+        <TocEntry
+          Title="Work with the Reseller Signup Request Denied template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Reseller_Signup_Request_Denied_templ.htm#chadm-email_2233833305_2181560" />
+        <TocEntry
+          Title="Work with the Sales Opportunity Approved template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Sales_Opportunity_Approved_template.htm#chadm-email_2233833305_2181561" />
+        <TocEntry
+          Title="Work with the Sales Opportunity Denied template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Sales_Opportunity_Denied_template.htm#chadm-email_2233833305_2181562" />
+      </TocEntry>
+      <TocEntry
+        Title="Edit and enable messages for developers (vendors)"
+        Link="/Content/UG_2015-Q3revA/Edit_and_enable_messages_for_developers__vendors_.htm#chadm-email_2233833305_1436099">
+        <TocEntry
+          Title="Work with the Symantec EV Cloud Subscription Change template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Symantec_EV_Cloud_Subscription_Chang.htm#chadm-email_2233833305_2043496" />
+        <TocEntry
+          Title="Work with the Publish Request Successful template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Publish_Request_Successful_template.htm#chadm-email_2233833305_2043497" />
+        <TocEntry
+          Title="Work with the Marketplace Requests to Add Product template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Marketplace_Requests_to_Add_Product_.htm#chadm-email_2233833305_2043498" />
+        <TocEntry
+          Title="Work with the Product Added template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Added_template.htm#chadm-email_2233833305_2043499" />
+        <TocEntry
+          Title="Work with the Publish Request Denied template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Publish_Request_Denied_template.htm#chadm-email_2233833305_2043500" />
+        <TocEntry
+          Title="Work with the Publish Request Pending Approval template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Publish_Request_Pending_Approval_tem.htm#chadm-email_2233833305_2043471" />
+        <TocEntry
+          Title="Work with the Product Purchase Event template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Product_Purchase_Event_template.htm#chadm-email_2233833305_1474769" />
+        <TocEntry
+          Title="Work with the Question Asked template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Question_Asked_template.htm#chadm-email_2233833305_2043604" />
+        <TocEntry
+          Title="Work with the Review Written template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Review_Written_template.htm#chadm-email_2233833305_1478472" />
+      </TocEntry>
+      <TocEntry
+        Title="Edit and enable messages for customer support representatives"
+        Link="/Content/UG_2015-Q3revA/Edit_and_enable_messages_for_customer_support_repr.htm#chadm-email_2233833305_2958829">
+        <TocEntry
+          Title="Work with the Manual Event Resolution template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Manual_Event_Resolution_template.htm#chadm-email_2233833305_2958901" />
+      </TocEntry>
+      <TocEntry
+        Title="Edit and enable messages for channel administrators"
+        Link="/Content/UG_2015-Q3revA/Edit_and_enable_messages_for_channel_administrator.htm#chadm-email_2233833305_1436086">
+        <TocEntry
+          Title="Work with the Network Product Re[%=UG_2015-Q3revA.nonbreaking hyphen%]published template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Network_Product_Republished_template.htm#chadm-email_2233833305_2043974" />
+        <TocEntry
+          Title="Work with the Report Generated template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Report_Generated_template.htm#chadm-email_2233833305_2043975" />
+        <TocEntry
+          Title="Work with the Vendor Requests to Add Product template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Vendor_Requests_to_Add_Product_templ.htm#chadm-email_2233833305_2043976" />
+        <TocEntry
+          Title="Work with the Vendor Approved Add Request template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Vendor_Approved_Add_Request_template.htm#chadm-email_2233833305_2043977" />
+        <TocEntry
+          Title="Work with the Vendor Publish Request template"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_Vendor_Publish_Request_template.htm#chadm-email_2233833305_2043957" />
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="chapter 6"
+    Link="/Content/UG_2015-Q3revA/chadm-cust-transct.htm#chadm-cust-transct_2987597038_1176109">
+    <TocEntry
+      Title="vendor share"
+      Link="/Content/UG_2015-Q3revA/Glossary_3.htm#chadm-cust-transct_2987597038_1535541">
+      <TocEntry
+        Title="Concepts"
+        Link="/Content/UG_2015-Q3revA/Concepts_2.htm#chadm-cust-transct_2987597038_1200614">
+        <TocEntry
+          Title="Orientation"
+          Link="/Content/UG_2015-Q3revA/Orientation.htm#chadm-cust-transct_2987597038_1393961">
+          <TocEntry
+            Title="Billing feature aggregation and navigation"
+            Link="/Content/UG_2015-Q3revA/Billing_feature_aggregation_and_navigation.htm#chadm-cust-transct_2987597038_1369954" />
+          <TocEntry
+            Title="Understand recent financial performance quickly"
+            Link="/Content/UG_2015-Q3revA/Understand_recent_financial_performance_quickly.htm#chadm-cust-transct_2987597038_1369892">
+            <TocEntry
+              Title="Understand dashboard gauges"
+              Link="/Content/UG_2015-Q3revA/Understand_dashboard_gauges.htm#chadm-cust-transct_2987597038_1394768" />
+          </TocEntry>
+          <TocEntry
+            Title="Understand the flow of funds"
+            Link="/Content/UG_2015-Q3revA/Understand_the_flow_of_funds.htm#chadm-cust-transct_2987597038_2137631" />
+        </TocEntry>
+        <TocEntry
+          Title="Customer billing management basics"
+          Link="/Content/UG_2015-Q3revA/Customer_billing_management_basics.htm#chadm-cust-transct_2987597038_1393963">
+          <TocEntry
+            Title="Understand billing information on a company details page"
+            Link="/Content/UG_2015-Q3revA/Understand_billing_information_on_a_company_detail.htm#chadm-cust-transct_2987597038_1370190" />
+          <TocEntry
+            Title="Understand billing information on a user details page"
+            Link="/Content/UG_2015-Q3revA/Understand_billing_information_on_a_user_details_p.htm#chadm-cust-transct_2987597038_1370232" />
+        </TocEntry>
+        <TocEntry
+          Title="Revenue management basics"
+          Link="/Content/UG_2015-Q3revA/Revenue_management_basics.htm#chadm-cust-transct_2987597038_1393964">
+          <TocEntry
+            Title="Understand your orders ledger"
+            Link="/Content/UG_2015-Q3revA/Understand_your_orders_ledger.htm#chadm-cust-transct_2987597038_1369364" />
+          <TocEntry
+            Title="Understand order details"
+            Link="/Content/UG_2015-Q3revA/Understand_order_details.htm#chadm-cust-transct_2987597038_1399825" />
+          <TocEntry
+            Title="Understand your invoices ledger"
+            Link="/Content/UG_2015-Q3revA/Understand_your_invoices_ledger.htm#chadm-cust-transct_2987597038_1399874" />
+          <TocEntry
+            Title="Understand invoice details"
+            Link="/Content/UG_2015-Q3revA/Understand_invoice_details.htm#chadm-cust-transct_2987597038_1399927" />
+          <TocEntry
+            Title="Understand your payments ledger"
+            Link="/Content/UG_2015-Q3revA/Understand_your_payments_ledger.htm#chadm-cust-transct_2987597038_1399975" />
+          <TocEntry
+            Title="Understand payment details"
+            Link="/Content/UG_2015-Q3revA/Understand_payment_details.htm#chadm-cust-transct_2987597038_1400024" />
+          <TocEntry
+            Title="Understand your quotes ledger"
+            Link="/Content/UG_2015-Q3revA/Understand_your_quotes_ledger.htm#chadm-cust-transct_2987597038_1804733" />
+          <TocEntry
+            Title="Understand your reconciliation records ledger"
+            Link="/Content/UG_2015-Q3revA/Understand_your_reconciliation_records_ledger.htm#chadm-cust-transct_2987597038_1400064" />
+          <TocEntry
+            Title="Understand your payouts ledger"
+            Link="/Content/UG_2015-Q3revA/Understand_your_payouts_ledger.htm#chadm-cust-transct_2987597038_1400123" />
+          <TocEntry
+            Title="Understand your ledger of current revenue share percentages per product"
+            Link="/Content/UG_2015-Q3revA/Understand_your_ledger_of_current_revenue_share_pe.htm#chadm-cust-transct_2987597038_1400202" />
+          <TocEntry
+            Title="Understand the revenue sharing history for one product"
+            Link="/Content/UG_2015-Q3revA/Understand_the_revenue_sharing_history_for_one_pro.htm#chadm-cust-transct_2987597038_1400279" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Procedures"
+        Link="/Content/UG_2015-Q3revA/Procedures_4.htm#chadm-cust-transct_2987597038_1200752">
+        <TocEntry
+          Title="Work with your orders ledger"
+          Link="/Content/UG_2015-Q3revA/Work_with_your_orders_ledger.htm#chadm-cust-transct_2987597038_1405711" />
+        <TocEntry
+          Title="Work with order details"
+          Link="/Content/UG_2015-Q3revA/Work_with_order_details.htm#chadm-cust-transct_2987597038_1405712" />
+        <TocEntry
+          Title="Work with your invoices ledger"
+          Link="/Content/UG_2015-Q3revA/Work_with_your_invoices_ledger.htm#chadm-cust-transct_2987597038_1405713" />
+        <TocEntry
+          Title="Work with invoice details"
+          Link="/Content/UG_2015-Q3revA/Work_with_invoice_details.htm#chadm-cust-transct_2987597038_1405714" />
+        <TocEntry
+          Title="Work with your payments ledger"
+          Link="/Content/UG_2015-Q3revA/Work_with_your_payments_ledger.htm#chadm-cust-transct_2987597038_1405715" />
+        <TocEntry
+          Title="Work with payment details"
+          Link="/Content/UG_2015-Q3revA/Work_with_payment_details.htm#chadm-cust-transct_2987597038_1405716" />
+        <TocEntry
+          Title="Work with your quotes ledger"
+          Link="/Content/UG_2015-Q3revA/Work_with_your_quotes_ledger.htm#chadm-cust-transct_2987597038_1808201">
+          <TocEntry
+            Title="Edit a quote"
+            Link="/Content/UG_2015-Q3revA/Edit_a_quote.htm#chadm-cust-transct_2987597038_1808248" />
+          <TocEntry
+            Title="Delete a quote"
+            Link="/Content/UG_2015-Q3revA/Delete_a_quote.htm#chadm-cust-transct_2987597038_1808278" />
+        </TocEntry>
+        <TocEntry
+          Title="Work with your reconciliation records ledger"
+          Link="/Content/UG_2015-Q3revA/Work_with_your_reconciliation_records_ledger.htm#chadm-cust-transct_2987597038_1405717" />
+        <TocEntry
+          Title="Work with your payouts ledger"
+          Link="/Content/UG_2015-Q3revA/Work_with_your_payouts_ledger.htm#chadm-cust-transct_2987597038_1405718" />
+        <TocEntry
+          Title="Work with your revenue shares ledger"
+          Link="/Content/UG_2015-Q3revA/Work_with_your_revenue_shares_ledger.htm#chadm-cust-transct_2987597038_1405720" />
+        <TocEntry
+          Title="Work with the revenue shares history for a product"
+          Link="/Content/UG_2015-Q3revA/Work_with_the_revenue_shares_history_for_a_product.htm#chadm-cust-transct_2987597038_1405700" />
+      </TocEntry>
+      <TocEntry
+        Title="Reference"
+        Link="/Content/UG_2015-Q3revA/Reference_1.htm#chadm-cust-transct_2987597038_2475399">
+        <TocEntry
+          Title="Field reference tables for billing settings and workflows"
+          Link="/Content/UG_2015-Q3revA/Field_reference_tables_for_billing_settings_and_wo.htm#chadm-cust-transct_2987597038_2475405">
+          <TocEntry
+            Title="Orders (Products) page element reference"
+            Link="/Content/UG_2015-Q3revA/Orders__Products__page_element_reference.htm#chadm-cust-transct_2987597038_2475450" />
+          <TocEntry
+            Title="Orders (Editions) page element reference"
+            Link="/Content/UG_2015-Q3revA/Orders__Editions__page_element_reference.htm#chadm-cust-transct_2987597038_2475612" />
+          <TocEntry
+            Title="Invoices page element reference"
+            Link="/Content/UG_2015-Q3revA/Invoices_page_element_reference.htm#chadm-cust-transct_2987597038_2475790" />
+          <TocEntry
+            Title="Payments page element reference"
+            Link="/Content/UG_2015-Q3revA/Payments_page_element_reference.htm#chadm-cust-transct_2987597038_2475884" />
+          <TocEntry
+            Title="Reconciliation page element reference"
+            Link="/Content/UG_2015-Q3revA/Reconciliation_page_element_reference.htm#chadm-cust-transct_2987597038_2475982" />
+          <TocEntry
+            Title="Billing page element reference"
+            Link="/Content/UG_2015-Q3revA/Billing_page_element_reference.htm#chadm-cust-transct_2987597038_2476194" />
+        </TocEntry>
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="chapter 7"
+    Link="/Content/UG_2015-Q3revA/chadm-mon-mktpl.htm#chadm-mon-mktpl_694800158_1176109">
+    <TocEntry
+      Title="user updated event"
+      Link="/Content/UG_2015-Q3revA/Glossary_4.htm#chadm-mon-mktpl_694800158_1535529">
+      <TocEntry
+        Title="Concepts"
+        Link="/Content/UG_2015-Q3revA/Glossary_4.htm#chadm-mon-mktpl_694800158_1955783">
+        <TocEntry
+          Title="Scheduled reports overview"
+          Link="/Content/UG_2015-Q3revA/Scheduled_reports_overview.htm#chadm-mon-mktpl_694800158_1955868" />
+        <TocEntry
+          Title="Event logging overview"
+          Link="/Content/UG_2015-Q3revA/Event_logging_overview.htm#chadm-mon-mktpl_694800158_1955975" />
+        <TocEntry
+          Title="Understand feature aggregation and navigation for marketplace monitoring"
+          Link="/Content/UG_2015-Q3revA/Understand_feature_aggregation_and_navigation_for_.htm#chadm-mon-mktpl_694800158_2146438" />
+      </TocEntry>
+      <TocEntry
+        Title="Procedures"
+        Link="/Content/UG_2015-Q3revA/Procedures_5.htm#chadm-mon-mktpl_694800158_1200752">
+        <TocEntry
+          Title="Work with scheduled reports"
+          Link="/Content/UG_2015-Q3revA/Work_with_scheduled_reports.htm#chadm-mon-mktpl_694800158_1402798" />
+        <TocEntry
+          Title="Work with server logs"
+          Link="/Content/UG_2015-Q3revA/Work_with_server_logs.htm#chadm-mon-mktpl_694800158_1648186">
+          <TocEntry
+            Title="Work with pending events"
+            Link="/Content/UG_2015-Q3revA/Work_with_pending_events.htm#chadm-mon-mktpl_694800158_1648394" />
+          <TocEntry
+            Title="Work with integration events"
+            Link="/Content/UG_2015-Q3revA/Work_with_integration_events.htm#chadm-mon-mktpl_694800158_1669942" />
+          <TocEntry
+            Title="Work with Microsoft SKU transition events"
+            Link="/Content/UG_2015-Q3revA/Work_with_Microsoft_SKU_transition_events.htm#chadm-mon-mktpl_694800158_1670046" />
+          <TocEntry
+            Title="Work with app usage logs"
+            Link="/Content/UG_2015-Q3revA/Work_with_app_usage_logs.htm#chadm-mon-mktpl_694800158_1648437" />
+          <TocEntry
+            Title="Work with admin logs"
+            Link="/Content/UG_2015-Q3revA/Work_with_admin_logs.htm#chadm-mon-mktpl_694800158_1648337" />
+        </TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Reference"
+        Link="/Content/UG_2015-Q3revA/Reference_2.htm#chadm-mon-mktpl_694800158_2146537">
+        <TocEntry
+          Title="FAQs and troubleshooting for marketplace monitoring workflows"
+          Link="/Content/UG_2015-Q3revA/FAQs_and_troubleshooting_for_marketplace_monitorin.htm#chadm-mon-mktpl_694800158_2146555" />
+        <TocEntry
+          Title="Marketplace monitoring field reference tables"
+          Link="/Content/UG_2015-Q3revA/Marketplace_monitoring_field_reference_tables.htm#chadm-mon-mktpl_694800158_2146560">
+          <TocEntry
+            Title="Reports page element reference"
+            Link="/Content/UG_2015-Q3revA/Reports_page_element_reference.htm#chadm-mon-mktpl_694800158_2146591" />
+          <TocEntry
+            Title="Event Logs page element reference"
+            Link="/Content/UG_2015-Q3revA/Event_Logs_page_element_reference.htm#chadm-mon-mktpl_694800158_2146649" />
+          <TocEntry
+            Title="App Usage Logs page element reference"
+            Link="/Content/UG_2015-Q3revA/App_Usage_Logs_page_element_reference.htm#chadm-mon-mktpl_694800158_2146831" />
+          <TocEntry
+            Title="Admin Logs page element reference"
+            Link="/Content/UG_2015-Q3revA/Admin_Logs_page_element_reference.htm#chadm-mon-mktpl_694800158_2146891" />
+        </TocEntry>
+        <TocEntry
+          Title="CSV file reference tables for marketplace monitoring workflows"
+          Link="/Content/UG_2015-Q3revA/CSV_file_reference_tables_for_marketplace_monitori.htm#chadm-mon-mktpl_694800158_2146985">
+          <TocEntry
+            Title="{}.CSV file element reference"
+            Link="/Content/UG_2015-Q3revA/___CSV_file_element_reference.htm#chadm-mon-mktpl_694800158_2146988" />
+        </TocEntry>
+        <TocEntry
+          Title="Interpret error messages during marketplace monitoring workflows"
+          Link="/Content/UG_2015-Q3revA/Interpret_error_messages_during_marketplace_monito.htm#chadm-mon-mktpl_694800158_2147025" />
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="appendix A"
+    Link="/Content/UG_2015-Q3revA/appdx-po-states.htm#appdx-po-states_882093397_1380280">
+    <TocEntry
+      Title="purchase order states"
+      Link="/Content/UG_2015-Q3revA/appdx-po-states.htm#appdx-po-states_882093397_1178064">
+      <TocEntry
+        Title="Overview"
+        Link="/Content/UG_2015-Q3revA/Overview.htm#appdx-po-states_882093397_1303355" />
+      <TocEntry
+        Title="Orders that Start as INITIALIZED"
+        Link="/Content/UG_2015-Q3revA/Orders_that_Start_as_INITIALIZED_.htm#appdx-po-states_882093397_1307612">
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Active &gt; Canceled"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Active___Ca.htm#appdx-po-states_882093397_1307707" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Active &gt; Finished"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Active___Fi.htm#appdx-po-states_882093397_1303404" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Active &gt; Suspended &gt; Active"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Active___Su.htm#appdx-po-states_882093397_1303418" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Active &gt; Suspended &gt; Canceled"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Active___Su_1.htm#appdx-po-states_882093397_1303433" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Active &gt; Suspended &gt; Finished"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Active___Su_2.htm#appdx-po-states_882093397_1303448" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt; Failed"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation___Failed.htm#appdx-po-states_882093397_1303462" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Free Trial &gt; Active &gt; Canceled"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Free_Trial_.htm#appdx-po-states_882093397_1303476" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Free Trial &gt; Active &gt; Finished"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Free_Trial__1.htm#appdx-po-states_882093397_1303494" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Free Trial &gt; Active &gt; Suspended &gt; Active"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Free_Trial__2.htm#appdx-po-states_882093397_1303511" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Free Trial &gt; Active &gt; Suspended &gt; Canceled"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Free_Trial__3.htm#appdx-po-states_882093397_1303530" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Free Trial &gt; Active &gt; Suspended &gt; Finished"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Free_Trial__4.htm#appdx-po-states_882093397_1303549" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Free Trial &gt; Free Trial Canceled"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Free_Trial__5.htm#appdx-po-states_882093397_1303570" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Free Trial &gt; Free Trial Expired &gt;Free Trial Canceled"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Free_Trial__6.htm#appdx-po-states_882093397_1303585" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Free Trial &gt; Free Trial Expired"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Free_Trial__7.htm#appdx-po-states_882093397_1303603" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;Free Trial &gt; One-Time"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__Free_Trial__8.htm#appdx-po-states_882093397_1303618" />
+        <TocEntry
+          Title="Initialized &gt; Pending Remote Creation &gt;One­Time"
+          Link="/Content/UG_2015-Q3revA/Initialized___Pending_Remote_Creation__One_Time.htm#appdx-po-states_882093397_1303635" />
+      </TocEntry>
+      <TocEntry
+        Title="Orders that Start as PENDING USER APPROVAL"
+        Link="/Content/UG_2015-Q3revA/Orders_that_Start_as_PENDING_USER_APPROVAL.htm#appdx-po-states_882093397_1303899">
+        <TocEntry
+          Title="Pending User Approval &gt; Deleted"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval___Deleted.htm#appdx-po-states_882093397_1303903" />
+        <TocEntry
+          Title="Pending User Approval &gt;Pending Remote Creation &gt;Active &gt; Canceled"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval__Pending_Remote_Creation__Ac.htm#appdx-po-states_882093397_1303913" />
+        <TocEntry
+          Title="Pending User Approval &gt; Pending Remote Creation &gt; Active &gt; Finished"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval___Pending_Remote_Creation___.htm#appdx-po-states_882093397_1303931" />
+        <TocEntry
+          Title="Pending User Approval &gt; Pending Remote Creation &gt; Active &gt; Suspended &gt; Active"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval___Pending_Remote_Creation____1.htm#appdx-po-states_882093397_1303945" />
+        <TocEntry
+          Title="Pending User Approval &gt; Pending Remote Creation &gt; Active &gt; Suspended &gt; Canceled"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval___Pending_Remote_Creation____2.htm#appdx-po-states_882093397_1303960" />
+        <TocEntry
+          Title="Pending User Approval &gt; Pending Remote Creation &gt; Active &gt; Suspended &gt; Finished"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval___Pending_Remote_Creation____3.htm#appdx-po-states_882093397_1303977" />
+        <TocEntry
+          Title="Pending User Approval &gt;Pending Remote Creation &gt; Failed"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval__Pending_Remote_Creation___F.htm#appdx-po-states_882093397_1303993" />
+        <TocEntry
+          Title="Pending User Approval &gt; Pending Remote Creation &gt; Free Trial &gt; Active &gt; Canceled"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval___Pending_Remote_Creation____4.htm#appdx-po-states_882093397_1304006" />
+        <TocEntry
+          Title="Pending User Approval &gt; Pending Remote Creation &gt; Free Trial &gt; Active &gt; Finished"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval___Pending_Remote_Creation____5.htm#appdx-po-states_882093397_1304027" />
+        <TocEntry
+          Title="Pending User Approval &gt; Pending Remote Creation &gt; Free Trial &gt; Active &gt; Suspended &gt; Active"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval___Pending_Remote_Creation____6.htm#appdx-po-states_882093397_1304045" />
+        <TocEntry
+          Title="Pending User Approval &gt;Pending Remote Creation &gt; Free Trial &gt; Active &gt; Suspended &gt; Canceled"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval__Pending_Remote_Creation___F_1.htm#appdx-po-states_882093397_1304063" />
+        <TocEntry
+          Title="Pending User Approval &gt;Pending Remote Creation &gt; Free Trial &gt; Active &gt; Suspended &gt; Finished"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval__Pending_Remote_Creation___F_2.htm#appdx-po-states_882093397_1304080" />
+        <TocEntry
+          Title="Pending User Approval &gt; Pending Remote Creation &gt; Free Trial &gt; Free Trial Canceled"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval___Pending_Remote_Creation____7.htm#appdx-po-states_882093397_1304099" />
+        <TocEntry
+          Title="Pending User Approval &gt;Pending Remote Creation &gt; Free Trial &gt; Free Trial Expired &gt; Free Trial Canceled"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval__Pending_Remote_Creation___F_3.htm#appdx-po-states_882093397_1304113" />
+        <TocEntry
+          Title="Pending User Approval &gt; Pending Remote Creation &gt; Free Trial &gt; Free Trial Expired"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval___Pending_Remote_Creation____8.htm#appdx-po-states_882093397_1304128" />
+        <TocEntry
+          Title="Pending User Approval &gt;Pending Remote Creation &gt;Free Trial &gt; One­Time"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval__Pending_Remote_Creation__Fr.htm#appdx-po-states_882093397_1304142" />
+        <TocEntry
+          Title="Pending User Approval &gt;Pending Remote Creation &gt; One-Time"
+          Link="/Content/UG_2015-Q3revA/Pending_User_Approval__Pending_Remote_Creation___O.htm#appdx-po-states_882093397_1304159" />
+      </TocEntry>
+      <TocEntry
+        Title="Orders that Start as UPCOMING"
+        Link="/Content/UG_2015-Q3revA/Orders_that_Start_as_UPCOMING.htm#appdx-po-states_882093397_1304172">
+        <TocEntry
+          Title="Upcoming &gt; Active &gt; Canceled"
+          Link="/Content/UG_2015-Q3revA/Upcoming___Active___Canceled.htm#appdx-po-states_882093397_1304176" />
+        <TocEntry
+          Title="Upcoming &gt; Active &gt; Finished"
+          Link="/Content/UG_2015-Q3revA/Upcoming___Active___Finished.htm#appdx-po-states_882093397_1304189" />
+        <TocEntry
+          Title="Upcoming &gt; Active &gt; Suspended &gt; Active"
+          Link="/Content/UG_2015-Q3revA/Upcoming___Active___Suspended___Active.htm#appdx-po-states_882093397_1304203" />
+        <TocEntry
+          Title="Upcoming &gt; Active &gt; Suspended &gt; Canceled"
+          Link="/Content/UG_2015-Q3revA/Upcoming___Active___Suspended___Canceled.htm#appdx-po-states_882093397_1304217" />
+        <TocEntry
+          Title="Upcoming &gt; Active &gt; Suspended &gt; Finished"
+          Link="/Content/UG_2015-Q3revA/Upcoming___Active___Suspended___Finished.htm#appdx-po-states_882093397_1304231" />
+        <TocEntry
+          Title="Upcoming &gt; Deleted"
+          Link="/Content/UG_2015-Q3revA/Upcoming___Deleted.htm#appdx-po-states_882093397_1304259" />
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

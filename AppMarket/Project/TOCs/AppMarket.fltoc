@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Getting-Started"
+    Link="/Project/TOCs/Getting-Started.fltoc" />
+  <TocEntry
+    Title="App-Marketplace"
+    Link="/Project/TOCs/App-Marketplace.fltoc" />
+  <TocEntry
+    Title="App-Manager"
+    Link="/Project/TOCs/App-Manager.fltoc" />
+  <TocEntry
+    Title="Marketplace-Manager"
+    Link="/Project/TOCs/Marketplace-Manager.fltoc" />
+  <TocEntry
+    Title="Dev-Center"
+    Link="/Project/TOCs/Dev-Center.fltoc" />
+</CatapultToc>
