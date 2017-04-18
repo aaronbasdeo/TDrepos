@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Resources/TableStyles/GT_GlossaryTable.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1><a name="chadm-mktpl-setup_1867565093_1832348"></a><a name="chadm-mktpl-setup_1867565093_10417"></a><span class="_Override">Understand r</span>obots.txt</h1>
+        <p class="BL_BlockLabel"><span class="_Override">Navigation path</span>
+        </p>
+        <p class="NP_NavigationPath"><b>Manage &gt; Channel &gt; Settings &gt; </b>Settings | <b>Marketplace Functionality</b></p>
+        <p><span class="_Override">Search engine webcrawlers use a website’s </span><span class="S_Sample">robots.txt</span><span class="_Override"> file to learn which parts of a site should be indexed and which parts should not. You can edit the </span><span class="S_Sample">robots.txt</span><span class="_Override"> file for your marketplace. Its logic should be parallel with these examples:</span>
+        </p>
+        <p class="Sp_SignpostParagraph"><span class="SpF_SignpostFlag">&#160;NOTE:&#160;</span>&#160;Replace <span class="S_Sample">{spider_name*}</span> <span class="_Override">in these examples </span>with the actual name of the search engine spider<span class="_Override"> whose behavior you mean to constrain</span>, such as <span class="S_Sample">googlebot</span>, <span class="S_Sample">bingbot</span>, or&#160;<span class="S_Sample">slurp</span>.<span class="_Override"></span></p>
+        <table style="width: 534px;caption-side: top;mc-table-style: url('../Resources/TableStyles/GT_GlossaryTable.css');" class="TableStyle-GT_GlossaryTable" cellspacing="0">
+            <col width="146px" class="TableStyle-GT_GlossaryTable-Column-Column1" />
+            <col width="388px" class="TableStyle-GT_GlossaryTable-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-GT_GlossaryTable-Body-Body1">
+                    <td class="TableStyle-GT_GlossaryTable-BodyH-Column1-Body1">
+                        <p class="CBu_CellBullet" style="font-family: 'Aaux Next Medium';font-weight: normal;font-style: italic;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><i>All spiders can index everything</i>
+                        </p>
+                    </td>
+                    <td class="TableStyle-GT_GlossaryTable-BodyG-Column1-Body1">
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">User-agent: *</span>
+                        </p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">Allow: /</span>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-GT_GlossaryTable-Body-Body1">
+                    <td class="TableStyle-GT_GlossaryTable-BodyE-Column1-Body1">
+                        <p class="CBu_CellBullet" style="font-family: 'Aaux Next Medium';font-weight: normal;font-style: italic;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><i>All spiders are forbidden to index anything</i>
+                        </p>
+                    </td>
+                    <td class="TableStyle-GT_GlossaryTable-BodyD-Column1-Body1">
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">User-agent: *</span>
+                        </p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">Disallow: /</span>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-GT_GlossaryTable-Body-Body2">
+                    <td class="TableStyle-GT_GlossaryTable-BodyH-Column1-Body2">
+                        <p class="CBu_CellBullet" style="font-family: 'Aaux Next Medium';font-weight: normal;font-style: italic;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><i>All spiders are forbidden to index specified subdirectories</i>
+                        </p>
+                    </td>
+                    <td class="TableStyle-GT_GlossaryTable-BodyG-Column1-Body2">
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">User-agent: *</span>
+                        </p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">Disallow: /example1/</span>
+                        </p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">Disallow: /example2/</span>
+                        </p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">Disallow: /example3/</span>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-GT_GlossaryTable-Body-Body2">
+                    <td class="TableStyle-GT_GlossaryTable-BodyE-Column1-Body2">
+                        <p class="CBu_CellBullet" style="font-family: 'Aaux Next Medium';font-weight: normal;font-style: italic;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><i>All spiders are forbidden to index a specified file</i>
+                        </p>
+                    </td>
+                    <td class="TableStyle-GT_GlossaryTable-BodyD-Column1-Body2">
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">User-agent: *</span>
+                        </p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">Disallow: /example/examplefile.html</span>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-GT_GlossaryTable-Body-Body1">
+                    <td class="TableStyle-GT_GlossaryTable-BodyH-Column1-Body1">
+                        <p class="CBu_CellBullet" style="font-family: 'Aaux Next Medium';font-weight: normal;font-style: italic;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><i>A specified spider is forbidden to index anything</i>
+                        </p>
+                    </td>
+                    <td class="TableStyle-GT_GlossaryTable-BodyG-Column1-Body1">
+                        <p class="CB_CellBody"><span class="S_Sample">User-agent: {spider_name}</span><span class="_Override">&#160;&#160;</span>
+                        </p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">Disallow: /</span>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-GT_GlossaryTable-Body-Body1">
+                    <td class="TableStyle-GT_GlossaryTable-BodyE-Column1-Body1">
+                        <p class="CBu_CellBullet" style="font-family: 'Aaux Next Medium';font-weight: normal;font-style: italic;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><i>Two specified spiders are forbidden to index a specified subdirectory</i>
+                        </p>
+                    </td>
+                    <td class="TableStyle-GT_GlossaryTable-BodyD-Column1-Body1">
+                        <p class="CB_CellBody"><span class="S_Sample">User-agent: {spider_name1}</span><span class="_Override" style="font-size: 80%;vertical-align: super;">&#160;&#160;</span>
+                        </p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">User-agent: {spider_name2}</span><span class="_Override" style="font-family: 'Aaux Next Medium';font-size: 80%;vertical-align: super;">&#160;&#160;</span>
+                        </p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">Disallow: /example/</span>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-GT_GlossaryTable-Body-Body2">
+                    <td class="TableStyle-GT_GlossaryTable-BodyB-Column1-Body2">
+                        <p class="CBu_CellBullet" style="font-family: 'Aaux Next Medium';font-weight: normal;font-style: italic;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><i>Differing permissions for different spiders</i>
+                        </p>
+                    </td>
+                    <td class="TableStyle-GT_GlossaryTable-BodyA-Column1-Body2">
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">User-agent: {spider_name1}</span><span class="_Override" style="font-family: 'Aaux Next Medium';font-size: 80%;vertical-align: super;">&#160;&#160;</span>
+                        </p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">Allow: /example1/</span>
+                        </p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;">&#160;</p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">User-agent: {spider_name2}</span><span class="_Override" style="font-family: 'Aaux Next Medium';font-size: 80%;vertical-align: super;">&#160;&#160;</span>
+                        </p>
+                        <p class="CB_CellBody" style="font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;text-decoration: none;"><span class="S_Sample">Disallow: /example2/</span>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="BL_BlockLabel"><span class="_Override">Related topics</span>
+        </p>
+        <p class="Bu1_Bullet1"><span class="_Override"><MadCap:xref href="Edit_robots_txt.htm#chadm-mktpl-setup_1867565093_1876688">Edit robots.txt</MadCap:xref></span>
+        </p>
+    </body>
+</html>

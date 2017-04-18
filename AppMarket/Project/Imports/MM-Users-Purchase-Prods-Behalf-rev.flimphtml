@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="AppMarket"
+  ProjectFolder="C:\Users\jBilling\Google Drive\AppMarket\"
+  AutoSync="false"
+  SourceFolders=""
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2017-04-13T14:08:50.7513630-04:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../Desktop/Flare/Marketplace Manager Flare html/MM-Users-Purchase-Prods-Behalf-rev.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Marketplace Manager Flare html/MM-Users-Purchase-Prods-Behalf-rev.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/MM-Users-Purchase-Prods-Behalf-rev.html"
+      TimeStamp="2017-04-13 2:08:42 PM" />
+    <Url
+      Source="../TOCs/MM-Users-Purchase-Prods-Behalf-rev.fltoc"
+      TimeStamp="2017-04-13 2:08:50 PM" />
+  </GeneratedFiles>
+</HtmlImport>

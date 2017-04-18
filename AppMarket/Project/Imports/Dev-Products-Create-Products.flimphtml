@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="AppMarket"
+  ProjectFolder="C:\Users\jBilling\Google Drive\AppMarket\"
+  AutoSync="false"
+  SourceFolders=""
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2017-04-13T10:52:40.4667958-04:00"
+  ImportTopicsLocation="Content/DevCenter/">
+  <Files>
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-Create-Products.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-Create-Products.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditDeviceSettings-Create-Prod-Versions.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditDeviceSettings-Create-Prod-Versions.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Add-Add-onOffering.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Add-Add-onOffering.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Add-Editions.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Add-Editions.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Manage-Add-on.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Manage-Add-on.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Manage-Editions.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Manage-Editions.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Manage-Shared-Features.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Manage-Shared-Features.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Payment-Plans-Explained.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Payment-Plans-Explained.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Add-Features.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Add-Features.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Config-Media-Sources.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Config-Media-Sources.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Manage-Features.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Manage-Features.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Manage-Listing-Info.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Manage-Listing-Info.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Manage-Profile-Info.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Manage-Profile-Info.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Manage-Resources.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Manage-Resources.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Manage-Support-Info.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditProdBrand-Manage-Support-Info.html" />
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-Overview.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-Overview.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-Create-Products.html"
+      TimeStamp="2017-04-13 10:52:29 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditDeviceSettings-Create-Prod-Versions.html"
+      TimeStamp="2017-04-13 10:52:29 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditEditionsPricing-Add-Add-onOffering.html"
+      TimeStamp="2017-04-13 10:52:29 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditEditionsPricing-Add-Editions.html"
+      TimeStamp="2017-04-13 10:52:29 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditEditionsPricing-Manage-Add-on.html"
+      TimeStamp="2017-04-13 10:52:29 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditEditionsPricing-Manage-Editions.html"
+      TimeStamp="2017-04-13 10:52:29 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditEditionsPricing-Manage-Shared-Features.html"
+      TimeStamp="2017-04-13 10:52:29 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditEditionsPricing-Payment-Plans-Explained.html"
+      TimeStamp="2017-04-13 10:52:30 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditProdBrand-Add-Features.html"
+      TimeStamp="2017-04-13 10:52:30 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditProdBrand-Config-Media-Sources.html"
+      TimeStamp="2017-04-13 10:52:30 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditProdBrand-Manage-Features.html"
+      TimeStamp="2017-04-13 10:52:30 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditProdBrand-Manage-Listing-Info.html"
+      TimeStamp="2017-04-13 10:52:30 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditProdBrand-Manage-Profile-Info.html"
+      TimeStamp="2017-04-13 10:52:30 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditProdBrand-Manage-Resources.html"
+      TimeStamp="2017-04-13 10:52:30 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditProdBrand-Manage-Support-Info.html"
+      TimeStamp="2017-04-13 10:52:30 AM" />
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-Overview.html"
+      TimeStamp="2017-04-13 10:52:30 AM" />
+    <Url
+      Source="../TOCs/Dev-Products-Create-Products.fltoc"
+      TimeStamp="2017-04-13 10:52:39 AM" />
+  </GeneratedFiles>
+</HtmlImport>

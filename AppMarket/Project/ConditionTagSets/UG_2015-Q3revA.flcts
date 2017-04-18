@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Name="Administrator"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="AuthorNotes"
+    BackgroundColor="#ff9900" />
+  <ConditionTag
+    Name="EndUser"
+    BackgroundColor="#0000ff" />
+  <ConditionTag
+    Name="FM8_SYSTEM_HIDEELEMENT"
+    BackgroundColor="#666666" />
+  <ConditionTag
+    Name="FM8_TRACK_CHANGES_ADDED"
+    BackgroundColor="#00ff00" />
+  <ConditionTag
+    Name="FM8_TRACK_CHANGES_DELETED"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="Output3d"
+    BackgroundColor="#218921" />
+  <ConditionTag
+    Name="OutputVideo"
+    BackgroundColor="#1189ff" />
+  <ConditionTag
+    Name="ProductA"
+    BackgroundColor="#666666" />
+  <ConditionTag
+    Name="ProductB"
+    BackgroundColor="#000000" />
+  <ConditionTag
+    Name="Comment" />
+  <ConditionTag
+    Name="gigantic_image_to_hide" />
+  <ConditionTag
+    Name="Inserted"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="___AuthorNotes"
+    BackgroundColor="#ff9900" />
+  <ConditionTag
+    Name="Partner_Appcelerator"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="Partner_AppDirect"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="Partner_ATT"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="Partner_Bell_Canada"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="Partner_Comcast"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="Partner_DT__T_Sys"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="Partner_Samsung"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="Partner_Staples"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="Partner_Swisscom"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="Partner_Telstra"
+    BackgroundColor="#ff0000" />
+</CatapultConditionTagSet>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Resources/TableStyles/TW_TableWide.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1><a name="appdx-po-states_882093397_1303462"></a><a name="appdx-po-states_882093397_37155"></a>Initialized &gt; Pending Remote Creation&#160;&gt;&#160;Failed</h1>
+        <p class="Anchor">&#160;</p>
+        <p class="FCW_FigureCaptionWide">The sequence of transitions in Scenario&#160;6</p>
+        <p style="text-align: right;">
+            <img src="scenario 06 — I _ PRC _ F.png" style="width: 639.9898px;height: 460.7933px;margin-top: 5.6448px;margin-bottom: 5.664215px;" />
+        </p>
+        <p>The chronology of transitions in this scenario is as follows.</p>
+        <table style="width: 627px;caption-side: top;mc-table-style: url('../Resources/TableStyles/TW_TableWide.css');" class="TableStyle-TW_TableWide" cellspacing="0">
+            <caption valign="top" style="padding-bottom: 4pt;">
+                <p class="TCW_TableCaptionWide">Order and subscription state transitions in Scenario 6</p>
+            </caption>
+            <col width="31px" class="TableStyle-TW_TableWide-Column-Column1" />
+            <col width="428px" class="TableStyle-TW_TableWide-Column-Column1" />
+            <col width="168px" class="TableStyle-TW_TableWide-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-TW_TableWide-Body-Body1">
+                    <td class="TableStyle-TW_TableWide-BodyH-Column1-Body1">
+                        <p class="NF_NumFirst">&#160;</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyH-Column1-Body1">
+                        <p class="CB_CellBody">A newly placed order starts its life in the <b>INITIALIZED</b> state when all of these statements are true simultaneously:</p>
+                        <p class="CBu_CellBullet">The order specifies a hosted product whose vendor must provision it.</p>
+                        <p class="CBu_CellBullet">	The order should take effect immediately, and therefore is not post-dated.</p>
+                        <p class="CBu_CellBullet">	The order does not apply any discount.</p>
+                        <p class="CB_CellBody">	Alternatively, the purchase order for a billable and auto-renewable product edition can begin in the <b>INITIALIZED</b> state (upon contract term renewal) when either of the following statements is true:</p>
+                        <p class="CBu_CellBullet">A channel administrator has blocked in-term contract changes for all products, sitewide.</p>
+                        <p class="CBu_CellBullet">The product vendor has blocked in-term contract changes for this product in particular.</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyG-Column1-Body1">
+                        <p class="CB_CellBody">There is no subscription state at this stage. A subscription does not yet exist.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-TW_TableWide-Body-Body1">
+                    <td class="TableStyle-TW_TableWide-BodyE-Column1-Body1">
+                        <p class="NN_NumNext">&#160;</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyE-Column1-Body1">
+                        <p class="CB_CellBody">	Transition to a <b>PENDING REMOTE CREATION</b> state occurs when your marketplace notifies the product vendor that an order was placed, which requires provisioning. (Here, it does not matter whether the requested edition is billable or a free trial.)</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyD-Column1-Body1">
+                        <p class="CB_CellBody">The subscription state is <b>INITIALIZED</b>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-TW_TableWide-Body-Body2">
+                    <td class="TableStyle-TW_TableWide-BodyB-Column1-Body2">
+                        <p class="NN_NumNext">&#160;</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyB-Column1-Body2">
+                        <p class="CB_CellBody">	However, transition to the <b>FAILED</b> state occurs when the product vendor is not able to provision the ordered product. We recommend that you investigate the basis for this failure and work with the vendor to resolve it — both to benefit the affected consumer right now and so that no similar failures affect your other consumers in the future.</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyA-Column1-Body2">
+                        <p class="CB_CellBody">The subscription state is <b>FAILED</b>.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="CH_CellHeading">Scenario 7</p>
+    </body>
+</html>

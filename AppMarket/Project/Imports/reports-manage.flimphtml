@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="AppMarket"
+  ProjectFolder="C:\Users\aaron.basdeo\Google Drive\AppMarket\"
+  AutoSync="false"
+  SourceFolders=""
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2017-02-27T10:21:15.1684639-05:00"
+  ImportTopicsLocation="Content/MarketplaceManager/Reports/">
+  <Files>
+    <Url
+      Source="../../../../../../temp/reports-manage.html"
+      AbsoluteSource="file:///C:/temp/reports-manage.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/MarketplaceManager/Reports/reports-manage.html"
+      TimeStamp="2/27/2017 10:21:05 AM" />
+    <Url
+      Source="../TOCs/reports-manage.fltoc"
+      TimeStamp="2/27/2017 10:21:14 AM" />
+  </GeneratedFiles>
+</HtmlImport>

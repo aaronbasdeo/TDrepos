@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="AppMarket"
+  ProjectFolder="C:\Users\robert.gunn\Google Drive\AppMarket\"
+  AutoSync="false"
+  SourceFolders=""
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2017-04-11T14:46:51.1339132-07:00"
+  ImportTopicsLocation="Content/MarketplaceManager/">
+  <Files>
+    <Url
+      Source="../../../../Desktop/junk/dashboardOverview.html"
+      AbsoluteSource="file:///C:/Users/robert.gunn/Desktop/junk/dashboardOverview.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/MarketplaceManager/dashboardOverview.html"
+      TimeStamp="4/11/2017 2:46:35 PM" />
+    <Url
+      Source="../TOCs/dashboardOverview.fltoc"
+      TimeStamp="4/11/2017 2:46:50 PM" />
+  </GeneratedFiles>
+</HtmlImport>

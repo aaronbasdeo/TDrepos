@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="color palette" PageType="Normal" Width="612pt" Height="792pt" Padding="0.25in" PageSize="Letter" Orientation="portrait">
+        <Frame Flow="header" Width="126pt" Height="18pt" X="72pt" Y="138.0002pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="MP_CoverSection" style="text-align: center; font-family: 'Myriad Pro'; font-weight: bold; font-style: normal; font-size: 14pt; letter-spacing: 0em; color: #ffffff; line-height: 17pt; text-decoration: none;"><a name="appdx-po-states_882093397_1301488"></a><MadCap:variable name="UG_2015-Q3revA.DocumentType" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Width="468pt" Height="437.2502pt" X="72pt" Y="282.7498pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="MP_CoverSection" style="text-align: left; margin-top: 0pt; margin-bottom: 0pt; font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #2c2925; text-indent: 0px; text-decoration: none;"><a name="appdx-po-states_882093397_1301469"></a>AppDirect Black C</p>
+                        <p class="MP_CoverSection" style="font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #53555a; text-decoration: none;"><a name="appdx-po-states_882093397_1301470"></a>AppDirect Cool Gray 11</p>
+                        <p class="MP_CoverSection" style="font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #a7a7a9; text-decoration: none;"><a name="appdx-po-states_882093397_1301471"></a>AppDirect Pantone Cool Gray 6</p>
+                        <p class="MP_CoverSection" style="font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #bbbbbb; text-decoration: none;"><a name="appdx-po-states_882093397_1301472"></a>AppDirect Pantone Cool Gray 4 (dark)</p>
+                        <p class="MP_CoverSection" style="font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #d9d8d6; text-decoration: none;"><a name="appdx-po-states_882093397_1301473"></a>AppDirect Pantone Cool Gray 4 (light)</p>
+                        <p class="MP_CoverSection" style="font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #fafafa; text-decoration: none;"><a name="appdx-po-states_882093397_1301474"></a>AppDirect White</p>
+                        <p class="MP_CoverSection" style="font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #003d51; text-decoration: none;"><a name="appdx-po-states_882093397_1301475"></a>AppDirect Pantone 3035C</p>
+                        <p class="MP_CoverSection" style="font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #00607f; text-decoration: none;"><a name="appdx-po-states_882093397_1301476"></a>AppDirect Pantone 7707 C</p>
+                        <p class="MP_CoverSection" style="font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #0099be; text-decoration: none;"><a name="appdx-po-states_882093397_1301477"></a>AppDirect Pantone 7703 C</p>
+                        <p class="MP_CoverSection" style="font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #95d4e9; text-decoration: none;"><a name="appdx-po-states_882093397_1301478"></a>AppDirect Pantone 2975C</p>
+                        <p class="MP_CoverSection" style="font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #75bc21; text-decoration: none;"><a name="appdx-po-states_882093397_1301479"></a>AppDirect Pantone 386C</p>
+                        <p class="MP_CoverSection" style="font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #c2d500; text-decoration: none;"><a name="appdx-po-states_882093397_1301480"></a>AppDirect Pantone 382C</p>
+                        <p class="MP_CoverSection" style="font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #c2d500; text-decoration: none;"><a name="appdx-po-states_882093397_1301484"></a>
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

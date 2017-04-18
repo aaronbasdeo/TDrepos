@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="Print"
+    BackgroundColor="#008000"
+    OriginalName="Print" />
+  <ConditionTag
+    Comment=""
+    Name="Online"
+    BackgroundColor="#0000ff"
+    OriginalName="Online" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Comment"
+    Comment=""
+    OriginalName="Comment" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Draft"
+    Comment="" />
+</CatapultConditionTagSet>

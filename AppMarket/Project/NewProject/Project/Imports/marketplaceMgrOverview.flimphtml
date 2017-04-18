@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="NewProject"
+  ProjectFolder="C:\Users\robert.gunn\Google Drive\AppMarket\Project"
+  AutoSync="false"
+  SourceFolders=""
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2017-04-07T14:52:24.5447348-07:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../../../Desktop/marketplaceMgrOverview.html"
+      AbsoluteSource="file:///C:/Users/robert.gunn/Desktop/marketplaceMgrOverview.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/marketplaceMgrOverview.html"
+      TimeStamp="4/7/2017 2:51:57 PM" />
+    <Url
+      Source="../TOCs/marketplaceMgrOverview.fltoc"
+      TimeStamp="4/7/2017 2:52:24 PM" />
+  </GeneratedFiles>
+</HtmlImport>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1><a name="chadm-email_2233833305_3674899"></a><a name="chadm-email_2233833305_15469"></a><span class="_Override">Work with the Primary Email Changed template</span>
+        </h1>
+        <p><span class="_Override">You can edit content in the Primary Email Changed template. However, because this template is required, you cannot stop it from sending email notification messages to registered users whose primary email address</span> <span class="_Override">for participating in your marketplace has&#160;changed. </span></p>
+        <p class="BL_BlockLabel"><span class="_Override">Navigation path</span>
+        </p>
+        <p class="NP_NavigationPath"><b>Manage &gt; Channel &gt; Marketplace &gt; Settings &gt;</b><span class="_Override"> Custom UI </span><b>| Customer Notifications &gt;</b><span class="_Override"> Accounts | </span><b>Primary Email Changed</b>
+        </p>
+        <p class="BL_BlockLabel"><span class="_Override">Before you begin</span>
+        </p>
+        <p class="Bu1_Bullet1"><span class="_Override">Log in to your marketplace as its administrator.</span>
+        </p>
+        <p class="BL_BlockLabel"><span class="_Override">Procedure</span>
+        </p>
+        <p class="SF_StepFirst"><span class="_Override">Go to </span><b>Manage &gt; Channel &gt; Marketplace &gt; Settings &gt;</b><span class="_Override"> Custom UI | </span><b>Customer Notifications</b><span class="_Override">.</span>
+        </p>
+        <p class="SN_StepNext"><span class="_Override">Click </span><b>Primary Email Changed</b><span class="_Override"> in the Accounts area.</span>
+        </p>
+        <p class="SN_StepNext"><span class="_Override">Enter an appropriate email subject line in the Subject field. For example, your subject line might be: </span><span class="S_Sample">Attention: Your email address was just changed on {PARTNER_STORE_LABEL}</span><span class="_Override">.</span>
+        </p>
+        <p class="SN_StepNext"><span class="_Override">Compose an appropriate message, which uses any or all of the template’s supported parameters. Each parameter injects variable and dynamic text into a generated message, based on the combination of all relevant factors.</span>
+        </p>
+        <p class="Sp_SignpostParagraph" style="margin-left: 0.65in;text-indent: 0px;"><span class="SpF_SignpostFlag">&#160;NOTE:&#160;</span><span class="_Override">&#160;Each generated message is customized for relevance to the context that triggered it. When any parameter calls upon a database field that is not populated in the necessary context, the generated message shows the parameter label instead of a null value. </span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{BASE_URL}</span><span class="_Override"> — Inserts an HTTPS link to the fully qualified, DNS-resolvable server hostname that loads your marketplace.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{COMPANY_EXTERNAL_ID}</span><span class="_Override"> — Inserts the unique company identifier that your marketplace receives from its IdP.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{COMPANY_NAME}</span><span class="_Override"> — Inserts the name of the message recipient’s associated company. When the message recipient is associated with more than one company at a time, the insertion is the name of that associated company which most recently invited the message recipient to join it as an associated user or which assigned a described product seat to the message&#160;recipient.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{MARKETPLACE_LOGO_URL}</span><span class="_Override"> — Inserts the full HTTP path to a hosted instance of the marketplace logo, for use inside an HTML </span><span class="S_Sample">&lt;IMG&gt;</span><span class="_Override"> tag.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{PARTNER_LABEL}</span><span class="_Override"> — Inserts the name of the organization whose </span><i>channel administrators</i><span class="_Override"> operate and manage your marketplace. </span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{PARTNER_STORE_LABEL}</span><span class="_Override"> — Inserts your marketplace brand name, such as Acme Marketplace.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{PREVIOUS_EMAIL}</span><span class="_Override"> — Inserts the email address that was the message recipient’s previously registered username on your marketplace.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{SUPPORT_EMAIL}</span><span class="_Override"> — Inserts the email address that receives technical support requests at your organization. You populate this parameter when you enter a Support Email value in the Support Resources area at </span><b>Manage &gt; Channel &gt; Settings &gt;</b><span class="_Override"> Settings | </span><b>General Settings</b><span class="_Override">.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{SUPPORT_PHONE}</span><span class="_Override"> — Inserts the telephone number that receives technical support calls at your organization. You populate this parameter when you enter a Support Phone value in the Support Resources area at </span><b>Manage &gt; Channel &gt; Settings &gt;</b><span class="_Override"> Settings | </span><b>General Settings</b><span class="_Override">.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{SUPPORT_URL}</span><span class="_Override"> — Inserts the navigable web address where your organization hosts a knowledge base, peer-to-peer support forum, paid customer support agents, or similar resources for your marketplace. You populate this parameter when you enter a Contact Support URL value in the Support Resources area at </span><b>Manage &gt; Channel &gt; Settings &gt;</b><span class="_Override"> Settings | </span><b>General Settings</b><span class="_Override">.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{USER_EMAIL}</span><span class="_Override"> — Inserts the same email address that is the message recipient’s username on your marketplace.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{USER_FIRST_NAME}</span><span class="_Override"> — Inserts the message recipient’s given name. </span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{USER_FULL_NAME}</span><span class="_Override"> — Inserts the message recipient’s full name.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{USER_LAST_NAME}</span><span class="_Override"> — Inserts the message recipient’s surname.</span>
+        </p>
+        <p><span class="_Override">Then, use the provided toolbar to format your message body. As needed, you can edit its underlying source by clicking </span><span class="_Override"><MadCap:conditionalText MadCap:conditions="UG_2015-Q3revA.gigantic_image_to_hide"><img src="Manage _ Channel _ Settings _ Custom UI _ Customer Emails _ {template} text-editing toolbar's edit HTML source button_13.png" style="width: 26.66688px;height: 26.66688px;margin-right: 0.01583862px;margin-bottom: 0.1029587px;" />&#160;(</MadCap:conditionalText></span><b>Edit HTML Source</b><span class="_Override"><MadCap:conditionalText MadCap:conditions="UG_2015-Q3revA.gigantic_image_to_hide">)</MadCap:conditionalText></span><span class="_Override">. You can even insert graphics — such as a corporate logo — by clicking </span><span class="_Override"><MadCap:conditionalText MadCap:conditions="UG_2015-Q3revA.gigantic_image_to_hide"><img src="Manage _ Channel _ Settings _ Custom UI _ Customer Emails _ {template} text-editing toolbar's insert-edit image button_13.png" style="width: 26.66688px;height: 26.66688px;margin-right: 0.01583862px;margin-bottom: 0.1029587px;" />&#160;(</MadCap:conditionalText></span><b>Insert/Edit Image</b><span class="_Override"><MadCap:conditionalText MadCap:conditions="UG_2015-Q3revA.gigantic_image_to_hide">)</MadCap:conditionalText></span><span class="_Override">.</span><span class="_Override"></span>
+        </p>
+        <p style="text-align: right;">
+            <img src="Manage _ Channel _ Settings _ Custom UI _ Customer Emails _ {template} text-editing toolbar_13.png" style="width: 637.3334px;height: 65.33376px;margin-top: 12.23856px;margin-right: 25.99994px;margin-bottom: 10.76112px;" />
+        </p>
+        <p class="SN_StepNext"><span class="_Override">(</span><b>Optional</b><span class="_Override">) Click </span><b>Send a Sample Email</b><span class="_Override"> to send yourself a copy of the generated message with all of its parameters populated.</span>
+        </p>
+        <p class="Sp3_SignpostParagraph3"><span class="SpF_SignpostFlag">&#160;TIP:&#160;</span><span class="_Override">&#160;T</span><span class="_Override" style="font-family: 'Aaux Next Regular';letter-spacing: 0em;color: #2c2925;">he Subject field and message body field must each contain at least one character, or the Send a Sample Email button does not have any effect when clicked.</span>
+        </p>
+        <p class="SN_StepNext"><span class="_Override">Click </span><b>Save</b><span class="_Override"> to save your work.</span>
+        </p>
+        <p class="SN_StepNext"><span class="_Override">Stop. You have completed this procedure.</span>
+        </p>
+        <p class="BL_BlockLabel"><span class="_Override">Related topics</span>
+        </p>
+        <p class="Bu1_Bullet1"><span class="_Override"><MadCap:xref href="Edit_and_enable_messages_for_end_users.htm#chadm-email_2233833305_1436093">Edit and enable messages for&#160;end­users</MadCap:xref></span>
+        </p>
+    </body>
+</html>

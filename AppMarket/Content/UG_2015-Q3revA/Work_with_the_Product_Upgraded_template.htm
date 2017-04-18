@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1><a name="chadm-email_2233833305_1474781"></a><a name="chadm-email_2233833305_69115"></a>Work with the <span class="_Override">P</span>roduct Upgraded<span class="_Override"> t</span>emplate</h1>
+        <p><span class="_Override">You can edit content in the Product Upgraded template and turn its output On or Off. Because this template is optional, you can stop it from sending email notification messages. </span>
+        </p>
+        <p class="Bu1N_Bullet1_w_Next"><span class="_Override">When the template is turned On, it notifies the subscription owner that his or her contract has been updated successfully, granting access to a more expensive or more feature-rich product edition than it granted previously. </span>
+        </p>
+        <p class="Bu1_Bullet1"><span class="_Override">When the template is turned Off, the purchaser does not receive this formal notification.</span>
+        </p>
+        <p class="BL_BlockLabel">Navigation path</p>
+        <p class="NP_NavigationPath"><b>Manage &gt; Channel &gt; Marketplace &gt; Settings &gt;</b> Custom UI <b>| Customer Notifications </b><b>&gt;</b> Billing | <b>Product Upgraded</b></p>
+        <p class="BL_BlockLabel">Before you begin</p>
+        <p class="Bu1_Bullet1">Log in to your <span class="_Override">marketplace</span> as its administrator.</p>
+        <p class="BL_BlockLabel">Procedure</p>
+        <p class="SF_StepFirst">Go to <b>Manage &gt; Channel &gt; Marketplace &gt; Settings &gt;</b> Custom UI <span class="_Override">| </span><b>Customer Notifications</b><span class="_Override">.</span></p>
+        <p class="SN_StepNext">Click <b>Product Upgraded </b>in the Billing area.</p>
+        <p class="SN_StepNext"><span class="_Override">(</span><b>Optional</b><span class="_Override">) Slide the </span><b>Enabled</b><span class="_Override"> toggle right to turn the template </span><b>On</b><span class="_Override">. </span><span class="_Override"></span><span class="_Override"><br /><br /></span><b>OR<br /></b><span class="_Override"><br />Slide the </span><b>Enabled</b><span class="_Override"> toggle left to turn the template </span><b>Off</b><span class="_Override">.</span><span class="_Override"></span>
+        </p>
+        <p>
+            <img src="template_enabled_toggle_27.png" style="width: 171.9994px;height: 75.99937px;margin-left: 48.50064px;margin-top: 9.125279px;margin-right: 38.49985px;" />
+        </p>
+        <p>
+            <img src="template_disabled_toggle_27.png" style="width: 171.9994px;height: 75.99936px;margin-left: 48.528px;margin-top: 8.50032px;margin-right: 38.47249px;" />
+        </p>
+        <p class="SN_StepNext">Enter an appropriate email subject line in the Subject field. For example, your subject line might be: <span class="S_Sample">Receipt: Order No. {ORDER_ID} — {APPLICATION_NAME} on {PARTNER_STORE_LABEL}</span>.</p>
+        <p class="SN_StepNext"><span class="_Override">Compose an appropriate message, which uses any or all of the template’s supported parameters. Each parameter injects variable and dynamic text into a generated message, based on the combination of all relevant factors.</span>
+        </p>
+        <p class="Sp_SignpostParagraph" style="margin-left: 0.65in;text-indent: 0px;"><span class="SpF_SignpostFlag">&#160;NOTE:&#160;</span><span class="_Override">&#160;Each generated message is customized for relevance to the context that triggered it. When any parameter calls upon a database field that is not populated in the necessary context, the generated message shows the parameter label instead of a null value. </span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{APP_DOC_LOCATION}</span><span class="_Override"> — Inserts a vendor-supplied URL where the message recipient can find technical documentation for the described product or service. </span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{APP_KNOWLEDGE_BASE_URL}</span><span class="_Override"> — Inserts a vendor-supplied URL where the message recipient can find a knowledge base for the described product or service.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{APP_SUPPORT_PHONE}</span><span class="_Override"> — Inserts the vendor-supplied telephone number where the message recipient can obtain support for the described product or service.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{APPLICATION_NAME}</span> — Inserts the full name of the relevant product, exactly as its vendor specified it during marketplace integration.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{AUTOMATIC_EXTENSION_OF_CONTRACT}</span><span class="_Override"> — Supposing that the vendor configured all subscription contracts for the described product to renew automatically upon expiration, this parameter inserts a value — such as “6 months” — that matches the vendor-specified minimum contract duration. </span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{BASE_URL}</span> — Inserts an HTTPS link to the fully qualified, DNS-resolvable server hostname that loads your <span class="_Override">marketplace</span>.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{BILLING_FREQUENCY}</span> — Inserts the interval of recurrence between billing periods, such as monthly or yearly.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{COMPANY_NAME}</span> — Inserts the name of the message recipient’s associated company. When the message recipient is associated with more than one company at a time, the insertion is the name of that associated company which most recently invited the message recipient to <span class="_Override">join it as an associated user</span> or which assigned a described product seat to the message&#160;recipient.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{CONTRACT_DURATION}</span><span class="_Override"> — Inserts an integer that counts how many billing cycles the subscription contract spans in total, paired with a plural descriptor for the interval between invoices, such as “months.”</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{CONTRACT_EXPIRY_DATE}</span><span class="_Override"> — Inserts the actual calendar date when the message recipient’s subscription contract for the described product is scheduled to expire.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{CREATION_DATE}</span><span class="_Override"> — Inserts the order creation date.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{EDITION_NAME}</span> — Inserts the vendor-designated name of the relevant product edition/pricing&#160;plan.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{FREE_TRIAL_DURATION}</span><span class="_Override"> — Inserts a value that cites either </span><i>N</i><span class="_Override"> days or </span><i>N</i><span class="_Override"> months — this being the full duration of the free trial period— where </span><i>N</i><span class="_Override"> is a positive integer.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{GRACE_PERIOD_CANCELLATION}</span><span class="_Override"> — Inserts the number of days that you or another </span><i>channel administrator</i><span class="_Override"> entered in the Grace Period field at </span><b>Manage &gt; Channel &gt; Settings &gt;</b><span class="_Override"> Billing Settings | </span><b>Billing Functionality &gt;</b><span class="_Override"> Subscriptions. </span>
+        </p>
+        <p class="SBu2_StepBullet2"><span class="_Override">This is called the early termination grace period. An unpaid invoice must persist beyond this sitewide maximum before the described subscription can be suspended for late payment. </span>
+        </p>
+        <p class="SBu2_StepBullet2"><span class="_Override">The early termination grace period’s platform-enforced minimum value, which you cannot edit, is 5 days.</span>
+        </p>
+        <p class="SBu2_StepBullet2"><span class="_Override">You can pad the maximum value of this grace period by adding days to it, but each vendor can also set a product-specific maximum anywhere in the range between the platform minimum and the sitewide maximum. </span>
+        </p>
+        <p class="SBu2_StepBullet2"><span class="_Override">No termination fee applies to a canceled subscription during this grace period, supposing that stipulations of the corresponding subscription contract state that it carries any such grace period. </span>
+        </p>
+        <p class="SBu2_StepBullet2"><span class="_Override">Any cancellation after the early termination grace period has elapsed carries the product’s standard termination fees.</span>
+        </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{ORDER_ID}</span> — Inserts a numeric identifier that your marketplace associates with the referenced purchase order. This identifier is unique on your <span class="_Override">marketplace</span>, distinguishing one order from all others.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{PARTNER_LABEL}</span> — Inserts the name of the organization whose <i>channel administrators</i> operate and manage your marketplace. </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{PARTNER_STORE_LABEL}</span> — Inserts your marketplace brand name, such as Acme Marketplace.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{SALUTATION}</span> — Inserts a formal and possibly gendered greeting, depending on which native language is the default language on your marketplace. For example, the salutation in English is ‘Dear.’</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{SUPPORT_EMAIL}</span> — Inserts the email address that receives technical support requests at your organization. You populate this parameter when you enter a Support Email value in the Support Resources area at <b>Manage &gt; Channel &gt; Settings &gt;</b> Settings | <b>General Settings</b>.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{SUPPORT_PHONE}</span> — Inserts the telephone number that receives technical support calls at your organization. You populate this parameter when you enter a Support Phone value in the Support Resources area at <b>Manage &gt; Channel &gt; Settings &gt;</b> Settings | <b>General Settings</b>.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{SUPPORT_URL}</span> — Inserts the navigable web address where your organization hosts a knowledge base, peer-to-peer support forum, paid customer support agents, or similar resources for your marketplace. You populate this parameter when you enter a Contact Support URL value in the Support Resources area at <b>Manage &gt; Channel &gt; Settings &gt;</b> Settings | <b>General Settings</b>.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{TOTAL_PRICE}</span> — Inserts the sum — from only the current billing period — of all line items. </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{USER_EMAIL}</span> — Inserts the same email address that is <span class="_Override">the </span>message recipient’s username on your marketplace.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{USER_FIRST_NAME}</span> — Inserts the message recipient’s given name. </p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{USER_FULL_NAME}</span> — Inserts the message recipient’s full name.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{USER_LAST_NAME}</span> — Inserts the message recipient’s surname.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{USER_TITLE}</span> — Inserts a gendered honorific, when it is both available and known, such as ‘Mr.’ or ‘Ms.’ in English or ‘<i>Herr</i>’ or ‘<i>Frau’</i> in German.</p>
+        <p class="SBu1_StepBullet1"><span class="S_Sample">{VENDOR}</span> — Inserts the name of the vendor whose product the message cites<span class="_Override">.</span></p>
+        <p class="Anchor">&#160;</p>
+        <p><span class="_Override">Then, use the provided toolbar to format your message body. As needed, you can edit its underlying source by clicking </span><span class="_Override"><MadCap:conditionalText MadCap:conditions="UG_2015-Q3revA.gigantic_image_to_hide"><img src="Manage _ Channel _ Settings _ Custom UI _ Customer Emails _ {template} text-editing toolbar's edit HTML source button_46.png" style="width: 26.66688px;height: 26.66688px;margin-right: 0.01583862px;margin-bottom: 0.1029587px;" />&#160;(</MadCap:conditionalText></span><b>Edit HTML Source</b><span class="_Override"><MadCap:conditionalText MadCap:conditions="UG_2015-Q3revA.gigantic_image_to_hide">)</MadCap:conditionalText></span><span class="_Override">. You can even insert graphics — such as a corporate logo — by clicking </span><span class="_Override"><MadCap:conditionalText MadCap:conditions="UG_2015-Q3revA.gigantic_image_to_hide"><img src="Manage _ Channel _ Settings _ Custom UI _ Customer Emails _ {template} text-editing toolbar's insert-edit image button_46.png" style="width: 26.66688px;height: 26.66688px;margin-right: 0.01583862px;margin-bottom: 0.1029587px;" />&#160;(</MadCap:conditionalText></span><b>Insert/Edit Image</b><span class="_Override"><MadCap:conditionalText MadCap:conditions="UG_2015-Q3revA.gigantic_image_to_hide">)</MadCap:conditionalText></span><span class="_Override">.</span><span class="_Override"></span>
+        </p>
+        <p style="text-align: right;">
+            <img src="Manage _ Channel _ Settings _ Custom UI _ Customer Emails _ {template} text-editing toolbar_46.png" style="width: 637.3334px;height: 65.33376px;margin-top: 12.23856px;margin-right: 25.99994px;margin-bottom: 10.76112px;" />
+        </p>
+        <p>For example:</p>
+        <p style="margin-top: 3pt;margin-bottom: 3pt;font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;line-height: 8pt;text-decoration: none;"><span class="S_Sample">Hi, {USER_FULL_NAME}</span><span class="S_Sample">.</span>
+        </p>
+        <p style="margin-top: 3pt;margin-bottom: 3pt;font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;line-height: 8pt;text-decoration: none;"><span class="S_Sample">You </span><span class="S_Sample">c</span><span class="S_Sample">hanged your {APPLICATION_NAME} subscription on {PARTNER_STORE_LABEL}</span><span class="S_Sample">.</span>
+        </p>
+        <p style="margin-top: 3pt;margin-bottom: 3pt;font-family: 'Aaux Next Black';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;line-height: 8pt;text-decoration: none;"><b>Order Details</b>
+        </p>
+        <p style="margin-top: 3pt;margin-bottom: 3pt;font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;line-height: 8pt;text-decoration: none;"><span class="S_Sample">Product</span><span class="S_Sample"> name: {APPLICATION_NAME</span><span class="S_Sample">}<br />Product e</span><span class="S_Sample">dition: {EDITION_NAME</span><span class="S_Sample">}<br />F</span><span class="S_Sample">ree trial: {FREE_TRIAL_DURATION</span><span class="S_Sample">}<br />B</span><span class="S_Sample">illing period: {BILLING_FREQUENCY</span><span class="S_Sample">}<br />C</span><span class="S_Sample">harge per billing period: {TOTAL_PRICE</span><span class="S_Sample">}</span>
+        </p>
+        <p style="margin-top: 3pt;margin-bottom: 3pt;font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;line-height: 8pt;text-decoration: none;"><span class="S_Sample">If you have any questions, our </span><span class="S_Sample">s</span><span class="S_Sample">upport </span><span class="S_Sample">t</span><span class="S_Sample">eam is standing by. You can email us at {SUPPORT_EMAIL}, call us at {SUPPORT_PHONE}, or start a chat with us on the website at {SUPPORT_URL}</span><span class="S_Sample">.</span>
+        </p>
+        <p style="margin-top: 3pt;margin-bottom: 3pt;font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;line-height: 8pt;text-decoration: none;"><span class="S_Sample">Thank you!</span>
+        </p>
+        <p style="margin-top: 3pt;margin-bottom: 3pt;font-family: 'Fantasque Sans Mono';font-weight: normal;font-style: normal;font-size: 7pt;letter-spacing: 0em;color: #000000;line-height: 8pt;text-decoration: none;"><span class="S_Sample">Your friends at {PARTNER_LABEL}</span>
+        </p>
+        <p class="Anchor">&#160;</p>
+        <p class="SN_StepNext">(<b>Optional</b>) Click <b>Send a Sample Email</b> to send yourself a copy of the generated message with all of its parameters populated.</p>
+        <p class="Sp3_SignpostParagraph3"><span class="SpF_SignpostFlag">&#160;TIP:&#160;</span><span class="_Override">&#160;T</span><span class="_Override" style="font-family: 'Aaux Next Regular';letter-spacing: 0em;color: #2c2925;">he Subject field and message body field must each contain at least one character, or the Send a Sample Email button does not have any effect when clicked.</span>
+        </p>
+        <p class="SN_StepNext">Click <b>Save</b> to save your work.</p>
+        <p class="SN_StepNext">Stop. You have completed this procedure.</p>
+        <p class="BL_BlockLabel"><span class="_Override">R</span>elated topics</p>
+        <p class="Bu1_Bullet1"><span class="_Override"><MadCap:xref href="Edit_and_enable_messages_for_product_owners.htm#chadm-email_2233833305_1436095">Edit and enable messages for product owners</MadCap:xref></span>
+        </p>
+    </body>
+</html>

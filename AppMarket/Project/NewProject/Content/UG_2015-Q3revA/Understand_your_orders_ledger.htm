@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1><a name="chadm-cust-transct_2987597038_1369364"></a><a name="chadm-cust-transct_2987597038_84155"></a>Understand your orders ledger</h1>
+        <p class="BL_BlockLabel">Navigation path</p>
+        <p class="NP_NavigationPath"><b>Manage &gt; Channel &gt; Marketplace &gt;</b> Billing | <b>Orders</b></p>
+        <p>Your orders ledger shows an almost-live representation of orders as they occur, rendered separately at the product level and at the product edition level. <span class="_Override">T</span>he ledger does not refresh automatically in your browser, so its representation of orders is only as recent as when your browser loaded it.<span class="_Override">  <![CDATA[ ]]></span></p>
+        <p class="BL_BlockLabel"><span class="_Override">Product</span>
+        </p>
+        <p><span class="_Override">The product-level view renders seven columns in its UI version and 27 columns in its exported CSV version. </span>
+        </p>
+        <p class="Bu1N_Bullet1_w_Next"><span class="_Override">T</span>h<span class="_Override">e UI version i</span>s searchable <span class="_Override">by: </span></p>
+        <p class="Bu2_Bullet2"><b>order cost</b><span class="_Override"> — when the query string is any number of digits preceding a decimal point, which then precedes any number of digits. </span>
+        </p>
+        <p class="Bu2_Bullet2"><b>order ID</b><span class="_Override"> — when the query string is a sequence of no more than 18 contiguous digits.</span>
+        </p>
+        <p class="Bu2_Bullet2" style="font-family: 'Aaux Next Black';font-weight: normal;font-style: normal;font-size: 9pt;letter-spacing: 0em;color: #2c2925;text-decoration: none;"><b>company name</b>
+        </p>
+        <p class="Bu2_Bullet2" style="font-family: 'Aaux Next Black';font-weight: normal;font-style: normal;font-size: 9pt;letter-spacing: 0em;color: #2c2925;text-decoration: none;"><b>company external ID</b>
+        </p>
+        <p class="Bu2_Bullet2" style="font-family: 'Aaux Next Black';font-weight: normal;font-style: normal;font-size: 9pt;letter-spacing: 0em;color: #2c2925;text-decoration: none;"><b>product name</b>
+        </p>
+        <p class="Anchor">&#160;</p>
+        <p class="Bu1N_Bullet1_w_Next"><span class="_Override">The UI version s</span>upports filtering by:</p>
+        <p class="Bu2_Bullet2"><b>Status</b><span class="_Override"> — The order state. Any one of these: </span><span class="S_Sample">ACTIVE</span><span class="_Override">, </span><span class="S_Sample">CANCELED</span><span class="_Override">, </span><span class="S_Sample">FAILED</span><span class="_Override">, </span><span class="S_Sample">FREE_TRIAL</span><span class="_Override">, </span><span class="S_Sample">FREE_TRIAL_EXPIRED</span><span class="_Override">, </span><span class="S_Sample">INITIALIZED</span><span class="_Override">, or</span>&#160;<span class="S_Sample">S</span><span class="S_Sample">USPENDED</span><span class="_Override">.</span></p>
+        <p class="Bu2_Bullet2"><b>Cost</b><span class="_Override"> — </span><span class="S_Sample">PAID</span><span class="_Override"> or </span><span class="S_Sample">FREE</span><span class="_Override">.</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Created between</b><span class="_Override"> — </span>when the order was created<span class="_Override">. A date range.</span></p>
+        <p class="Bu2_Bullet2"><b>Pending</b><span class="_Override"> (checkbox) — </span>whether <span class="_Override">to include orders in any of the P</span>ENDING<span class="_Override"> states.</span></p>
+        <p class="Anchor">&#160;</p>
+        <p class="Bu1N_Bullet1_w_Next"><span class="_Override">The UI version supports sorting by the ascending or descending values in any of these columns:</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>ID</b><span class="_Override"> — the subscription ID </span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Created</b><span class="_Override"> — the order creation date</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Status</b><span class="_Override"> — the order state</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Company</b><span class="_Override"> — the name of the billable user’s associated company</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Product</b><span class="_Override"> — the product name</span>
+        </p>
+        <p class="Anchor">&#160;</p>
+        <p><span class="_Override">The UI version of the Orders ledger does not support sorting by values in either the Frequency column or the Total Fee column. Its platform-default sorting order is by descending values in the&#160;ID column.</span>
+        </p>
+        <p class="BL_BlockLabel"><span class="_Override">Edition</span>
+        </p>
+        <p>The product edition-level view renders eight columns in its UI version and 25 columns in its exported CSV version. </p>
+        <p class="Bu1N_Bullet1_w_Next"><span class="_Override">The UI version is searchable against values in these columns: </span>
+        </p>
+        <p class="Bu2_Bullet2"><b>ID</b><span class="_Override"> — the order ID. </span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Company</b><span class="_Override"> — the name of the billable user’s associated company.</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Product</b><span class="_Override"> — the product name.</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Total Fee</b><span class="_Override"> — the invoice amount per billing cycle.</span>
+        </p>
+        <p class="Bu2_Bullet2">
+            <MadCap:conditionalText MadCap:conditions="UG_2015-Q3revA.Comment">[<span class="C_Comment">Pat V. says we also support searches here against company external identifier values, which the UI does not expose, so that feels like it might not be true. Also, I believe that value would be present exclusively on marketplaces that are configured to use an IdP, leading to the question: Do we also support searches here against company UUID values on a marketplace without any IdP?</span>]</MadCap:conditionalText>
+        </p>
+        <p class="Bu1N_Bullet1_w_Next"><span class="_Override">The UI version supports filtering by:</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Status</b><span class="_Override"> — The order state. Any one of these: </span><span class="S_Sample">ACTIVE</span><span class="_Override">, </span><span class="S_Sample">CANCELED</span><span class="_Override">, </span><span class="S_Sample">FAILED</span><span class="_Override">, </span><span class="S_Sample">FREE_TRIAL</span><span class="_Override">, </span><span class="S_Sample">FREE_TRIAL_EXPIRED</span><span class="_Override">, </span><span class="S_Sample">INITIALIZED</span><span class="_Override">, or&#160;</span><span class="S_Sample">SUSPENDED</span><span class="_Override">.</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Cost</b><span class="_Override"> — </span><span class="S_Sample">PAID</span><span class="_Override"> or </span><span class="S_Sample">FREE</span><span class="_Override">.</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Created between</b><span class="_Override"> — when the order was created. A date range.</span>
+        </p>
+        <p class="Bu1N_Bullet1_w_Next"><span class="_Override">The UI version supports sorting by the ascending or descending values in any of these columns:</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>ID</b><span class="_Override"> — the order ID.</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Created</b><span class="_Override"> — the order creation date.</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Status</b><span class="_Override"> — the order state.</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Company</b><span class="_Override"> — the name of the billable user’s associated company.</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Product</b><span class="_Override"> — the product name.</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Edition</b><span class="_Override"> — the product edition name.</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Frequency</b><span class="_Override"> — the billing cycle interval between invoices.</span>
+        </p>
+        <p class="Bu2_Bullet2"><b>Total Fee</b><span class="_Override"> — the amount due per invoice.</span>
+        </p>
+        <p class="BL_BlockLabel">Related topics</p>
+        <p class="Bu1_Bullet1"><span class="_Override"><MadCap:xref href="Revenue_management_basics.htm#chadm-cust-transct_2987597038_1393964">Revenue management basics</MadCap:xref></span>
+        </p>
+        <p class="Bu1_Bullet1">
+            <MadCap:xref href="Work_with_your_orders_ledger.htm#chadm-cust-transct_2987597038_1405711">Work with your orders ledger</MadCap:xref>
+        </p>
+    </body>
+</html>

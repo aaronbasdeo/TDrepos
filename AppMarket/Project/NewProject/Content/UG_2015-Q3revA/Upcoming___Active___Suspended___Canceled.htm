@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Resources/TableStyles/TW_TableWide.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1><a name="appdx-po-states_882093397_1304217"></a><a name="appdx-po-states_882093397_38737"></a>Upcoming &gt; Active &gt; Suspended &gt; Canceled</h1>
+        <p class="Anchor">&#160;</p>
+        <p class="FCW_FigureCaptionWide">The sequence of transitions in Scenario&#160;37</p>
+        <p style="text-align: right;">
+            <img src="scenario 37 - U _ A _ S _ C.png" style="width: 640.9921px;height: 460.7933px;margin-top: 4.40496px;margin-bottom: 6.904053px;" />
+        </p>
+        <p>The chronology of transitions in this scenario is as follows.</p>
+        <table style="width: 627px;caption-side: top;mc-table-style: url('../Resources/TableStyles/TW_TableWide.css');" class="TableStyle-TW_TableWide" cellspacing="0">
+            <caption valign="top" style="padding-bottom: 4pt;">
+                <p class="TCW_TableCaptionWide">Order and subscription state transitions in Scenario 37</p>
+            </caption>
+            <col width="31px" class="TableStyle-TW_TableWide-Column-Column1" />
+            <col width="428px" class="TableStyle-TW_TableWide-Column-Column1" />
+            <col width="168px" class="TableStyle-TW_TableWide-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-TW_TableWide-Body-Body1">
+                    <td class="TableStyle-TW_TableWide-BodyH-Column1-Body1">
+                        <p class="NF_NumFirst">&#160;</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyH-Column1-Body1">
+                        <p class="CB_CellBody">	A purchase order starts its life in the <b>UPCOMING</b> state when both of the following statements — about a time-limited but renewable product entitlement — are true simultaneously:</p>
+                        <p class="CBu_CellBullet">The order specifies a product edition that its end-user already has, via a previous purchase order, which is still currently <b>ACTIVE</b>. Therefore, no provisioning is required. (Typically, the previous order applied a discount which is valid toward fewer billing cycles than the full contract term should span. For example, suppose that the discount was valid during one or two billing cycles, but the contract term spans twelve billing cycles. In this case, that <b>ACTIVE</b> order, with its discount applied, is paired with this <b>UPCOMING</b> order, which does not apply any discount.)</p>
+                        <p class="CBu_CellBullet">The order is post-dated, taking effect sometime in the future.</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyG-Column1-Body1">
+                        <p class="CB_CellBody">The subscription state is <b>ACTIVE</b>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-TW_TableWide-Body-Body1">
+                    <td class="TableStyle-TW_TableWide-BodyE-Column1-Body1">
+                        <p class="NN_NumNext">&#160;</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyE-Column1-Body1">
+                        <p class="CB_CellBody">	This order’s transition to the <b>ACTIVE</b> state occurs at exactly the same moment when its predecessor order transitions to the <b>FINISHED</b> state.</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyD-Column1-Body1">
+                        <p class="CB_CellBody">The subscription state is <b>ACTIVE</b>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-TW_TableWide-Body-Body2">
+                    <td class="TableStyle-TW_TableWide-BodyH-Column1-Body2">
+                        <p class="NN_NumNext">&#160;</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyH-Column1-Body2">
+                        <p class="CB_CellBody">Transition to a <b>SUSPENDED</b> state occurs when an invoice is not paid — and, in the case of a product edition that allows a grace period for late payments, remains unpaid all through its grace period. </p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyG-Column1-Body2">
+                        <p class="CB_CellBody">The subscription state is <b>SUSPENDED</b>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-TW_TableWide-Body-Body2">
+                    <td class="TableStyle-TW_TableWide-BodyB-Column1-Body2">
+                        <p class="NN_NumNext">&#160;</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyB-Column1-Body2">
+                        <p class="CB_CellBody">	Finally, the transition to a <b>CANCELED</b> state occurs in either of two possible ways:</p>
+                        <p class="CBu_CellBullet">Automatically when a contract that does not renew automatically nonetheless stipulates a grace period during which the consumer is permitted to renew manually — and then the consumer does not renew it.</p>
+                        <p class="CBu_CellBullet">Manually when the consumer cancels it explicitly.</p>
+                    </td>
+                    <td class="TableStyle-TW_TableWide-BodyA-Column1-Body2">
+                        <p class="CB_CellBody">The subscription state is <b>CANCELED</b>.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="SN_ScenarioNumber">Scenario 38 </p>
+    </body>
+</html>

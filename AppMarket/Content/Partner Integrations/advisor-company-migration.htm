@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="2598" MadCap:lastWidth="1262">
+    <head>
+    </head>
+    <body>
+        <h1>Advisor, Open and CSP company migration using Microsoft multi-channel capabilities</h1>
+        <p>Channel Admins can migrate customers, companies, users and orders to the AppDirect Marketplace using a migration tool. They do this in order to manage their existing and new customers in one location.</p>
+        <p>Advisor, Open, Direct and CSP are separate and independent Microsoft reseller programs which our partners use to sell Microsoft products.</p>
+        <p>In certain situations Channel Admins need to migrate companies, orders and subscriptions to the AppDirect Marketplace. For example, a channel partner has just adopted the AppDirect platform.</p>
+        <p>To migrate customers from Microsoft reseller programs to the AppDirect Marketplace requires a few steps. This topic focuses on company migrations, not user or subscription migration.</p>
+        <div>
+            <p> NOTE: It is not possible to migrate Advisor,Open, or CSP subscriptions directly to the AppDirect Marketplace. Neither is it possible to directly migrate CSP subscriptions sold by other resellers.</p>
+        </div>
+        <p> <b>Prerequisites</b></p>
+        <ul>
+            <li>The partner must be authorized as a CSP 1-Tier reseller.</li>
+            <li>The customer must be on Advisor, Open or CSP.</li>
+        </ul>
+        <p><b>Procedure</b>
+        </p>
+        <p>To start the migration a partner must use "Microsoft multi-channel tool" to establish a reseller relationship.</p>
+        <ol>
+            <li>The CSP partner sends the customer an invitation to request establishing a CSP relationship with them. For more information please see the <a href="https://support.office.com/en-us/article/Partners-Request-a-reseller-relationship-c0f2a4d0-bc61-4d8c-8696-fbb7eb1135df?ui=en-US&amp;rs=en-US&amp;ad=US">Microsoft Support page</a>.</li>
+            <li>Sign in to the Office 365 Partner center. Select the app launcher icon and choose <b>Partner</b>.</li>
+            <li>In the Partner admin center choose <b>Build your business</b>.</li>
+            <li>Under the Microsoft Cloud Solution Provider (CSP) clients, locate <b>Request CSP relationship</b> and choose the <b>Send Request</b> link.</li>
+            <li>A sample email is displayed. Copy this email message and edit it to create your own customized invitation.</li>
+            <li>Your customer receives your email and selects the URL within the email.</li>
+            <li>They sign into their Office 0365 tenant and are asked to authorize the partnership.</li>
+            <li>The customer can accept the relationship by selecting <b>Authorize CSP</b> if they are an Office 0365 global admin.</li>
+            <li>In the customer's Office 0365 admin portal the CSP partner is displayed as a delegated admin.</li>
+            <li>After a customer accepts the CSP relationship, the company name is displayed in the AppDirect channel console. The synced company is not yet on the AppDirect Marketplace. It must be created using Company Synchronization and that can be done automatically or manually. </li>
+            <li>To do an automatic company sync go to <b>Manage &gt; Channel &gt;Settings</b> Data Sync | <b>Sync Settings</b> and <b>select Create companies automatically</b></li>
+            <li>To sync companies manually go to <b>Manage &gt;Channel &gt; Marketplace &gt;</b> Home | <b>Pending Companies</b>.</li>
+            <li>​Select a {companyName} checkbox and click <b>Create Selected</b> to sync a company into the AppDirect Marketplace.</li>
+            <li>
+                <p>  To check the tenant information was updated for a user, log in as  the Channel Administrator. Go to the  <b>Manage &gt; Channel &gt; Marketplace &gt;</b> Home | <b>Companies</b> and search for a company you migrated. </p>
+                <p>
+                    <img src="Images/verify_domain.png" style="width: 600px;height: auto;" />
+                </p>
+            </li>
+            <li>Inform the Company Administrator they can log into your marketplace. You can do this a few ways:<ol><li>The AppDirect platform does not send activation emails for users that were created using the migration tool. You can enable a registration reminder in Manage &gt;Channel &gt; Settings &gt;Custom UI | Customer Notifications&gt; Accounts&gt;. Once enabled, an activation email is automatically sent to migrated users after 2 days.</li><li>Send an activation link. Go to <b>Manage &gt; Channel &gt; Marketplace &gt; Home &gt; Users</b> | <b>Resend Invitation Email</b>.</li><li>Send an email directly to the Company Administrator and Users which will direct them to reset their password https://&lt;<i>marketplace URL</i>&gt;forgotPassword.</li></ol></li>
+            <li>The CSP partner can now sell new CSP subscriptions to the customer.  When the Advisor, Open or CSP subscriptions expire, CSP subscriptions are automatically assigned on the Microsoft portal. The partner performs a manual reassignment of licenses from the old plan to the new plan.</li>
+        </ol>
+        <div>
+            <div class="note">
+                <p> NOTE: A customer does not have to wait for its license to expire and can cancel old subscriptions before the expiry date. Please contact Microsoft regarding additional cancellation details.</p>
+            </div>
+        </div>
+    </body>
+</html>

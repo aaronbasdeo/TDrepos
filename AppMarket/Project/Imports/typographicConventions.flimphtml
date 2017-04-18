@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="AppMarket"
+  ProjectFolder="C:\Users\robert.gunn\Google Drive\AppMarket\"
+  AutoSync="false"
+  SourceFolders=""
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2017-04-11T15:15:30.5469132-07:00"
+  ImportTopicsLocation="Content/MarketplaceManager/">
+  <Files>
+    <Url
+      Source="../../../../Desktop/junk/typographicConventions.html"
+      AbsoluteSource="file:///C:/Users/robert.gunn/Desktop/junk/typographicConventions.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/MarketplaceManager/typographicConventions.html"
+      TimeStamp="4/11/2017 3:15:23 PM" />
+    <Url
+      Source="../TOCs/typographicConventions.fltoc"
+      TimeStamp="4/11/2017 3:15:30 PM" />
+  </GeneratedFiles>
+</HtmlImport>

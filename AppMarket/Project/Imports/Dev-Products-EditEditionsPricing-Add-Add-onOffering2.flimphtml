@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="AppMarket"
+  ProjectFolder="C:\Users\jBilling\Google Drive\AppMarket\"
+  AutoSync="false"
+  SourceFolders=""
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2017-04-13T13:32:09.0885128-04:00"
+  ImportTopicsLocation="Content/DevCenter/">
+  <Files>
+    <Url
+      Source="../../../../Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Add-Add-onOffering2.html"
+      AbsoluteSource="file:///C:/Users/jBilling/Desktop/Flare/Developer Flare html/Dev-Products-EditEditionsPricing-Add-Add-onOffering2.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/DevCenter/Dev-Products-EditEditionsPricing-Add-Add-onOffering2.html"
+      TimeStamp="2017-04-13 1:32:02 PM" />
+    <Url
+      Source="../TOCs/Dev-Products-EditEditionsPricing-Add-Add-onOffering2.fltoc"
+      TimeStamp="2017-04-13 1:32:08 PM" />
+  </GeneratedFiles>
+</HtmlImport>

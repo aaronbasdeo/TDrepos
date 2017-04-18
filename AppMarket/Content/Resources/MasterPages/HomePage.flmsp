@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="228" MadCap:lastWidth="1269">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="../Stylesheets/StylesForHomePage.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="contentBody" class="off-canvas-main">
+			<div class="page-wrap">
+	        	<MadCap:bodyProxy />
+			</div>
+			<div class="footer">
+				<div class="outer-row">
+					<div class="footer-copyright">
+						<a href="https://www.appdirect.com">© 2017 AppDirect, Inc</a>
+					</div>
+				</div>
+			</div>
+        </div>
+    </body>
+</html>

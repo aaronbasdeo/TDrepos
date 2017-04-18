@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4987" MadCap:lastWidth="1262">
+    <head>
+    </head>
+    <body>
+        <h1>Transition from Syndication to CSP</h1>
+        <p>As part of our support for Microsoft resellers AppDirect works with Microsoft and Microsoft partners and assists them in the move from the current Syndication program to the new CSP program.
+			Syndication is a legacy Microsoft reseller program that allows Microsoft Syndication partners to sell a variety of Microsoft products to their customers. It uses the Microsoft Online Syndication Interface (MOSI) set of Microsoft reseller APIs.
+		The Cloud Solution Provider (CSP) is the reseller program that replaces Syndication. It uses the CREST Microsoft reseller APIs.</p>
+        <p>Warning: All customers must transition to CSP by the end of June 2017.</p>
+        <h4>Prerequisites</h4>
+        <ul>
+            <li>The Dual Commerce feature should be enabled for the Marketplace.
+		</li>
+            <li>All product profiles of deprecated Syndication SKUs should be hidden.
+		</li>
+            <li>Each company that is going to be transitioned must be linked to a Syndication tenant.These companies must not have any deprecated Syndication SKUs. For more information please see the Microsoft table below.
+		</li>
+        </ul>
+        <p>
+            <img alt="" data-rich-file-id="3067" src="https://s3.amazonaws.com/doc-center/rich/rich_files/rich_files/3067/original/mosi-deprecated-offer-table.png" style="width: 1201px; height: 617px;" />
+        </p>
+        <h2>Procedure</h2>
+        <ol>
+            <li>Generate a dataset file. Select the Syndication customers you wish to transition. Go to<strong> Manage &gt; Channel &gt; Marketplace &gt; </strong>Home |<strong> Companies. </strong></li>
+            <li>
+                <p>Search for the companies you would like to transition and click <strong>Download CSV</strong> to download the dataset file. If you require help please contact the AppDirect support team. This is an example of the MOSI CSV file:</p>
+                <p>
+                    <img alt="" data-rich-file-id="3069" src="https://s3.amazonaws.com/doc-center/rich/rich_files/rich_files/3069/original/mosi-csv-example.png" />
+                </p>
+            </li>
+            <li> In the CSV file Name and Company are mandatory.</li>
+            <li> To upload the dataset file go to <strong>Manage &gt; Channel &gt; Settings &gt; </strong>Integration<strong> |Syndication to CSP transitions</strong>.</li>
+            <li>In the Syndication customers section click <strong>Upload Dataset</strong>. Choose your dataset file and click <strong>Upload Dataset</strong> to upload your file. The same dataset can be uploaded multiple times.</li>
+            <li>
+                <img alt="" data-rich-file-id="3070" src="https://s3.amazonaws.com/doc-center/rich/rich_files/rich_files/3070/original/mosi-upload-dataset.png" />
+            </li>
+            <li>A batch entry is created with a status, a Microsoft transition input file and a report.</li>
+            <li>View the Report. It contains the following fields:</li>
+            <li>
+                <ul>
+                    <li>Company ID​</li>
+                    <li>Company Name</li>
+                    <li>Microsoft Customer ID</li>
+                    <li>Status</li>
+                    <li>Error</li>
+                </ul>
+            </li>
+            <li>This is an example of a report:</li>
+            <li>
+                <img alt="" data-rich-file-id="3072" src="https://s3.amazonaws.com/doc-center/rich/rich_files/rich_files/3072/original/example-of-report.png" />
+            </li>
+            <li> View the Microsoft Transition Input File. It contains the following fields:</li>
+            <li>
+                <ul>
+                    <li>Partner Name</li>
+                    <li>Partner MSID</li>
+                </ul>
+            </li>
+            <li>The first 2 lines are the reseller account details. The rest of the lines contain information that Microsoft requires to transition the Syndication tenants and their subscriptions into the CSP. This is an example of transition input file for Microsoft:<br /><img alt="" data-rich-file-id="3071" src="https://s3.amazonaws.com/doc-center/rich/rich_files/rich_files/3071/original/transition-input-file-for-microsoft.png" /></li>
+            <li>Send the Microsoft Transition Input File to Microsoft. This can be an Microsoft account executive who is working with you.</li>
+            <li> Microsoft performs the transition and returns an Output File. This file contains details of the new CSP tenant and Subscription ID information. The Output File contains the following fields:</li>
+            <li>
+                <ul>
+                    <li>Customer Name</li>
+                    <li>Customer Tenant ID</li>
+                    <li>FpoCaid (Internal Microsoft customer identifier)</li>
+                    <li>Mosi Customer ID</li>
+                    <li>Mosi Subscription ID</li>
+                    <li>CSP Subscription ID</li>
+                    <li>CSP Subscription Offer ID</li>
+                    <li>CSP Subscription Start Date</li>
+                    <li>CSP Subscription End Date</li>
+                </ul>
+            </li>
+            <li>Upload the Output File. Go to <strong>Manage &gt; Channel &gt; Settings &gt;</strong> Integration <strong>|Syndication to CSP transitions. </strong></li>
+            <li>In the Transitioned CSP customers and subscriptions section, select <strong>Upload Dataset</strong>.Choose the Output file your received from Microsoft and select <strong>Upload Dataset</strong>.</li>
+            <li> View the report</li>
+            <li>The report includes a list of all companies and subscriptions that were processed as well as a transition status value. It contains the following fields:</li>
+            <li>
+                <ul>
+                    <li>Company ID</li>
+                    <li>Company Name</li>
+                    <li>Domain</li>
+                    <li>Old Subscription ID</li>
+                    <li>New Subscription ID</li>
+                    <li>CSP Offer ID</li>
+                    <li>Transition Status</li>
+                    <li>Error</li>
+                </ul>The AppDirect Marketplace validates the Old Subscription ID in the Output File. If no match is found, the status is marked as Failed.</li>
+            <li>Once transitioned, the companies are linked to CSP tenants and subscriptions.</li>
+        </ol>
+    </body>
+</html>

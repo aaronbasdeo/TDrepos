@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Left" PageType="left" Width="612pt" Height="792pt" Padding="0.25in" PageSize="Letter" Orientation="portrait">
+        <Frame Flow="header" Width="468pt" Height="10.00008pt" X="72pt" Y="46.8pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="Header" style="text-align: justify; font-family: 'Aaux Next Regular'; font-weight: normal; font-style: normal; font-size: 7pt; letter-spacing: 0em; color: #003d51; line-height: 8pt; text-decoration: none;"><a name="appdx-po-states_882093397_1301431"></a><b><MadCap:variable name="UG_2015-Q3revA.Chapter Title Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />:&#160;</b> <MadCap:variable name="Heading.Level1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Width="468pt" Height="10.00008pt" X="72pt" Y="748.0001pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="z__Footer"><a name="appdx-po-states_882093397_1301438"></a><b>Page&#160;<MadCap:variable name="System.PageNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></b>	AppDirect™ <i style="font-family: 'Myriad Pro'; font-style: italic;">The cloud service monetization and management platform</i>	<MadCap:variable name="UG_2015-Q3revA.RevisionID" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" Width="468pt" Height="638.6249pt" X="72pt" Y="81.37512pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p><a name="appdx-po-states_882093397_1301439"></a>
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Right" PageType="right" Width="612pt" Height="792pt" Padding="0.25in" PageSize="Letter" Orientation="portrait">
+        <Frame Flow="header" Width="468pt" Height="10.00008pt" X="72pt" Y="46.8pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="Header" style="text-align: justify; margin-top: 0pt; margin-bottom: 0pt; font-family: 'Aaux Next Regular'; font-weight: normal; font-style: normal; font-size: 7pt; letter-spacing: 0em; color: #003d51; text-decoration: none;"><a name="appdx-po-states_882093397_1301455"></a>	<b><MadCap:variable name="UG_2015-Q3revA.Chapter Title Name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />:&#160;</b>&#160;<MadCap:variable name="Heading.Level1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Width="468pt" Height="10.00008pt" X="72pt" Y="748.0001pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="z__Footer"><a name="appdx-po-states_882093397_1301462"></a><MadCap:variable name="UG_2015-Q3revA.RevisionID" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />	AppDirect™ <i style="font-family: 'Myriad Pro'; font-style: italic;">The cloud service monetization and management platform</i>	<b>Page&#160;<MadCap:variable name="System.PageNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></b></p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" Width="468pt" Height="638.6249pt" X="72pt" Y="81.37512pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p style="margin-top: 8pt; margin-bottom: 8pt; font-family: 'Myriad Pro'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #000000; text-indent: 24px; line-height: 16pt; text-decoration: none;"><a name="appdx-po-states_882093397_1301463"></a>
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>
